@@ -1,2 +1,3 @@
 .DS_Store  
-prs.json 
+importer/body-tmp.txt
+importer/*.json 
