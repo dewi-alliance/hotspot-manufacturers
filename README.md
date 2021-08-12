@@ -11,7 +11,7 @@ For a detailed walkthrough of how to submit your own appliation, please see [How
 The status of manufacturers in progress can be [viewed here](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
 
 # Step by step how-to 
-Also available at [this link] (https://docs.google.com/document/d/1_Z9In5uIrz-bCxIntVoWdSt-ve-5RUT-P2AkscgWq7M) 
+Also available at [this link](https://docs.google.com/document/d/1_Z9In5uIrz-bCxIntVoWdSt-ve-5RUT-P2AkscgWq7M) 
 
 # Manufacturer Onboarding
 
