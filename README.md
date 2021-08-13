@@ -1,10 +1,10 @@
 # Hotspot Manufacturers
 
-Hub for Helium hotspot manufacturer applications and the Manufacturer Oversight Committee (MOC)
+Hub for Helium hotspot manufacturer applications and the Manufacturer Oversight Committee (MOC).
 
-For details on the manufacturer approval process, please see [HIP19: Approval Process For Third-Party Manufacturers](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
+For details on the manufacturer approval process, please see [HIP19: Approval Process For Third-Party Manufacturers.](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
-For a detailed walkthrough of how to submit your own appliation, please see [How to submit a Helium hotspot manufacturer application](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/)
+For a detailed walkthrough of how to submit your own application, please see [How to submit a Helium hotspot manufacturer application.](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/)
 
 # Currently open manufacturers
 
