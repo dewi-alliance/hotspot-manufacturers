@@ -1,4 +1,4 @@
-# hotspot-manufacturers
+# Hotspot Manufacturers
 
 Hub for Helium hotspot manufacturer applications and the Manufacturer Oversight Committee (MOC)
 
