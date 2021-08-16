@@ -8,10 +8,10 @@ For a detailed walkthrough of how to submit your own application, please see [Ho
 
 # Currently open manufacturers
 
-The status of manufacturers in progress can be [viewed here](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
+The status of manufacturers in progress can be [viewed here].(https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
 
 # Step by step how-to 
-Also available at [this link](https://docs.google.com/document/d/1_Z9In5uIrz-bCxIntVoWdSt-ve-5RUT-P2AkscgWq7M) 
+Also available at [this link].(https://docs.google.com/document/d/1_Z9In5uIrz-bCxIntVoWdSt-ve-5RUT-P2AkscgWq7M) 
 
 # Manufacturer Onboarding
 
@@ -38,13 +38,12 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  
 ## Complete Onboarding Integration 
  The onboarding integration ensures your hotspot will be recognized by the blockchain and Hotspot owners are able to appropriately provide proof of coverage and mine HNT.
- Instructions to add your hotspot to the Helium app 
- Integrate with the onboarding server 
+ Instructions to add your hotspot to the Helium app and integrate with the onboarding server. 
  Please reach out to coco@helium.com to add a test hotspot to the onboarding server.
  Once you’ve successfully hit the API endpoint, you’ve completed this task.
  
 ## Complete Radio Certification
- FCC/CE/WPC or other applicable radio certification
+ FCC/CE/WPC or other applicable radio certification.
  Provide certification for the geography where you plan to take orders.
 
  
