@@ -4,62 +4,34 @@
 ## Summary
 
 We would be acting as Sole Distributor , Reseller and After Sales Services Provider for ClodPi Labs (India) Private Limited for India Region.
+It is becoming evident that LoRaWAN is the go-to WAN of the IOT world. Considering the rate of adoption and the growing demand, we understand that factors such as reliable distribution and solution integration/provision are of significant importance to further enhance the adoption and usability of the network
+We at BGC-Fi Technologies, seek to empower the people’s network by becoming a reliable distributor cum solutions integrator by leveraging the collective expertise of our team as well as our partners
+*	We have currently partnered with ClodPi Labs (India) Private Limited 
+*	Our intention is to also serve end user market as things move forward
 
 ## Company Information (required)
 
-* What is your company name? BGC-Fi Tecchnologies
-* How long have you been in business? New Entity for Radio Sales Business
-* What kind of products have you created? N/A
-* How many have you sold? None - new to Helium Hotspot sales, Already in business of Other Mining Equipment sales from almost 6 Years.
-* What brought you to Helium etc? Community demand 
+BGC-Fi Tecchnologies is New Entity for Radio Sales Business. We are new to Helium Hotspot sales, Already in business of Other Mining Equipment sales from almost 6 Years.
+BGC-Fi Tecchnologies. Is a Partnership Firm In INDIA . The founders of our company are from the tech industry while also being enthusiasts/advocates of crypto projects with real-world solutions. We believe that the people’s network is here to solve the real-world problems of both today and the future. As a result, in addition to partnering with hotspot manufacturers, we have been working on becoming a reliable distributor cum systems integrator by leveraging the expertise of our team. 
 
-## Product Information (required) >> N/A ( will be taken care by ClodPi Labs (India) Private Limited )
-
-Your time to shine! What are you building? What’s so great about it? We will be making the necessary aftersales including proper installations , to make the network work most efficiently. And miners get better coverage .
-* What is your approximate price point? USD 500 to USD 750 ( Indoor & Outdoor models respectively )
-* Detailed hardware designs, including relevant parts 
-* Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
-* Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
-* What is your expected production and delivery timeline?
-Photos and videos welcome.
-
-## Previous shipments (required) >> N/A New Association with ClodPi Labs (India) Private Limited , to make this bottleneck resolved and faster delivery+installation to all the clients 
-
-Startups welcome! Answer No if that's the answer.
-* Have you shipped anything in the past? NO
-* Which countries have you previously shipped regulatory FCC or CE approved products? N/A
-* Which countries do you plan to ship to? INDIA
+## Product Information (required)
+Not applicable since this application is for becoming a distributor , will be taken care by ClodPi Labs (India) Private Limited
 
 ## Customer Support (required)
 
-* How will your customers be able to contact you for support for your products? >> Toll Free Numbers for India, Whatsapp Support & Video support available 9am to 9pm for 6 Days a week.
-* For how long? How are you planning to handle repairs and replacements? >>  2 Years
+We have already managed a Toll Free Numbers for India, Whatsapp Support & Video support available 9am to 8pm for 6 Days a week.
+A discord channel along with a ticketing system within our website are also being worked on for ease of use for our customers.
+To Ease the Hassles of Manufacturer , we will be providing Services to Clients with our Existing After Sales Service center network available across metro cities in India. 
+We will settle the Warranty issue monthly with manufacturer or as per mutual consent.
 
-## Hardware Security Element (required) >> N/A ( will be taken care by ClodPi Labs (India) Private Limited )
+## Hardware Security Element (required) 
+Not applicable since this application is for becoming a distributor , will be taken care by ClodPi Labs (India) Private Limited
 
-The community is concerned about devices that can be easily hacked, specifically by copying their `swarm_key` files. Applications should include plan for how the devices will be secured, potentially including:
+## Hardware Information (required) 
+Not applicable since this application is for becoming a distributor , will be taken care by ClodPi Labs (India) Private Limited
 
-* Encrypted/locked-down firmware
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip
-* Encrypted buses, potting and other anti-tampering measures.
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)
-
-## Hardware Information (required) >> N/A ( will be taken care by ClodPi Labs (India) Private Limited )
-
-Please let us know:
-* Which security (swarm) element are you using?
-* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-* We recommend you don't use the SX1301 in new designs
-* Where are you sourcing your components from?
-* How many radio modules/ concentrators can you procure?
-
-## Manufacturing Information (required) >> N/A ( will be taken care by ClodPi Labs (India) Private Limited )
-
-* Have you built and delivered radio hardware products before?
-* Have you built gateways before?
-* How many gateways did you make?
-* If you have not built gateways before, are you using a third party manufacturer?
-This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+## Manufacturing Information (required)
+Not applicable since this application is for becoming a distributor , will be taken care by ClodPi Labs (India) Private Limited
 
 ## Proof of Identity
 
@@ -67,12 +39,13 @@ Will be shared in Private
 
 ## Budget & Capital (required)
 
-* How many of these are you hoping to make and sell? >> ( To be produced by ClodPi Labs (India) Private Limited & Sold + Serviced by Us ) approx 20000 gateways by Feb 2022
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? >> We will provide sufficient liquidity to ClodPi Labs (India) Private Limited to help them manufacture goods and delivery in time , without cash crunch
+Starting with sufficient amount of Captial so we can manage to Sales + Serviced approx 20000 gateways by Feb 2022, We have much liquidity available and can raise more funds from Banking system if required to cater the required funding . We have adequate investment/funding in place 
 
 ## Risks & Challenges (required)
 
 Product is already a reality with ClodPi Labs (India) Private Limited , we will make the network a bigger & better reality with Joint efforts. So It eliminates all the risks involved with us on Hardware side.
+We acknowledge that the he prevalent electronic component shortage for manufacturers and the logistics delay caused by the current pandemic could be a risk factor. 
+We would work to the best of our abilities to ensure that there are no delays in shipment etc., in addition to ensuring that our customers always get the best overall experience possible
 
 
 ## Other information (required)
