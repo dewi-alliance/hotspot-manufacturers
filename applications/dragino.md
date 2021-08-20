@@ -28,7 +28,8 @@ We have made new gateway versions with the ECC chip , aiming to provide Hotspot 
 
 The new products include below:
 * HP0D: Outdoor Miner Version supports PoE power / optional 4G module.
-
+Already finished design and in Hardware Audit Process. Photo as below: 
+![](images/HP0D_1.jpg "HP0D for Helium Miner") 
 
 
 
