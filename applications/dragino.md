@@ -3,25 +3,34 @@
 
 ## Summary
 
-Our mission is to provide the cost-effective version of Helium hotspot to help the fast spread for Helium network. 
+Our mission is to provide the cost-effective version of Helium miner and light hotspots to help the fast spread for Helium network. 
 
 ## Company Information
 
-Shenzhen Dragino Technology Development co. LTD (Company Website: https://www.dragino.com) is based in Shenzhen, China. We are established in 2013, the company focus on IoT hardware manufactured. We started to manufacture LoRa / LoRaWAN end nodes and gateway since 2015. The company mainly focus on the LoRaWAN hardware solution. The team has good experienced on LoRaWAN End Node and Gateway hardware and software design. 
+Shenzhen Dragino Technology Development co. LTD (Company Website: https://www.dragino.com) is based in Shenzhen, China. We established in 2013, the company focus on IoT hardware manufactured. We started to manufacture LoRa / LoRaWAN end nodes and gateway since 2015. The company mainly focus on the LoRaWAN and IoT hardware solution. The team has good experienced on LoRaWAN End Node and Gateway hardware and software design. 
 
-We have more than 20 distributors all over the world so user is convinient to get Dragino products for Helium Network. So far, the Dragino has manufacture a great volume of gateways and used world widely.
+Dragino has more than 20 distributors all over the world. We plan to spread the Helium Miner and light hotspots through our distribute channels, we believe this will help user to more easily to get our products. Dragino Distributor List can be found on the (Distributor list: https://www.dragino.com/buy.html). So far, the Dragino has manufactured a great volume of gateways and used world widely.
 
 ## Product Information
 
+### Current Products: 
 The company products list can be found here: http://www.dragino.com/products/products-list.html. 
 
-Some of the LoRaWAN gateways are already been tested and used as light hotspot in Helium such as:
+Some of Dragino LoRaWAN gateways are already been tested and used as data transfer light hotspot in Helium such as:
 * LPS8: http://www.dragino.com/products/lora-lorawan-gateway/item/148-lps8.html 
 * DLOS: http://www.dragino.com/products/lora-lorawan-gateway/item/160-dlos8.html 
+* LIG16: https://www.dragino.com/products/lora-lorawan-gateway/item/171-lig16.html 
+* LG308: https://www.dragino.com/products/lora-lorawan-gateway/item/140-lg308.html 
 
-We will prototype a new gateway version with the ECC chip , aiming to provide Hotspot & Light Hotspot version in Helium. Any idea for the easy use in Helium is welcome. 
+### In process products for Helium Miner & Light HotSpot. 
 
-The new prototype will have similiar function as LPS8 with the add on ECC chip as the main difference. 
+We have made new gateway versions with the ECC chip , aiming to provide Hotspot & Light Hotspot version in Helium. 
+
+The new products include below:
+* HP0D: Outdoor Miner Version supports PoE power / optional 4G module.
+
+
+
 
 The plan for the release of new prototype is 2021, April. Delay to May. 
 
