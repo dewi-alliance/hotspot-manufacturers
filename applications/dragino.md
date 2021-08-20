@@ -11,9 +11,8 @@ Our mission is to provide the cost-effective version of Helium miner and light h
 
 Dragino has more than 20 distributors all over the world. We plan to spread the Helium Miner and light hotspots through our distribute channels, we believe this will help user to more easily to get our products. Dragino Distributor List can be found on the [Distributor list](https://www.dragino.com/buy.html). So far, the Dragino has manufactured a great volume of gateways and used world widely.
 
-## Product Information
-
-### Current Products: 
+## Current Product Information
+ 
 The company products list can be found in [Product List](http://www.dragino.com/products/products-list.html). 
 
 Some of Dragino LoRaWAN gateways are already been tested and used as data transfer light hotspot in Helium such as:
@@ -22,20 +21,38 @@ Some of Dragino LoRaWAN gateways are already been tested and used as data transf
 * [LIG16](https://www.dragino.com/products/lora-lorawan-gateway/item/171-lig16.html): Indoor LoRaWAN Gateway Base on SX1302
 * [LG308](https://www.dragino.com/products/lora-lorawan-gateway/item/140-lg308.html): Indoor LoRaWAN Gateway with optional 4G connection
 
-### In process products for Helium Miner & Light HotSpot. 
+## In process products for Helium Miner & Light HotSpot. 
 
 We have made new gateway versions with the ECC chip , aiming to provide Hotspot & Light Hotspot version in Helium. 
 
 The new products include below:
-* HP0D: Outdoor Miner Version supports PoE power / optional 4G module.
+
+### HP0D: Outdoor Miner Version supports PoE power / optional 4G module.
+
 Already finished design and in Hardware Audit Process. Photo as below: 
-![](images/HP0D_1.jpg "HP0D for Helium Miner") 
+
+<img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0D_10.png">
+
+<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0D_system_structure.png">
 
 
+### HP0A: Outdoor Light Hotspot Version supports PoE power / optional 4G module.
 
-The plan for the release of new prototype is 2021, April. Delay to May. 
+Already finished design and in Hardware Audit Process. Photo as below: 
 
-As per the concept of Helium, we will try to make the device retail cost to lower than or similiar to $100 so to help the spreading the network in large scale. 
+<img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0A_10.jpg">
+
+<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0A_Structure.png">
+
+
+### HP0C: Indoor Light Hotspot Version.
+
+Already finished design and in Hardware Audit Process. Photo as below: 
+
+<img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_10.jpg">
+
+<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure.png">
+
 
 
 ## Customer Support
@@ -44,29 +61,33 @@ We will provide the Helium support gateway to our distribution channels so user 
 
 We also provide support via :
 * Helium Discord Channel. 
-* Company mail box. IM. 
+* [Support Mail box](support@dragino.com). 
+* IM. 
 
 ## Hardware Security
 
-We will put ECC Chip (ATECC608B) in the new model design for Helium. And we will also consider to add the ECC Chip to our currnet LoRaWAN productino model to support the secure requirement from Helium. This will provide more options to customer for their user case. 
+The new miner or light hotspot designed for Helium will support ECC chip base on ATECC608.
 
-We are also considering to put the ECC chip on a LoRaWAN concentrator module base on SX1302. This will enable the possibility to build the hotspot base on RPI which will be more powerful. 
 
 ## Manufacturing Information
 
-Dragino has good experienced on the manufacturing of LoRaWAN devices since 2015. We will provide good quality / easy use hotspot for Helium 
+Dragino has good experienced on the manufacturing of LoRaWAN devices since 2015. We will provide good quality / easy use hotspot for Helium.
+
 
 ## Proof of Identity
 
 To be submitted privately to DeWi.
 
+
 ## Budget & Capital
 
 We aim to produce 5000 ~ 10,000pcs per batch and the volume is flexible. 
 
+
 ## Risks & Challenges
 
 We have good experienced in production and quality control for LoRaWAN gateway. The main Risk & Challenges is the IC shortage in 2021. We will plan in advance and secure enough stock in order to solve this issue. 
+
 
 ## Other information
 
@@ -76,5 +97,5 @@ We have good experienced in production and quality control for LoRaWAN gateway. 
 * Other social profiles -  
 	YouTube: [Dragino YouTube](https://www.youtube.com/channel/UCcMM0EXbv842yx-Kd052sAg)
 * Website - https://www.dragino.com
-* Payment methods available – Most credit cards including Visa, Mastercard, AMEX, Apple Pay, JCB, AliPay, UnionPay, Wechat Pay . and bank transfer.
+* Payment methods available – Most credit cards including Visa, Mastercard, AMEX, Apple Pay, JCB, AliPay, UnionPay, Wechat Pay . And bank transfer.
 * Regions covered / shipped to – Worldwide
