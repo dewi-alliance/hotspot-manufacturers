@@ -68,7 +68,7 @@ Bobcat can provide customer support via:
 
 ## Hardware Security Amendment ##
 
-Currently we use ATECC608 encryption chip for swarm key storage, we now propose an alternative encryption implementation DX83E08 from [Shanghai Dongxin Microelectronics](http://www.chipsec.com/), which has equivalent ecryption capabilities. Here is the [Datasheet](./bobcat/DX83E08.pdf).
+Currently we use ATECC608 encryption chip for swarm key storage, we now propose an alternative encryption implementation DX83E08 which has equivalent ecryption capabilities from [Shanghai Dongxin Microelectronics](http://www.chipsec.com/) to be used on both full hotspots(bobcat miner 300) and future light hotspots series. Here is the [Datasheet](./bobcat/DX83E08.pdf).
 
 DX83E08 supports the following Algorithm:
 
