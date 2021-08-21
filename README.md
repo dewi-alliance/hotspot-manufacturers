@@ -24,10 +24,10 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Reach out to scott@dewi.org and sophi@dewi.org for KYC requirements
  
 ## Fees (beginning August 2021)
- HIP19 proposal (administrative costs for application review): $500
- DeWi KYC: $1500
- Hardware Audit: if using ECC608 for security: $3000. 
- Other security implementations: $4000
+ * HIP19 proposal (administrative costs for application review): $500
+ * DeWi KYC: $1500
+ * Hardware Audit: if using ECC608 for security: $3000. 
+ * Other security implementations: $4000
  
  Please ask sophi@dewi.org or scott@dewi.org for an invoice.
  
@@ -38,11 +38,11 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in HIP7.
  
 ## Send Hotspot for Hardware Audit 
- Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
- The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
- At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
- More details about the hardware audit can be reviewed here. Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
- Please reach out to louis@helium.com and sophi@dewi.org to start this part of the process. 
+ * Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
+ * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
+ * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
+ * More details about the hardware audit can be reviewed here. Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
+ * Please reach out to louis@helium.com and sophi@dewi.org to start this part of the process. 
  
 ## Complete Onboarding Integration 
  The onboarding integration ensures your hotspot will be recognized by the blockchain and Hotspot owners are able to appropriately provide proof of coverage and mine HNT.
