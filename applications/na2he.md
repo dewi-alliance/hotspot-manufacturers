@@ -29,15 +29,15 @@ Note: the indoor version is still under development and will be continuously upd
 4．Network connectivity 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless <br />
 5．Lorawan Smart temperature sensor 
 
-![avatar](./Na2He/1.jpg)<br />
+![avatar](./na2he/1.jpg)<br />
 
-![avatar](./Na2He/2.jpg)<br />
+![avatar](./na2he/2.jpg)<br />
 
-![avatar](./Na2He/3.jpg)<br />
+![avatar](./na2he/3.jpg)<br />
 
-![avatar](./Na2He/4.jpg)<br />
+![avatar](./na2he/4.jpg)<br />
 
-![avatar](./Na2He/5.jpg)<br />
+![avatar](./na2he/5.jpg)<br />
 
 It runs on the arm hardware platform, the operating system is Linux, and the software remote upgrade is realized through network ports, GPRS and other networks
 1. Regularly send a request to the server to report the current version and receive files
