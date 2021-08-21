@@ -23,7 +23,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Overview of HIP19 (Manufacturer Approvals)
  Reach out to scott@dewi.org and sophi@dewi.org for KYC requirements
  
-## Fees (as August 2021)
+## Fees (beginning August 2021)
  HIP19 proposal (administrative costs for application review): $500
  DeWi KYC: $1500
  Hardware Audit: if using ECC608 for security: $3000. 
@@ -33,14 +33,14 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
- Fill it out; if you have questions or concerns about a particular question, just leave it blank and ask on GitHub or on Discord.
- Submit a pull request
- Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in HIP7
+ Fill it out; if you have questions or concerns about a particular question, ask on GitHub or on Discord. Many questions are required, and leaving blank will delay your application.
+ Submit a pull request.
+ Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in HIP7.
  
 ## Send Hotspot for Hardware Audit 
  Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
  The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
- At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the    Miner or the Light Gateway application
+ At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
  More details about the hardware audit can be reviewed here. Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
  Please reach out to louis@helium.com and sophi@dewi.org to start this part of the process. 
  
@@ -53,7 +53,6 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 ## Complete Radio Certification
  FCC/CE/WPC or other applicable radio certification.
  Provide certification for the geography where you plan to take orders.
-
  
 ## Manufacturing Oversight Committee Approval
  This is the final step before DeWi provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
