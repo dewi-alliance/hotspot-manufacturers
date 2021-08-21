@@ -1,4 +1,4 @@
-# XIAMEN IOTCOMM TECHNOLOGY CO.,LTD. 
+# IOTCOMM
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
@@ -89,7 +89,7 @@ There might exist challenges from the worldwide shortage of chips and accessorie
 * Twitter profile - 
 * Facebook profile - 
 * Other social profiles - 
-* Website -[iotcomm.com](http://www.iotcomm.com/)
-* Contact info -expected price point(Please contact with IOTCOMM Project manager xian.huang@iotcomm.com)
+* Website -[iotcomm.net](http://www.iotcomm.net/)
+* Contact info -expected price point(Please contact with IOTCOMM Sales manager sales@iotcomm.net)
 * Payment methods available - Credit card or PayPal
 * Regions covered / shipped to - Global
