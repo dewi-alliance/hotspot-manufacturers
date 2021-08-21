@@ -23,6 +23,14 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Overview of HIP19 (Manufacturer Approvals)
  Reach out to scott@dewi.org and sophi@dewi.org for KYC requirements
  
+## Fees (as August 2021)
+ HIP19 proposal (administrative costs for application review): $500
+ DeWi KYC: $1500
+ Hardware Audit: if using ECC608 for security: $3000. 
+ Other security implementations: $4000
+ 
+ Please ask sophi@dewi.org or scott@dewi.org for an invoice.
+ 
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
  Fill it out; if you have questions or concerns about a particular question, just leave it blank and ask on GitHub or on Discord.
