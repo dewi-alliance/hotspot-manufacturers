@@ -69,7 +69,7 @@ The product is ready. After MOC, 4-6weeks can deliver
 
 * Have you shipped anything in the past? <font color=Coral>Yes</font> <br />
 
-* Which countries have you previously shipped regulatory FCC or CE approved products? <font color=Coral>SiChuan, JiangXi, Thailand</font>
+* Which countries have you previously shipped regulatory FCC or CE approved products? <font color=Coral>NO</font>
 
 
 ## Customer Support (required)
@@ -83,18 +83,15 @@ We have the local telephone and e-mail in China on the official website. In orde
  We promise to provide 18 months of free warranty. The company has its own independent warehouse. We will provide replacement service in the shortest time(in 1 week in china) due to the failure caused by the hardware of the equipment itself.
 
 ## Hardware Security Element (required)
-* Encrypted/locked-down firmware<br />
-Encrypted
+* Encrypted/locked-down firmware <br />
+Yes
 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip<br />
-ECC chip
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip<br /> Yes
 
-* Encrypted buses, potting and other anti-tampering measures.<br />
+* Encrypted buses, potting and other anti-tampering measures.<br />Yes
 
- Encryption chip ecc608, bus II2C
 
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) <br />
-Pass
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) <br />Yes
 
 
 ## Hardware Information (required)
