@@ -107,7 +107,7 @@ Startups welcome! Answer No if that's the answer.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 ``Middle east(United Arab Emirates)``
 * Which countries do you plan to ship to? 
-``Local turkey,Europe and Middle east (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain and Jordan)``
+``Local turkey,Europe and Middle east (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain)``
 
 ## Customer Support (required)
 
@@ -173,4 +173,4 @@ Contact info - Email : ``info@smart-host.com.tr``
 
 Payment methods available - ``CRYPTOCURRENCY - TURKEY LOCAL BANKS - CREDIT CARDS``
 
-Regions covered / shipped to - ``Europe, Middle East (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain and Jordan) and local Turkey``
+Regions covered / shipped to - ``Europe, Middle East (Kuwait, Saudi Arabia, United Arab Emirates, Lebanon, Egypt, Qatar, Bahrain) and local Turkey``
