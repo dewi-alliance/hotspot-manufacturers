@@ -1,7 +1,7 @@
-YOUR NAME
+## YOUR NAME
 
 Application to become an approved third party manufacturer as per HIP19
-##Summary
+## Summary
 
 ## Company Information (required)
 * What is your company name?
@@ -11,20 +11,23 @@ Application to become an approved third party manufacturer as per HIP19
 * What brought you to Helium etc? 
 
 ## Product Information (required)
-Your time to shine! What are you building? What’s so great about it?
+* Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
+* Is it for indoor or outdoor?
+* Please provide a brief description of what you're making?
 
-## What is your approximate price point?
+## What is your approximate price point? (required)
 
-## Please provide detailed hardware designs, including relevant parts    
+## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
-Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+Your plan for software setup and configuration for the devices. 
+This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
-## What is your expected production and delivery timeline? 
+## What is your expected production and delivery timeline? (required)
 
 ## Previous shipments (required)
 
-## Startups welcome! Answer No if that's the answer.
-* Have you shipped anything in the past? 
+## Startups welcome! 
+* Have you shipped anything in the past? Yes or No.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * Which countries do you plan to ship to? 
 
@@ -77,5 +80,5 @@ Please tell us about some of the challenges that would prevent these products fr
 
 ## Payment methods available 
 
-## Which countries do you plan to ship to? (required)
+## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
