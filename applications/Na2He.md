@@ -40,15 +40,15 @@ Note: the indoor version is still under development and will be continuously upd
 
 * Evidence of a functioning prototype - photos<br />
 
-![Product](./na2he/1.jpg)<br />
+![Product](https://github.com/Na2Heiot/hotspot-manufacturers/tree/main/applications/na2he/1.jpg)<br />
 	
-![Product](./na2he/2.jpg)<br />
+![Product](https://github.com/Na2Heiot/hotspot-manufacturers/tree/main/applications/na2he/2.jpg)<br />
 
-![Product](./na2he/3.jpg)<br />
+![Product](https://github.com/Na2Heiot/hotspot-manufacturers/tree/main/applications/na2he/3.jpg)<br />
 
-![Product](./na2he/4.jpg)<br />
+![Product](.https://github.com/Na2Heiot/hotspot-manufacturers/tree/main/applications/na2he/4.jpg)<br />
 
-![Product](./na2he/5.jpg)<br />
+![Product](https://github.com/Na2Heiot/hotspot-manufacturers/tree/main/applications/na2he/5.jpg)<br />
 
 It runs on the arm hardware platform, the operating system is Linux.
 
