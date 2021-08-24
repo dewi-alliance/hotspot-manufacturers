@@ -9,7 +9,7 @@ We hope to better establish Lora's leading position in the communication field a
 
 * Our intention is to build all gateways, including light gateway and full gateway
 
-## Company Information (required)
+## Company Information 
 
 * What is your company name?&emsp;Na2He Technology Co., Ltd
 
@@ -21,7 +21,7 @@ We hope to better establish Lora's leading position in the communication field a
 
 * What brought you to Helium etc?&emsp;Digital currency is a new economic growth point, and digital currency transactions are legal in the United States. In order not to lose competitiveness in this field in the next few years, we have been paying attention to the relevant developments of digital currency. We understand that helium is open to applications from various equipment manufacturers. We are willing to take this opportunity to provide our hardware technology to help realize the development of decentralized network
 
-## Product Information (required)
+## Product Information 
 
 Na2he for helium hotspot miner, outdoor version, 
 
@@ -65,14 +65,14 @@ Software remote upgrade is realized through network ports, GPRS and other networ
 Produc<br />
 The product is ready. After MOC, 4-6weeks can deliver
 
-## Previous shipments (required)
+## Previous shipments 
 
 * Have you shipped anything in the past? <font color=Coral>Yes</font> <br />
 
 * Which countries have you previously shipped regulatory FCC or CE approved products? <font color=Coral>NO</font>
 
 
-## Customer Support (required)
+## Customer Support
 
 * How will your customers be able to contact you for support for your products?<br />
 
@@ -82,7 +82,7 @@ We have the local telephone and e-mail in China on the official website. In orde
 
  We promise to provide 18 months of free warranty. The company has its own independent warehouse. We will provide replacement service in the shortest time(in 1 week in china) due to the failure caused by the hardware of the equipment itself.
 
-## Hardware Security Element (required)
+## Hardware Security Element
 * Encrypted/locked-down firmware <br />
 Yes
 
@@ -94,7 +94,7 @@ Yes
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) <br />Yes
 
 
-## Hardware Information (required)
+## Hardware Information 
 
 * Which security (swarm) element are you using? <br />
 
@@ -112,7 +112,7 @@ Original factory and authorized agent
 Let's discuss in private
 
 
-## Manufacturing Information (required)
+## Manufacturing Information
 
 * Have you built and delivered radio hardware products before? 
 <font color=Coral>Yes</font>
@@ -134,7 +134,7 @@ The company has its own hardware production team, production workshop and produc
 
 To be submitted in private.
 
-## Budget & Capital (required)
+## Budget & Capital 
 
 * How many of these are you hoping to make and sell?<br />
 We plan to sell 100000 ~ 200000 sets of equipment
@@ -146,7 +146,7 @@ on-hand: $1 million.
 * What is your plan for additional financing if required? <br />
 We are planning to attract other investors to join us
 
-## Risks & Challenges (required)
+## Risks & Challenges
 
 * Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them. <br />
 We are faced with more effective cost reduction so that miners can buy our products at a lower price. We're not worried about it
@@ -155,7 +155,7 @@ In the current market, purchasing parts is still challenging - some supply chain
 
 
 
-## Other information (required)
+## Other information
 
 * Contact info (* required) - &emsp;<font color=blue>na2heiot@gmail.com</font> 
 * Discord supports channel : [na2he](https://discord.gg/jWnVsreEZW)
