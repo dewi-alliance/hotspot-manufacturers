@@ -98,7 +98,7 @@ Yes
 
 * Which security (swarm) element are you using? <br />
 
-Hardware encryption chip
+ATECC608 
 
 
 * Which LoRa chipset are you planning to use in your gateway <br />
@@ -109,7 +109,7 @@ LoRa  SX1302 +1250
 Original factory and authorized agent
 
 * How many radio modules/ concentrators can you procure? <br />
-Let's discuss in private
+ 6000 per month
 
 
 ## Manufacturing Information
@@ -162,6 +162,6 @@ In the current market, purchasing parts is still challenging - some supply chain
 * Twitter profile - @Na2HeTech
 * Facebook profile - No
 * Other social profiles - No
-* Website -&emsp; [http://www.e-ai.net/](http://www.e-ai.net/)
+* Website -&emsp; [http://www.na2he.com/](http://www.na2he.com/)
 * Payment methods available -   &emsp; paybal / unionpay / visa
 * Regions covered / shipped to - &emsp; Outdoor gateway only in china
