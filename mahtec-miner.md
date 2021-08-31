@@ -1,5 +1,5 @@
-## YOUR NAME
-* Mahtec Miner
+# Mahtec Miner
+### Application to become an approved third party Distributor as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
 * We are a multidisciplinary team with extensive experience in the mining, cryptocurrency and internet of things (IoT) sectors. We also have great professionals from the world of marketing, telecommunications and computer engineers.
