@@ -1,5 +1,5 @@
 KauZ LLC (Trimen LLC)
-Application to become an approved third party manufacturer as per HIP19
+Application to become an approved third party manufacturer as per HIP19.
 Summary
 Kauz LLC is a subsidiary of Trimen LLC, a company from the Ukraine that specializes in development, production and serial production of devices observation and aiming with the introduction of modern technologies for armaments and military equipment.
 
@@ -20,30 +20,38 @@ In our opinion Helium is the first blockchain trying to solve something that is 
 Product Information
 We are building a new breed of gateways that are more attractive and more compact.
 
-Helium Hotspot Miner Features ($450-$550):
+Helium Hotspot Miner Features ($500-$600):
 
-Concentrator based on the Semtech SX1302/SX1303/SX1308 with ADR (with different LoRaWan, Wi-Fi and GPS antenna)
-Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-Raspberry PI Compute Module 4 (32 GB Storage, 2GB RAM) with Wi-Fi and BT
-ECC608 encryption chip for swarm keys storage
-Motherboard can be swapped between 2 cases (indoor and outdoor)
-Built-in heatsink for better temperature management
-Power AC/DC unit from 5 to 12 volt (PoE+ 802.3at develop)
-Local Web dashboard for easy diagnostics and reporting
-Remote Management console
-Different methods of onboarding (BLE, local web onboarding, remote onboarding)
-Automatic self diagnostic and repair.
-Graceful shutdown in case of power failure
+Concentrator based on the Semtech SX1302/SX1303/SX1308 with ADR (priority SX1303/SX1302, SX1250 radio and SX1261 with different LoRaWAN, Wi-Fi/BT and GPS antenna);
+Frequency band: 470MHz/868MHz/915MHz/923MHz and other;
+Raspberry PI Compute Module 4 (32 GB Storage, 2GB RAM) with Wi-Fi and BT (or other SoM based on Allwinner H6, Rockchip RK3328 or Amlogic S905X);
+ECC608 encryption chip for swarm keys storage (or STSAFA110, DS28C39, DS28C40);
+Motherboard can be swapped between 2 cases (indoor or outdoor);
+Built-in heatsink for better temperature management;
+Power AC/DC unit from 5 to 12 volt (PoE+ 802.3at develop);
+Local Web dashboard for easy diagnostics and reporting;
+Remote Management console;
+Built-in GPS module with GPS antenna;
+Work with Helium software;
+Different methods of onboarding (BLE, local web onboarding, remote onboarding);
+Automatic self diagnostic and repair;
+Graceful shutdown in case of power failure;
+![image](https://user-images.githubusercontent.com/86477251/131996983-7c22c8e3-59c1-4bea-8487-ad5cadf5d55d.png)
+![image](https://user-images.githubusercontent.com/86477251/131997217-cdc0d836-e65c-4e98-9f53-32ea0a3ea379.png)
+Dimension, L x H x W, mm:
+Case: 114 x 150 x 26
+With antenna set (excluding LoRa antenna): 172 x 205 x 26.
 
 Helium Light Gateway Feature (planned with periferal equipment):
 
-Concentrator based on the Semtech SX1302/SX1303/SX1308 with ADR
-Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-ECC608 encryption chip for swarm keys storage
-Power AC/DC unit from 5 to 12 volt (PoE+ 802.3at develop)
-Remote Management console
-Minimal configuration
-Work with Helium software
+Concentrator based on the Semtech SX1302/SX1303/SX1308 with ADR (priority SX1303/SX1302, SX1250 radio and SX1261 with different LoRaWAN and Wi-Fi/BT antenna);
+Frequency band: 470MHz/868MHz/915MHz/923MHz and other;
+ECC608 encryption chip for swarm keys storage (or STSAFA110, DS28C39, DS28C40);
+Motherboard can be swapped between 2 cases (indoor or outdoor);
+Power AC/DC unit from 5 to 12 volt (PoE+ 802.3at develop);
+Remote Management console;
+Minimal configuration (no built-in GPS module, no GPS antenna, smallest memory and other SoM);
+Work with Helium software.
 
 Our software is custom and will include OTA updates for the lifetime of the device, encompassing useful features in addition to the original features.
 The main direction our company's activities are development, production and serial production of devices observation and aiming with the introduction of modern technologies for armaments and military equipment.
@@ -51,7 +59,7 @@ The company has all the features technologies and rights to intellectual propert
 During our work we have achieved results that significantly improve combat possibilities of samples of armaments and equipment where our devices development and production are used.
 We use the latest devices and systems in our methods and means of data processing in video, "tracking" electric drives, control of external systems, preliminary definition range by angular parameters, ballistic calculations, as well as we develop and manufacture our own video display devices (monitors, glasses), control panels, external information processing units, control units for external systems (including remote control), positioning units in space and even their own cable harnesses to combine these systems in general complexes.
 Please see Our site: https://trimen.com.ua
-We are able to produce 10,000 units a week. Our first batch will be scheduled for delivery by the end of Jan 2021.
+We are able to produce 10,000 units a week. Our first batch will be scheduled for delivery by the end of Jan 2022.
 Trimеn has been supplying its products for many years. We plan to supply Miners all over the world.
 
 Customer Support
@@ -59,17 +67,17 @@ Customer support will be handled via Discord, email and via our dashboard. We pl
 Repairs/Replacements will be handled domestically:
 If the device is defective due to our manufacturing process or shipping/mishandeling on our part we will immediately ship a replacement out.
 If the device/one of modules is defective due to user mishandeling/error we will provide repair or ship-out a replacement part for a price.
-This includes case, concentrator, raspberry pi, motherboard, charger, antenna.
+This includes case, concentrator, compute module, motherboard, charger, antenna set.
 
 Hardware Security
-Our gateway has an ATECC608B encryption chip which is originally used.
+Our gateway has an ATECC608B encryption chip which is originally used (or STSAFA110, DS28C39, DS28C40).
 Because of this, you will face three main challenges when implementing secure authentication on a LoRaWAN network:
-Protecting the symmetric keys both in the network backend and at the edge node
-Overcoming the manufacturing logistics of securely shipping and distributing the physical keys into millions of edge nodes
-Preventing attackers who will be taking advantage of this known security weakness from accessing keys and exploiting your system
+Protecting the symmetric keys both in the network backend and at the edge node;
+Overcoming the manufacturing logistics of securely shipping and distributing the physical keys into millions of edge nodes;
+Preventing attackers who will be taking advantage of this known security weakness from accessing keys and exploiting your system;
 To overcome these challenges, you can strengthen the authentication process by implementing a secure hardened key storage both at the node and in the LoRaWAN backend.
 This prevents the exposure of authentication keys to software, firmware, manufacturing sites, end users and other third parties.
-We use ATECC608B as the swarm keys issued by Helium.
+We use ATECC608B (or STSAFA110, DS28C39, DS28C40) as the swarm keys issued by Helium.
 The sharing of prototype for adult result could be further discussed and arranged.
 Samples can be provided to DeWi and/or Helium and be submitted to any tests.
 
@@ -93,24 +101,26 @@ The biggest challenge that we see is the production of SX1302/SX1303/SX1308, and
 We have tested the electronics design thoroughly already and the core LoRaWAN hardware had been well proven by us and our customers over the last few years.
 We also have a lot of experience with manufacturing our own hardware, so we don't anticipate any issues.
 The packaging design and all other aspects of the project are nearly finalised.
-He biggest challenge that we see is the production of SX1302/SX1303/SX1308.
+He biggest challenge that we see is the production of SX1302/SX1303/SX1308 (priority SX1303/SX1302, SX1250 radio and SX1261).
 We think that with good management these issues are not going to pose a problem and not cause delays.
 We intend to order/manufacture 30% more than we actually need in order to satisfy repairs and not hinder future production.
 Fortunately the manufacturer we are working with is one we have successfully used many times before and we know and trust they can deliver to schedule.
 As an established and busy e-commerce business Trimen are easily capable of handling the shipping burden of this project and have all the frameworks in place to achieve this quickly and efficiently.
-We will be using DHL for our shipping and the shipping is fully insured and tracked.
+We will be using DHL, UPS,FeDeX for our shipping and the shipping is fully insured and tracked.
 With current component availability, a 10000 unit batch of boards would take about 8 to 10 weeks to produce.
 We will place the first production order immediately when we get manufacturer approval.
 
 Other information
-Desired Discord support channel name - (to be created)
-Twitter profile - (to be created)
-Telegram profile - (to be created)
+Desired Discord support channel name - (to be created).
+Twitter profile - (to be created).
+Telegram profile - (to be created).
 Facebook profile - https://www.facebook.com/trimen.ukraine/
-https://www.facebook.com/kauz/ (in progress)
+https://www.facebook.com/kauz/ (in progress).
 Website - https://trimen.com.ua
-https://www.kauz.com (in progress)
-e-mail - trimen.ua2019@gmail.com
+https://www.kauz.com (in progress).
+e-mail:
+info@kauz-ukraine.com.ua
+office@kauz-ukraine.com.ua
 phone - +380950427040
 Payment methods available - Payment methods available - All major credit cards accepted, crypto (USDT, USDC, BUSD, other stablecoin in different blockchain, ERC20, BSC20, TRX, OMNI etc.) and HNT soon.
 Regions covered / shipped to - Support worldwide shipment
