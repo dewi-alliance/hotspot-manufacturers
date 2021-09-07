@@ -8,7 +8,7 @@ Fastminers is exclusive Distrubtor, Reseller and also after sale server provider
 * We are partnered with Cotx Networks and also the exclusive distributor for Deeper Network in North America. We are also in talks with many other manufactures.
 
 # Company Information
-Fastmienrs is a federally incorporated company in Canada. The founders of Fastminers have been involved in crypto-space since 2012 and also part of many ground breaking blockchain projects. Fastminers has their own distribution centres in US & EU aswell as opening their third centre in Dubai Freezone. In addition being partnered up with many other manufactures and Shipping companies we have build a strong and reliable distribution/shipping around the world.
+Fastminers is a federally incorporated company in Canada. The founders of Fastminers have been involved in crypto-space since 2012 and also part of many ground breaking blockchain projects. Fastminers has their own distribution centres in US & EU aswell as opening their third centre in Dubai Freezone. In addition being partnered up with many other manufactures and Shipping companies we have build a strong and reliable distribution/shipping around the world.
 
 
 # Product Information
