@@ -4,12 +4,11 @@ Application to become an approved third party manufacturer as per HIP19
 
 ## Summary
 
-Illios is a Spin-off of PHYGITALL an IoT Solutions company.
-PHYGITALL have been developing IoT products since 2016, products like PHYLL Tracker to monitoring assets location, PHYLL Smartbadge and PHYLL Smartband to monitoring people, and PHYLL Connect to monitoring assets telemetry. All of this hardware products are connected to PHYGITALL IoT Platform, a georeferencing location web platform. We had sale almost 800 license of our IoT platform and devices.
+Illios is a Spin-off of PHYGITALL an IoT Solutions company. PHYGITALL have been developing IoT products since 2016, products like PHYLL Tracker to monitoring assets location, PHYLL Smartbadge and PHYLL Smartband to monitoring people location, and PHYLL Connect to monitoring assets telemetry. All of this hardware products are connected to PHYGITALL IoT Platform, a georeferencing location web platform. We had sale almost 800 license of our IoT platform and devices.
 
 ## Company Information
 
-PHYGITALL was founded in 2016, on that year we initiate TTN Community on Rio de Janeiro and created the Rede IoT Brasil Organization in order to develop the IoT ecosystem on Brazil. Since then PHYGITALL have been creating opportunities with network integrator and big industries in Brazil. The turning point to engage on Helium network was a synergy of PHYGITALL and local+international investors that share of the same vision of create a large IoT ecosystem on Brazil and Latam, robust, scalable and secure.
+PHYGITALL was founded in 2016, on that year we initiate TTN Community on Rio de Janeiro and created the Rede IoT Brasil Organization in order to develop the IoT ecosystem on Brazil. Since then PHYGITALL have been creating opportunities with network integrators and big industries in Brazil. The turning point to engage on Helium network was a synergy of PHYGITALL and local+international investors that share of the same vision to create a large IoT ecosystem on Brazil and Latam, robust, scalable and secure.
 
 ## Product Information
 
