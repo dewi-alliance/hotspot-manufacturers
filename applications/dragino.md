@@ -29,13 +29,13 @@ The expected production and delivery timeline is end of 2021.
 
 ## Previous Shipments
 
-* Have you shipped anything in the past? 
+* Have you shipped anything in the past?  
 Yes. 
 
-* Which countries have you previously shipped regulatory FCC or CE approved products? 
+* Which countries have you previously shipped regulatory FCC or CE approved products?  
 We ship to most countries in the past world widely. 
 
-* Which countries do you plan to ship to? 
+* Which countries do you plan to ship to?  
 We plan to ship this model through our global distribute channels. It covers every country. 
 
 ## Customer Support
@@ -66,20 +66,20 @@ ATECC608
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)  
 We use SX1301 & SX1255/57
 
-* Where are you sourcing your components from? 
+* Where are you sourcing your components from?  
 We purchased from Semtech distributors in China. 
 
-* How many radio modules/ concentrators can you procure? 
+* How many radio modules/ concentrators can you procure?  
 Depends on Chipset supply.  
 
 
 ## Manufacturing Information
 
-* Have you built and delivered radio hardware products before?
+* Have you built and delivered radio hardware products before?  
 We have produced more than 1 million Radio Modules so far.
 
-* Have you built gateways before? 
-* How many gateways did you make? 
+* Have you built gateways before?  
+* How many gateways did you make?  
 Yes, more than 50k gateways so far.  
 
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
@@ -91,13 +91,13 @@ To be submitted privately to DeWi.
 
 
 ## Budget & Capital (required)
-* How many of these are you hoping to make and sell? 
+* How many of these are you hoping to make and sell?  
 We aim to produce 5000 ~ 10,000pcs per batch and the volume is flexible. 
 
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?  
 We have enough buget to build above gateways without required up-front money. 
 
-* What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
+* What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.  
 No additional financing needed at the moment. 
 
 
