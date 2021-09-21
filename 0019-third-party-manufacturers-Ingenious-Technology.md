@@ -34,9 +34,6 @@ Evidence of a functioning prototype - photos, videos. Renderings are OK but phys
 Your plan for software setup and configuration for the devices. 
 This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
-![Screenshot](IngeniousTechnology-Photo1.jpg)
-![Screenshot](IngeniousTechnology-Photo2.jpg)
-
 ## What is your expected production and delivery timeline? (required)
 
 Production and delivery timeline:
