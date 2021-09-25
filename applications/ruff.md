@@ -20,7 +20,7 @@ RWI8280 for Helium Hotspot Miner, Black Box, Estimated Price: $399.99
 
 -   Concentrator based on the Semtech SX1302(Outdoor)/SX1308(Indoor) with ADR
 -   Quad-core Cortex-A53/Cortex-A72 processor, CPU with 32G SD Flash and 2G DDR RAM
--   ECC608/RJGT102WDP8 encryption chip for swarm keys storage
+-   ECC608 encryption chip for swarm keys storage
 -   Network Connectivity 2.4 GHz and 5.0 GHz IEEE 802.11ac wireless
 -   Device Connectivity Bluetooth 5
 -   Frequency band: 470MHz/868MHz/915MHz/923MHz and other
@@ -88,7 +88,7 @@ Kunshan Luoyi  Intelligent Technology Co., Ltd.
   Yes  
   IoT Gateways
 - Website link  
-  www.ruff.io
+  www.xdt.com 
 - Contact info   
   roy@nanchao.org
 - Who is handling support for the RUFF gateway?  
