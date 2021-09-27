@@ -6,7 +6,7 @@ For details on the manufacturer approval process, please see [HIP19: Approval Pr
 
 For a detailed walkthrough of how to submit your own application, please see [How to submit a Helium hotspot manufacturer application.](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/)
 
-# Please use this [template](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/template.md) to make your proposal. 
+# Please use this [template](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/template.md) to make your proposal. Fork the template and edit it, please do not edit the template directly. 
 
 # Currently open manufacturers
 
