@@ -105,7 +105,7 @@ Our budget is aligned with our expected production and delivery timeline as outl
 Sourcing components continues to be challenging in the current market – several supply chain issues affecting the whole industry – but we have secured enough stock to produce the quantities listed above.
 
 ## Other information if you do not provide contact information, we cannot review your proposal
-Email: pieter@atomdesign.io
+Email: pieterdw@atomdesign.io
 
 ## Payment methods available 
 * Card Payments
