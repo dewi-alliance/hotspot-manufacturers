@@ -20,7 +20,7 @@ Application to become an approved third party manufacturer as per HIP19
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 Your plan for software setup and configuration for the devices. 
-This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
 ## What is your expected production and delivery timeline? (required)
 
