@@ -84,6 +84,8 @@ Yes, more than 50k gateways so far.
 
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
+The devices is under type approval and we expect to have FCC/CE at November , 2021
+
 
 ## Proof of Identity
 
