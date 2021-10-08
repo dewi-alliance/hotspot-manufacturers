@@ -1,3 +1,4 @@
+## Please copy this file, do not edit directly
 ## YOUR NAME
 
 Application to become an approved third party manufacturer as per HIP19
