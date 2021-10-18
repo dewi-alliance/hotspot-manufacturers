@@ -14,7 +14,7 @@ Application to become an approved third party manufacturer as per HIP19
 ## Product Information (required)
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
-* Provide a brief description of what you're making
+* Provide a brief description of what you're making.
 
 ## What is your approximate price point? (required)
 
