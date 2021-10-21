@@ -22,9 +22,7 @@ This is full hotspot.
 * Is it for indoor or outdoor?
 It is for indoor.
 * Please provide a brief description of what you're making?
-First Generation product will use Raspberry Pi 4 + Seeed Lora1302 module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU) and 915M(US).
-We will use ATECC608 BREAKOUT BOARD to offload some crypto function for security.
-Second generation ,we will build an integrated board with Xilinx Zynq (ARM inside) + Lora 1302 to reduce cost.
+Product will use Raspberry Pi 4 + Seeed Lora1302 module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 925M(Japan), 490M (China). We will use ATECC608 Chip to secure the system.
 
 ## What is your approximate price point? (required)
 We will sell our first generation product at around $500, but will reduce the price under $300 after we optimized the hardware cost in second generation product.
@@ -33,6 +31,8 @@ We will sell our first generation product at around $500, but will reduce the pr
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 Your plan for software setup and configuration for the devices. 
 This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+
+We will include remote update via Helium official app.
 
 ![Screenshot](IngeniousTechnology-Photo1.jpg)
 ![Screenshot](IngeniousTechnology-Photo2.jpg)
@@ -49,7 +49,10 @@ Production and delivery timeline:
 ## Previous shipments (required)
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No.
-Yes, we have shipped two main products: ECU200 and ECU50
+Yes, we have shipped:
+- Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreymining.io/product-page/ECU200) 
+- ECU50 Ethereum Mining Product (https://www.ospreymining.io/product-page/ecu50) 
+- ECU800 Ethereum Mining product in development, will release in Oct.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
@@ -81,7 +84,7 @@ ECC608 security
 We use SX1302
 We recommend you don't use the SX1301 in new designs 
 * Where are you sourcing your components from? 
-We source Lora Module from Seeed, and are design our own Lora/Raspberry integrated product in next generation.
+We will source Raspberry Pi from market, and make our own Lora Mdoule based on Semtech Reference design
 * How many radio modules/ concentrators can you procure? 
 First batch, we estimate we will procure a couple thousand.
 
@@ -94,7 +97,7 @@ We haven’t built any gateway product but Jing Zeng has worked in network indus
 We didn’t make any gateway but we made other crypto mining products
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 We have made much complicated hardware boards (FPGA crypto Mining boards) and have experience in hardware business.
-For first generation product, in order to fast to market, we will source Seeed Lora 1302 modules. We have many Raspberry Pi proviers
+For first generation product, in order to fast to market, we will make our own Lora Mdoule based on Semtech Reference design. We have many Raspberry Pi proviers
 
 ## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
