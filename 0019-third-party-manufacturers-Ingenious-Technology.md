@@ -34,6 +34,9 @@ Evidence of a functioning prototype - photos, videos. Renderings are OK but phys
 Your plan for software setup and configuration for the devices. 
 This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
+![Screenshot](IngeniousTechnology-Photo1.jpg)
+![Screenshot](IngeniousTechnology-Photo2.jpg)
+
 ## What is your expected production and delivery timeline? (required)
 
 Production and delivery timeline:
@@ -48,9 +51,9 @@ Production and delivery timeline:
 * Have you shipped anything in the past? Yes or No.
 Yes, we have shipped two main products: ECU200 and ECU50
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Germany, UK, and Italy
+We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
-North America, Europe, and China
+North America, Europe, Japan and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
@@ -130,4 +133,4 @@ www.ospreymining.io
 ## Payment methods available 
 Crypto, credit card, paypal, check, wire
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-North America, Europe, and China
+North America, Europe, Japan and China
