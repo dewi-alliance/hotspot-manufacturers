@@ -122,4 +122,4 @@ The greatest challenge in our opinion is that the supply chain of SX1302&SX1303 
 
 ## Regions covered
 
-Shipped to - worldwide
+Shipped to - worldwide 
