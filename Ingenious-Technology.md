@@ -34,8 +34,8 @@ This would presumably include remote updates and the ability for hosts to change
 
 We will include remote update via Helium official app.
 
-![Screenshot](IngeniousTechnology-Photo1.jpg)
-![Screenshot](IngeniousTechnology-Photo2.jpg)
+![Screenshot](IngeniousTechnology1.jpg)
+![Screenshot](IngeniousTechnology2.jpg)
 
 ## What is your expected production and delivery timeline? (required)
 
