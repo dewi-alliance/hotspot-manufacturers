@@ -28,7 +28,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Previous shipments (required)
 
 ## Startups welcome! 
-* Have you shipped anything in the past? Yes or No.
+* Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * Which countries do you plan to ship to? 
 
