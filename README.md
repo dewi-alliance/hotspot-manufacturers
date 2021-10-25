@@ -43,7 +43,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  * Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
  * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
  * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
- * More details about the hardware audit can be reviewed here. Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
+ * The publicly available hardware audit procedure is available at [this link.](https://docs.google.com/document/d/15zOOsqLSjb1ETZKHpRoxpxjBjcFUu_c6CpFq3V2gby4) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
  * Please reach out to louis@helium.com and sophi@dewi.org to start this part of the process. 
  
 ## Complete Onboarding Integration 

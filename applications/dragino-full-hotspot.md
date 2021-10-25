@@ -52,9 +52,11 @@ We also provide support via :
 The full hotspot designed for Helium will support ECC chip base on ATECC608.
 
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
+
 * Encrypted/locked-down firmware. Yes or no?  no. 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? yes. 
 * Encrypted buses, potting and other anti-tampering measures. Yes or No? no. 
+
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? yes. 
 
 ## Hardware Information (required)
@@ -119,4 +121,6 @@ We have good experienced in production and quality control for LoRaWAN gateway. 
 * Regions covered / shipped to – Worldwide
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
+
 We plan to ship this model through our global distribute channels. It covers every country. 
+
