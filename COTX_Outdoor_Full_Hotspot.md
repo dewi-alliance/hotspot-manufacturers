@@ -129,3 +129,34 @@ Currently we are planning the following:
 ## Manufacturing Information
 
 COTX Networks invested significantly in R&D and launches numerous gateways each year for various projects including applications of smart street, smart computer room, national museum, smart greenhouse. Those include hardware of LoRaWAN indoor gateway, outdoor gateway, AIOT edge gateway, integrated gateway etc. We are the main hardware& platform supplier of TOPSEC, SHUZHI.AI, TST, well known brands in China. What is more, as an OEM/ODM manufacturer, we have already produced over 50,000 sets LoRa trackers to Petfon in high quality, and 10,000 EUR standard indoor full Hotspot has been finished and ready to ship by the end of September,2021.
+
+## Proof of Identity
+
+To be submitted privately to DeWi. We have finished KYC by first time application for our indoor Hotspot.
+
+## Budget & Capital
+
+We aim to produce 5000-10000pcs X5 Miner hotspots as our first batch, then steadily provide 10000 units each month. COTX have sufficient funds to produce large volumes. For our existing indoor X3 model, our supply chain and production line have provided sufficient capacity and have large surplus. 
+
+## Risks & Challenges 
+
+The greatest challenge in our opinion is that the supply chain of SX1302&SX1303 with price volatility currently. We will solve it with a rich running stock, extra 10000 pieces chipsets or even more will arrive for stable materials supply.
+
+## Other information
+
+* Desired Discord support channel name - COTX Networks
+* Discord- https://discord.com/invite/s8NAKj7Vfx 
+* Linkedin profile- https://www.linkedin.com/company/beijing-cotx-networks-technologies-co-ltd/mycompany/?viewAsMember=true
+* Facebook profile - https://www.facebook.com/cotxnetworks
+* Twitter- https://twitter.com/CotxNetworks
+* Other social profiles - 
+* Website - www.cotxnetworks.com
+* Email: business@cotxnetwork.com
+
+## Payment methods available 
+
+* T/T, AliPay, WechatPay
+
+## Regions covered
+
+Shipped to - worldwide
