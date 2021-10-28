@@ -1,8 +1,7 @@
-## Please copy this template.md, do not edit the template directly
-## YOUR NAME
-
+## Chengdu Glacier Cloud Storage Technology Co., LTD
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
+Chengdu Glacier Cloud Storage Technology Co., Ltd. was established on September 10, 2020, engaged in the blockchain application and basic application service. Team members have been worked in the field of wireless router and encryption hardware mining for more than 10 years. We have rich experience in blockchain and wireless network.
 
 ## Company Information (required)
 * What is your company name?
