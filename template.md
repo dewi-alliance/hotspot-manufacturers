@@ -70,7 +70,7 @@ Contact details for this will be provided after your application is submitted on
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
 
 ## Risks & Challenges (required)
-Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
+Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information (required) if you do not provide contact information, we cannot review your proposal.
 * Contact info (* required)
