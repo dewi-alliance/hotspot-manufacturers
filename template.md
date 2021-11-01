@@ -1,6 +1,7 @@
+## Please copy this template.md, do not edit the template directly
 ## YOUR NAME
 
-Application to become an approved third party manufacturer as per HIP19
+Application to become an approved third party manufacturer as per HIP19.
 ## Summary
 
 ## Company Information (required)
@@ -13,21 +14,21 @@ Application to become an approved third party manufacturer as per HIP19
 ## Product Information (required)
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
-* Please provide a brief description of what you're making?
+* Provide a brief description of what you're making.
 
 ## What is your approximate price point? (required)
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 Your plan for software setup and configuration for the devices. 
-This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 
 ## What is your expected production and delivery timeline? (required)
 
 ## Previous shipments (required)
 
 ## Startups welcome! 
-* Have you shipped anything in the past? Yes or No.
+* Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * Which countries do you plan to ship to? 
 
@@ -69,16 +70,16 @@ Contact details for this will be provided after your application is submitted on
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
 
 ## Risks & Challenges (required)
-Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
+Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
-## Other information (required) if you do not provide contact information, we cannot review your proposal
+## Other information (required) if you do not provide contact information, we cannot review your proposal.
 * Contact info (* required)
 * Twitter profile -
 * Facebook profile -
 * Other social profiles -
 * Website -
 
-## Payment methods available 
+## Payment methods available. 
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
