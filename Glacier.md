@@ -50,6 +50,7 @@ Batch production - 12/25/2021
 First batch product delivery - 1/15/2022
 
 ## Previous shipments (required)
+We are a startup, but we have some shipping experience.  The main market we are facing is China. At present, we are contacting the delivery channels in the international market and have reached preliminary cooperation intention with some shipping enterprises.  We plan to get CE and FCC as soon as possible and ship the product to customers around the world.  
 
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No
