@@ -42,19 +42,20 @@ It is a highly reliable, easy to use, indoor full hotspot for the Helium network
 * Raspberry Pi 4B Inside
   * ARM Cortex A72 Quad Core 1.5GHz 64bit CPU
   * 2GB DDR
-  * 64GB SD Card Storage
+  * 32GB SD Card Storage
 * Gig-Ethernet and Dual-band Wi-Fi networks
 * Bluetooth 5.0 for Gateway configuration with Helium's official App
 * Built-in ATECC608 security chip
 * Excellent Cooling System with CNC Aluminum Alloy Body
 * OTA support
-  * Docker based software OTA
-  * Debian APT package based OS OTA
 * 12V DC Power in
 * Dimension: 95mm(L) x 95mm(W) * 26mm(H)
 * CE, FCC Certified
 
-![EDA-IoT Hotspot Picture](edatec/eda-iot-hotspot.jpg)
+![EDA-IoT Hotspot Sample - Top, Bottom](edatec/eda-iot-hotspot-new-sample-top-bottom.png)
+
+![EDA-IoT Hotspot Sample Photo](edatec/eda-iot-hotspot-new-sample.png)
+
 
 ## What is your approximate price point?
 
