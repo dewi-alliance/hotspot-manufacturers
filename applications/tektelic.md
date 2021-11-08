@@ -30,11 +30,11 @@ TEKTELIC is looking to leverage the 3rd party organization Emrit https://emrit.i
 
 ## Hardware Security
 
-In order to satisfy the security requirement on the Light Hotspots, TEKTELIC will be adding the ECC206 chip to our board. TEKTELIC will also implement firmware package signing.
+In order to satisfy the security requirement on the Light Hotspots, TEKTELIC will be adding the ECC608 chip to our board. TEKTELIC will also implement firmware package signing.
 
 ## Hardware Information
 
-ECC206
+ECC608
 SX1308
 TEKTELIC has a number of CM who purchase materials for our builds.  We also purchase direct should be ne necessary. 
 Supply chain and demand are the only limiting factors in regards to the volume of radios TEKTELIC can procure.  
