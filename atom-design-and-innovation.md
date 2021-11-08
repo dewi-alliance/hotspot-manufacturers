@@ -12,12 +12,16 @@ Our mission is to develop community networks in Africa. We would like to empower
 
 Atom Design and Innovation (Pty) Ltd was established in 2021. It is based in South Africa with an office in Paarl. The team consists of highly skilled and experienced engineers in the IOT industry. This company was established to design, manufacture and service existing IOT devices. The mission of this company is to build community networks by utilising the Helium network and combining this with existing devices via the LoRa network.
 
+Most of our existing devices are shipped and used within South Africa. We have also shipped devices to Botswana, Zambia, Namibia and Zimbabwe. We have an excellent understanding of the needs for the African market.
+
 ## Product Information
 Our main product areas are in IoT modules, LoRa gateways and node devices. We have over 30 IoT related products currently in active production.
 We are busy prototyping our own Full Hotspot and our device will be called the Proton Hotspot Miner. The main features of the Proton can be viewed below.
 The Proton Hotspot Miner is a brand new, high-performance, ready-to-use LoRaWAN indoor gateway powered by the Helium LongFi™ Network. Helium provides miles of wireless network coverage and data transmission capacity for LoRaWAN devices. 
 
 The key features of the Proton gateway will be discussed in detail. 
+
+![image (2)](https://user-images.githubusercontent.com/91087058/140799495-8d89756f-f4ab-4621-ab2f-232690e7a578.png)
 
 In the future we will also be investigating a solar solution for the Proton Hotspot Miner to target rural areas who can benefit from IoT devices. In some cases, mining will not be possible, due to power and/or access to internet constraints. In these cases, we will be able to provide these communities with a hotspot, purely to capture and transfer data from IoT devices. See below an example of our first prototype being used at a school in Paarl to provide a safety network by combining the hotspot with panic buttons to notify first responders.
 
@@ -124,7 +128,11 @@ Our budget is aligned with our expected production and delivery timeline as outl
 Sourcing components continues to be challenging in the current market – several supply chain issues affecting the whole industry – but we have secured enough stock to produce the quantities listed above.
 
 ## Other information if you do not provide contact information, we cannot review your proposal
-Email: pieterdw@atomdesign.io
+* Company website - https://www.atomdesign.io/
+* Contact Email: pieterdw@atomdesign.io
+* LinkedIn - Atom Design & Innovation
+* Facebook - Atom Design & Innovation (@AtomDesignInnovation)
+* Instagram - Atom_design_innovation
 
 ## Payment methods available 
 * Card Payments
