@@ -13,7 +13,7 @@ The technical team of the company is composed of experts in the fields of wirele
 
 ## Product Information (required)
 
-Midas-926:
+Helium Full Hotspot - Midas-926.GB470/GB915/GB868:
 * Semtech SX1302 based LoRa concentrator supporting CN/US/EU bands
 * Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5 GHz
 * 2GB LPDDR4-3200 SDRAM
@@ -22,7 +22,17 @@ Midas-926:
 * WiFi(2.4GHz/5.0GHz) IEEE 802.11b/g/n/ac
 * BLE 5.0
 * Status indication LEDs
-* Voltage 12V
+* Voltage 5V
+* Automatic software update
+Helium Light Hotspot - Midas-926.GM470/GM915/GM868:
+* Semtech SX1302 based LoRa concentrator supporting CN/US/EU bands
+* MIPS processor @ 580MHz
+* 128MB DDR2 RAM
+* 16MB Flash
+* ATECC608A chip for swarm key
+* WiFi(2.4GHz) IEEE 802.11b/g/n/ac
+* Status indication LEDs
+* Voltage 5V
 * Automatic software update
 ![Midas_透明层_正俯](https://user-images.githubusercontent.com/86901323/125427574-f8ae9457-f252-4cb0-b01d-ae8198b7a0c7.jpg)
 ![Midas_透明层_侧](https://user-images.githubusercontent.com/86901323/125427636-9126325b-37d8-4a05-9ce2-c2239669e94c.jpg)
