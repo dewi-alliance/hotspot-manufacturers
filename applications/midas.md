@@ -24,6 +24,7 @@ Helium Full Hotspot - Midas-926.GB470/GB915/GB868:
 * Status indication LEDs
 * Voltage 5V
 * Automatic software update
+
 Helium Light Hotspot - Midas-926.GM470/GM915/GM868:
 * Semtech SX1302 based LoRa concentrator supporting CN/US/EU bands
 * MIPS processor @ 580MHz
