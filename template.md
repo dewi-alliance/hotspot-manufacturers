@@ -14,7 +14,7 @@ Application to become an approved third party manufacturer as per HIP19
 ## Product Information (required)
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
-* Provide a brief description of what you're making
+* Provide a brief description of what you're making.
 
 ## What is your approximate price point? (required)
 
@@ -28,7 +28,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Previous shipments (required)
 
 ## Startups welcome! 
-* Have you shipped anything in the past? Yes or No.
+* Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * Which countries do you plan to ship to? 
 

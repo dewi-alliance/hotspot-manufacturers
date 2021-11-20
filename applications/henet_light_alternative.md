@@ -61,7 +61,7 @@ Support will be provided over e-mail and our own Discord and general troubleshoo
 
 ## Hardware Security
 
-Our devices contain a Microchip ATECC608 for key-storage and cryptographic operations. Keys are non-exportable ensuring a high level of security.
+Our devices contain an alternative security IC for key-storage and cryptographic operations. Keys are non-exportable ensuring a high level of security.
 
 ## Proof of Identity
 
