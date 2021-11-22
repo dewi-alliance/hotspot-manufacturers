@@ -14,41 +14,65 @@ Innov-Innovtrade Communications International PTE.LTD is a high-tech enterprise 
 
 Our Team has extensive practical experience in embedded microcontroller technology, RF hardware development, communication, and networking technology in the field of Internet of Things. We have 5G, LoRa, Wi-Fi, BLE, ZigBee, RF and other mature communication solutions. Our team can also develop intelligent lighting, smart classroom, wireless four-table copy, intelligent cold chain, intelligent electric vehicles, cargo location tracking and other systems.
 
- 
 
 # **Product information**
-
-**Helium Hotspot Miner Features:**
-
-● Concentrator based on the Semtech SX1302
+**What is your approximate price point?**
+  $699
+**Detailed hardware designs, including relevant parts:**
 
 ● Quad-core Cortex-A55 up to 1.8GHz
 
 ●  DDR 4GB
 
-●  WiFi 802.11 b/g/n
+●  eMMC 32GB+ TF Card 64GB
 
-● 64GB micro SD Card
+●  LoRa radio CN 470 SKU
 
-●  1 RGB LED for status indication
+●  WiFi 2.4GHz / 5GHz
 
-●  1 Reset Button
+●  BLE BLE5.0
 
-●  LoRa 8 channels
+●  Microchip ATECC608A
 
-●  BLE 5.2
+●  RJ45 1000 Mbps x 1
 
-●  Ethernet (100/1000 Mbps)
+●  External TF card slot Supports SDXC or higher speed
 
-●  ATECC608A compatible ECC chips for swarm keys storage
+●  USB 2.0/USB 3.0
 
+●  Bi-colored LED indicator (RED/GREEN)
+
+●  Bluetooth Switch button/Power Switch button
+
+●  Environment Temp. operating -10°C ~ +60°C ambient/Storage -20°C ~ +70°C ambient/Humidity operating 10%RH ~ 85%RH (non-condensed relative humidity) 
+
+●  Size 90x89.6x29.13 mm
+
+●  Power USB Type C 5V 2A
  
+**Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.**
+![image](https://hntpic.oss-cn-hongkong.aliyuncs.com/218.png)
+![image](https://hntpic.oss-cn-hongkong.aliyuncs.com/219.png)
+![image](https://hntpic.oss-cn-hongkong.aliyuncs.com/220.png)
 
 **Your plan for software setup and configuration for the devices would presumably include remote updates and the ability for hosts to change wifi settings via Helium's official app or otherwise.**
 
 We support the official Helium application and apply OTA updates. At the same time, users can change advanced configurations on our customized dashboard to make the device more efficient.
 
+**What is your expected production and delivery timeline? Photos and videos welcome.**
 
+Timeline:
+Pre-sale: 31 January 2021
+
+# **Previous shipments**
+**Have you shipped anything in the past?**
+No
+
+**Which countries have you previously shipped regulatory FCC or CE approved products?**
+No
+
+**Which countries do you plan to ship to?**
+Worldwide
 
 # **Customer Support**
 
