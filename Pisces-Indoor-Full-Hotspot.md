@@ -2,9 +2,12 @@
 
 ### Apply to become an approved third-party manufacturer according to [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
-## Generalize
+## Summary
 
+  Glad to be HIP19 again!
+  
   At present, LoraWan has become a solution for large-scale IoT data transmission. As its application area becomes wider and wider, more and more access schemes adopt LoraWan. At present, our Pisces mining machine and our suppliers have many years of experience in the development of Lora and NbIOT. We hope to help the community further optimize the functional logic of HNT through our years of experience in developing the Internet of Things.
+  
   The types of HNT Miner working outdoors are not rich enough, and their corresponding parameters and specifications are not enough to adapt to more diverse outdoor environmental conditions. **Pisces Miner** focuses on solving the problem of outdoor mining machines, and has many years of experience in the development and production of outdoor gateways. At the same time, it provides Miner solutions that are suitable for work without wired networks and no power supply.
 
 ## Company Information
@@ -23,16 +26,12 @@
 
 ## Product Information
 
-  The specific parameters and design styles of the company's products can be found on the following official website:
-	
-  Currently we provide the following **solutions**:
-
 **Standard Indoor Version**
 
 | Chip                        | Specifications          | Remarks            |
 | --------------------------- | ----------------------- | ------------------ |
 | 8-channel LORA module       | SX1302                  | SX1302             |
-| ARM64 core board(Pi cm4)    | 4GB + 64GB-Tfcard       |                    |
+| ARM64 core board(Pi cm4)    | 2/4GB + 64GB-Tfcard       |                    |
 | WIFI module                 | No special requirements |                    |
 | GPS module                  | No special requirements |                    |
 | ATECC608 secret key storage | No special requirements |                    |
@@ -46,12 +45,29 @@ Features:
 - Simple
 - Stable
 
-Expected price:
-449$-699$  
-(The global chip supply is tight, and the actual price is determined by the production situation)  
-First pre production quantity:  
-3000
+ 
+## What is your approximate price point? 
+Our Indoor Hotspot price range is between 449$-699$ according to the order quantity.
 
+## Please provide detailed hardware designs, including relevant parts
+
+| Chip                        | Specifications          | Remarks            |
+| --------------------------- | ----------------------- | ------------------ |
+| 8-channel LORA module       | SX1302                  | SX1302             |
+| ARM64 core board(Pi cm4)    | 2/4GB + 64GB-Tfcard       |                    |
+| WIFI module                 | No special requirements |                    |
+| GPS module                  | No special requirements |                    |
+| ATECC608 secret key storage | No special requirements |                    |
+| Shell peripherals           | No special requirements | Routing appearance |
+
+![A85DEC32E8909EDFA43EE16B5A8AD6FD](https://user-images.githubusercontent.com/83175310/141505459-18977c84-4b64-4a11-bb42-9ee9741dcd07.jpg)
+
+## What is your expected production and delivery timeline?
+Will be 4-6weeks for after pre-order.
+
+## Previous shipments
+We shipped a lot of Hotspot by our Website(https://www.piscesiot.com/) to EU
+We have also sell some hotspots in china for about 1500 units
 
 ## Customer Support
 
@@ -59,11 +75,11 @@ First pre production quantity:
 
 We will provide service support in the following **ways:**
 
-- discord
+- Discord
 - QQ
-- wechat
-- telegram
-- email
+- Wechat
+- Telegram
+- Email
 - Telephone
 
 **after sales support:**
@@ -79,15 +95,11 @@ We will provide service support in the following **ways:**
 
  At present, our product provides the ATECC608A chip in the model design, which is used to encrypt critical user key information and other dangerous data to further improve product security.
 
-## personal I.D
+## Proof of Identity
+To be submitted privately to DeWi. We have finished KYC by first time application for our outdoor Hotspot.
 
-Private delivery of DeWi
-
-## Budget and Capital
-
- We plan to produce 5000 in the first batch, but if the pre-order demand is large enough, we can expand the scale.
-
- At the same time, **Green Palm Technology Co., Ltd.**, as a company that has been manufacturing IoT products for more than ten years, has sufficient cash flow to ensure the normal operation of the supply chain
+## Budget & Capital
+We aim to produce 2000pcs Indoor hotspots as our first batch, then steadily provide 30000 units each month.
 
 ## Risks and Challenges
 
