@@ -42,7 +42,7 @@
 
 Features:
 
-- Simple
+- Cheap
 - Stable
 
  
