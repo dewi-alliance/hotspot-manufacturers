@@ -21,7 +21,7 @@ We plan to provide two stable and compact gateway solutions.
 **AKMan Indoor Hotspot Miner Features:** 
 Product Status: In Development. First prototypes to be built shortly.
 
-* Quad-core Cortex-A72 @1.5GHz/
+* Quad-core Cortex-A72 @1.5GHz
 * 32G eMMC Flash
 * 4G DDR RAM
 * ATECC608 for swarm keys storage
@@ -30,7 +30,7 @@ Product Status: In Development. First prototypes to be built shortly.
 * Concentrator based on the Semtech® SX1302
 * Frequency band: 433MHz/470MHz/868MHz/915MHz/923MHz and other
 * Coverage radius: 3km in city, 5km in rural area
-* Voltage DC 12V (11.0 VDC ~ 14.0 VDC)
+* Voltage DC 5V
 * Comes in IP30 case
 * Temperature range -25°C ~ +60°C
 * Local Web dashboard for easy diagnostics and reporting
