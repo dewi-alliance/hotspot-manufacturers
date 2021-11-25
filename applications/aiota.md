@@ -41,13 +41,13 @@ The hosts will have the ability to change wifi settings, via Helium's official a
 
 First batch – 10000pcs until December depending of Helium certification duration, using our own resource, and not relying on pre orders。
 
-<img src="http://akman.tech/img1.png" alt="Wanesy Management Center" />
+<img src="http://akman.tech/img1.jpg" alt="Wanesy Management Center" />
 <br/>
 
-<img src="http://akman.tech/img2.png" alt="Wanesy Management Center" />
+<img src="http://akman.tech/img2.jpg" alt="Wanesy Management Center" />
 <br/>
 
-<img src="http://akman.tech/img3.png" alt="Wanesy Management Center" />
+<img src="http://akman.tech/img3.jpg" alt="Wanesy Management Center" />
 
 
 ## Previous shipments
