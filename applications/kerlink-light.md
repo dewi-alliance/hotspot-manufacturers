@@ -14,7 +14,7 @@ Below are the indoor Wirnet<sup>TM</sup> iZeptoCell (Ethernet & Cellular versio
 
 _Wirnet<sup>TM</sup> iZeptoCell_
 
-<img src="kerlink/iBTS.png" alt="iBTS" width=64 />
+<img src="kerlink/iBTS.png" alt="iBTS" width=200 />
 
 _Wirnet<sup>TM</sup> iBTS_
 
