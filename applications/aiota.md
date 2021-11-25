@@ -22,7 +22,7 @@ We plan to provide two stable and compact gateway solutions.
 Product Status: In Development. First prototypes to be built shortly.
 
 * Quad-core Cortex-A72 @1.5GHz
-* 32G eMMC Flash
+* 32G micro SD card
 * 4G DDR RAM
 * ATECC608 for swarm keys storage
 * Ethernet 10/100
