@@ -21,9 +21,9 @@ We plan to provide two stable and compact gateway solutions.
 **AKMan Indoor Hotspot Miner Features:** 
 Product Status: In Development. First prototypes to be built shortly.
 
-* Quad-core Cortex-A53/
+* Quad-core Cortex-A72(ARM v8) 64位Soc @1.5GHz/
 * 32G eMMC Flash
-* 1G/4G DDR RAM
+* 4G DDR RAM
 * ATECC608 for swarm keys storage
 * Ethernet 10/100
 * Wifi 2.4G&5G, BLE：5.0
