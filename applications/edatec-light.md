@@ -1,4 +1,4 @@
-## EDA Technology Co,.Ltd
+## EDA Technology - Light Hotspot
 
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
@@ -6,7 +6,7 @@
 
 ## Summary
 
-[EDATEC](https://edatec.cn) is one of [Raspberry Pi’s Global Design Partners](https://www.raspberrypi.org/for-industry/design-partners/) who is serving global customers with standard hardware products, custom design and manufacturing services based on Raspberry Pi Technology platform in IoT,Inudstrial Control,Automation & Artificial Intelligenc applications.
+[EDATEC](https://edatec.cn) is one of [Raspberry Pi’s Global Design Partners](https://www.raspberrypi.org/for-industry/design-partners/) who is serving global customers with standard hardware products, custom design and manufacturing services based on Raspberry Pi Technology platform in IoT, Inudstrial Control, Automation & Artificial Intelligenc applications.
 
 EDATEC has been working on IoT for years and has several mature IoT Gateway solutions for LoRaWAN and Bluetooth Mesh networks.  We launched LoRa [IoT Gateway](https://edatec.cn/en/Product/Embedded_Computers/2019/0826/77.html) solution in 2018, which is based on Semtech SX1301 and Raspberry Pi Computer Module 3+, we sold this solutions to more than 200 customers in worldwide.
 
@@ -26,44 +26,39 @@ Thanks to more than 4 years’ experience in developing IoT market and intensive
 
 ## Product Information
 
-**Product Name:** EDA-IoT Hotspot
+**Product Name:** EDA-IoT Light Hotspot
 
-**Product Type:** Full Hotspot
+**Product Type:** Light Hotspot
 
-**Expected Release Date:** Nov 2021
+**Expected Release Date:** Q2 2022
 
-EDA-IoT Hotspot is a new Full Hotspot for PoC and Data Transfer. It is based on ARM Cortex A72 Quad Core 1.5GHz processors and Semtech SX1302/1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868, US915. The product will be certified by FCC & CE.
+EDA-IoT Light Hotspot is a new Light Hotspot for PoC and Data Transfer. It is based on ARM Cortex A53 Quad Core 1GHz processors and Semtech SX1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU433, CN470, IN865, EU868, AU915, US915, KR920, AS920, and AS923. The product will be certified by FCC & CE and other regulation in specific countries.
 
-It is a highly reliable, easy to use, indoor full hotspot for the Helium network.
+It is a highly reliable, easy to use, indoor light hotspot for the Helium network.
 
 **Features**
 
-* Concentrator based on the Semtech SX1302/1303, Support EU868, US915 LoRaWAN frequencies
-* Raspberry Pi 4B Inside
-  * ARM Cortex A72 Quad Core 1.5GHz 64bit CPU
-  * 2GB DDR
-  * 32GB SD Card Storage
-* Gig-Ethernet and Dual-band Wi-Fi networks
-* Bluetooth 5.0 for Gateway configuration with Helium's official App
+* Concentrator based on the Semtech SX1303, Support EU433, CN470, IN865, EU868, AU915, US915, KR920, AS920, and AS923 LoRaWAN frequencies
+* ARM Cortex A53 Quad Core 1GHz 64bit CPU
+* 512MB DDR
+* 8GB SD Card Storage
+* Fast Ethernet and 2.4G Wi-Fi networks
+* Bluetooth 4.2 for Gateway configuration with Helium's official App
+* Support GPS
 * Built-in ATECC608 security chip
-* Excellent Cooling System with CNC Aluminum Alloy Body
+* Excellent Cooling System with metal case
 * OTA support
 * 12V DC Power in
-* Dimension: 95mm(L) x 95mm(W) * 26mm(H)
+* Dimension: 110mm(L) x 90mm(W) * 25mm(H)
 * CE, FCC Certified
-
-![EDA-IoT Hotspot Sample - Top, Bottom](edatec/eda-iot-hotspot-new-sample-top-bottom.png)
-
-![EDA-IoT Hotspot Sample Photo](edatec/eda-iot-hotspot-new-sample.png)
-
 
 ## What is your approximate price point?
 
-The approximate price point is arround 499 USD.
+The approximate price point is arround 199 USD.
 
 ## What is your expected production and delivery timeline?
 
-We expected to start the production in Nov-2021 and start to deliver the frist batch in Dec-2021
+We expected to start the production in Q2-2022 and start to deliver the frist batch in May-2021
 
 ## Previous shipments
 
@@ -99,11 +94,11 @@ For how long? How are you planning to handle repairs and replacements?
 * Which security (swarm) element are you using?
   * **ATECC608**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-  * **SX1302/1303+SX1250**
+  * **SX1303+SX1250**
 * Where are you sourcing your components from?
   * **We sourced the components from authorized component distributors like Arrow, Future Electronics and local manufacturers**
 * How many radio modules/ concentrators can you procure?
-  * **We have secured 5Kpcs radio module stock, our LoRa module partners commmitted to supply another 5Kpcs in 2021**
+  * **We have secured 5Kpcs radio module stock, we placed the component PO to our supplier for 2022 demand**
 
 ## Manufacturing Information
 
@@ -121,9 +116,9 @@ To be submitted privately.
 ## Budget & Capital
 
 * How many of these are you hoping to make and sell?
-  * **10Kpcs in 2021, 100Kpcs in 2022**.
+  * **50Kpcs in 2022.
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?
-  * **We reserved US$1M to support this project initially, more to invest according to the progress of project**.
+  * **We reserved enough fund to support this project, our cash flow is not a problem for us**.
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
   * **Our business is profitable, the shareholders could invest US$5M fund to support this project.**
 
@@ -131,7 +126,7 @@ To be submitted privately.
 
 Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
 
-**The current challenge is the component supply, we are verifying the alternative components and get the supply support from multiple sources.**
+**The current challenge is the component supply, we are working with our supplier partners to ensure constant supply.**
 
 ## Other information
 
@@ -147,4 +142,6 @@ paypal/TT
 
 * Eurpose
 * US
+* ASEAN
+* China
 
