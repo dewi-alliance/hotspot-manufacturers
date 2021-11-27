@@ -30,7 +30,7 @@ Product Status: In Development. First prototypes to be built shortly.
 * Concentrator based on the Semtech® SX1302
 * Frequency band: 433MHz/470MHz/868MHz/915MHz/923MHz and other
 * Coverage radius: 3km in city, 5km in rural area
-* Voltage DC 5V
+* Voltage DC 12V
 * Comes in IP30 case
 * Temperature range -25°C ~ +60°C
 * Local Web dashboard for easy diagnostics and reporting
