@@ -79,7 +79,7 @@ Any challenges that could be foreseen mainly comes from our factories and HQ bas
 * Contact email (europe) - nick.chen@polyhex.net 
 * Contact email (North America) - kevin@polyhex.net 
 * Twitter profile - [Polyhex support](https://twitter.com/PolyhexSupport) (soon to open product dedicated profile) 
-* Discord  - (available soon)
+* Discord  - [invite link here](https://discord.gg/S4evNYmfyz)
 * Website - [Polyhex Technology](http://www.polyhex.net/)
 
 # Payment methods available 
