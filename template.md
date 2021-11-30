@@ -80,7 +80,7 @@ Please tell us about some of the challenges that would prevent these products fr
 * Other social profiles -
 * Website -
 
-## Payment methods available
+## Payment methods available:
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
