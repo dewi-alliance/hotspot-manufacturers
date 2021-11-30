@@ -12,6 +12,7 @@ Application to become an approved third party manufacturer as per HIP19.
 * What brought you to Helium etc? 
 
 ## Product Information (required)
+* What is this product's model name or model number? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
 * Provide a brief description of what you're making.
