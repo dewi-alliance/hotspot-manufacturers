@@ -24,7 +24,7 @@ As an existing manufacturer of Hotspot, we will keep investing in research and d
 COTX product portfolio consists of IoT modules, LoRa gateways, node devices and all-in-one solutions. We have over 80 varieties of products in active production. They offer high quality, outstanding radio performances and carrier-grade security, and support US915, AU915, AS923, EU868, IN865, RU867, CN470 etc. Please consult https://www.cotxnetworks.com/ for the full product list.  
 We have recently developed a new light hotspot compatible with Helium network. This product is named as COTX X1 hotspot.  
 Like our Smart LoRa Gateways, Helium Hotspot X1 hotspot features:  
-•	Powered by MIPS @580MHz 64M DDR2 RAM  
+•	Powered by MIPS @580MHz 128M DDR2 RAM  
 •	Comes with a LoRa gateway processor SX1303  
 •	WAN 100M RJ45  
 •	WiFi IEEE802.11a/b/g/n  
