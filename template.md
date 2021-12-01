@@ -41,6 +41,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
+* Are you using an ECC608. Yes or no?
 * Encrypted/locked-down firmware. Yes or no? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
