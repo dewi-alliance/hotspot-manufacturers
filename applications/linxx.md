@@ -38,7 +38,9 @@ Linxx Inc is founded in June 2021 in Southern California. We want to combine our
 
 * What is this product's model name or model number?  
   
-  Linxx Hotspot ![product](./linxx/showcase.jpg)
+  Linxx Hotspot  
+  
+  ![product](./linxx/showcase.jpg)
 
 * Is this Light Hotspot or Full Hotspot?  
   
