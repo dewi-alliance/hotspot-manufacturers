@@ -112,21 +112,51 @@ We use the ECC608 chip as recommended by Helium to store the encrypted swarm key
 
 # **Manufacturing Information**
 
- We have long-standing business cooperation with many trusted manufacturing partners.
+**Have you built and delivered radio hardware products before?**
 
+ Yes
  
+**Have you built gateways before?**
+
+Yes
+
+**How many gateways did you make?**
+
+We have manufactured and sold 1000 gateways in the past in Singapore.
+
+**If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.**
+
+
+We produce the gateways, and we also have excellent business cooperation with many trusted manufacturing partners.
 
 # **Proof of Identity**
 
  To be submitted privately to DeWi.
 
  
-
 # **Budget & Capital**
 
-We have invested enough funds to produce more than 5000 units per month. If necessary, we will re-plan the quantity to meet the market demand.
+**How many of these are you hoping to make and sell?**
 
  
+ We have invested enough funds to produce more than 5000 units per month. If necessary, we will re-plan the quantity to meet the market demand.
+ 
+**How much money will be required up-front?**
+
+$500,000
+
+**How much money do you have on-hand**
+
+ $1,000,000
+ 
+**and how much do you have access to?**
+
+$1,000,000
+
+**What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.**
+
+Our company will receive more than $1,000,000 investment funds next month, and we can get more cash by selling our products in the future.
+
 
 # **Risks & Challenges**
 
