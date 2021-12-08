@@ -3,14 +3,19 @@
 
 ## Summary
 
+### Nebra Rockchip (HNT-HHRK4) - Indoor Full Hotspot
+
 Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is an electronics manufacturer and retailer with experience in both the cryptocurrency and LoRa industries.
 
-We are submitting a new proposal for the Nebra Rockchip Hotspot Miner as shown in the pictures below. The reason for creating this new version is to add resiliency to our existing supply chain. We have had quite severe shortages in Raspberry Pi Compute Module 3+ boards, and we do not foresee this being hugely better in the coming months. So we have created two new versions of our Hotspot Miner to manage supply in case we have further Compute Module 3+ shortages...this is one, the CM4 based version is another.
+We are submitting a new proposal for the Nebra Rockchip Hotspot Miner as shown in the pictures below. The reason for creating this new version is to add resiliency to our existing supply chain. We have had quite severe shortages in Raspberry Pi Compute Module 3+ boards, and we do not foresee this being hugely better in the coming months. So we have created two new versions of our Hotspot Miner to manage supply in case we have further Compute Module 3+ shortages...this is one, the CM4 based version is another. This will also provide an increase in ram and processing power (6 core ARM processor with 2GB ram). We will use this to satisfy some existing orders where we have supply shortages on current design.
 
 ![Nebra Rockchip Hotspot](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/160839_1024x1024_ddd6a061-f4c9-4681-90ea-437deb205b5c.jpg?v=1633295350)
 ![Nebra Rockchip Internals 1](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195127.jpg?v=1633295350)
 ![Nebra Rockchip Internals 2](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195157.jpg?v=1633295350)
 ![Nebra Rockchip Internals 3](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195209.jpg?v=1633295351)
+![Nebra Black Case](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150429_480x480.jpg?v=1637277322)
+![Nebra Black Case 2](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150446_480x480.jpg?v=1637277297)
+![Nebra open](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150823_480x480.jpg?v=1637277243)
 
 ## Company Information
 
