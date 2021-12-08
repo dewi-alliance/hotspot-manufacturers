@@ -5,7 +5,7 @@ Application to become an approved third-party manufacturer as per [HIP19](https:
 
 ## Company Information
 Headquartered in Belgium and with more than 35 years of experience, OPTION is ideally positioned to offer efficient, reliable and secure IoT solutions across a variety of industries and applications.
-OPTION partners with system integrators, value added resellers, application platform providers, value added distributors and network operators to bring tailor-made solutions to customers around the world.
+OPTION partners with system integrators, value added resellers, application platform providers, value added distributors and network operators to bring tailor-made solutions to customers around the world. OPTION<sup>TM</sup> is a brand of technology group CRESCENT NV, a company listed on Euronext Brussels. 
 
    - Driving innovation for over 35 years (founded in 1986).
    - Focus on Wireless connectivity solutions.
@@ -48,17 +48,18 @@ Support will be provided over [Discord](https://discord.gg/RhAKM4FVpw) and gener
 - Over 3000 devices in stock and can scale up production according to the market demands, depending on global availability of components
 
 ## Proof of Identity
-Option is a publicly quoted technology company, headquartered in Leuven, Belgium. 
-All information is public an can be found on our [website](https://www.option.com).
+OPTION<sup>TM</sup> is a brand of technology group CRESCENT NV, a company listed on Euronext Brussels.
+All information is public and can be found on our [website](https://www.option.com) or [website](https://www.crescent-ventures.com/).
 
 ## Budget & Capital
-All (financial) information is public and can be found on our [website](https://www.option.com).
+All financial and legal information is public and can be found on our  [website](https://www.crescent-ventures.com/).
 
 ## Risks & Challenges
 Worldwide shortage of chips and select electronic components.
 
 ## Other information
-* Website - https://www.option.com/
+* Commercial website - https://www.option.com/
+* Company website - https://www.crescent-ventures.com/
 * Webshop - https://www.option.com/shop
 * Discord - https://discord.gg/RhAKM4FVpw
 * Payment methods - Credit card and Paypal

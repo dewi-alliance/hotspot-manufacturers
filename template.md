@@ -12,6 +12,7 @@ Application to become an approved third party manufacturer as per HIP19.
 * What brought you to Helium etc? 
 
 ## Product Information (required)
+* What is this product's model name or model number? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
 * Provide a brief description of what you're making.
@@ -40,6 +41,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
+* Are you using an ECC608. Yes or no?
 * Encrypted/locked-down firmware. Yes or no? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
@@ -79,7 +81,7 @@ Please tell us about some of the challenges that would prevent these products fr
 * Other social profiles -
 * Website -
 
-## Payment methods available
+## Payment methods available:
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
