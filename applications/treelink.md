@@ -149,7 +149,7 @@ Contact details for this will be provided after your application is submitted on
 
 
 ## Other information (required) if you do not provide contact information we cannot review your proposal.
-* Contact info (* required) supprot@treelink-iot.com
+* Contact info (* required) support@treelink-iot.com
 * Twitter profile - https://twitter.com/Treelinkiot
 * Facebook profile - https://www.facebook.com/Treelinkiot
 * Website - www.treelink-iot.com
