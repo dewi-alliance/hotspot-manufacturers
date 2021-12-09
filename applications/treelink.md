@@ -48,10 +48,10 @@ Application to become an approved third party manufacturer as per HIP19.
     ·Coverage radius: 3 km in urban areas and 5 km in rural areas
 
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
-<div align=center><img src="applications/treelink/board-3d-top.png"/></div>
+<div align=center><img src="treelink/board-3d-top.png"/></div>
 <p align="center">Figure 1. Hotspot board 3D top</p>
 
-<div align=center><img src="applications/treelink/board-3d-buttom.png"/></div>
+<div align=center><img src="treelink/board-3d-buttom.png"/></div>
 <p align="center">Figure 2. Hotspot board 3D buttom</p>
 
 * Your plan for software setup and configuration for the devices. This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
