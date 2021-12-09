@@ -3,11 +3,13 @@
 
 ## Summary
 
+### Nebra CM4 (HNT-CM4-OUT) - Outdoor Full Hotspot
+
 Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is an electronics manufacturer and retailer with experience in both the cryptocurrency and LoRa industries.
 
 We are submitting a new proposal for the Nebra CM4 Hotspot Miner. The reason for creating this new version is to add resiliency to our existing supply chain. We have had quite severe shortages in Raspberry Pi Compute Module 3+ boards, and we do not foresee this being hugely better in the coming months. So we have created two new versions of our Hotspot Miner to manage supply in case we have further Compute Module 3+ shortages...these CM4 indoor and outdoor units and the Rockchip based version is another.
 
-The casing for these indoor and outdoor units based on the CM4 is identical to our existing indoor and outdoor miner products, the only difference is a change in the daughterboard and compute module parts.
+The casing for these indoor and outdoor units based on the CM4 is identical to our existing indoor and outdoor miner products, the only difference is a change in the daughterboard and compute module parts. The CM4 (full hotspot outdoor) will replace our existing outdoor and also improves the hardware with an increase in ram and processing power (4 core ARM with 2gb ram). We will use this to satisfy some existing orders where we have supply shortages on current design [as mentioned in our recent update](https://www.nebra.com/blogs/news/nebra-miners-shipping-production-update-7th-december-2021).
 
 ![Outdoor Helium Hotspot Miner](https://cdn.shopify.com/s/files/1/2187/3161/products/1607129058221_IP67-Case-Ethernet-Gland-Corner_1024x_c3d11218-46f3-41cd-a97e-2931b5a8d891_1024x.jpg?v=1607141823)
 ![Indoor Helium Hotspot Miner](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/Nebra-Helium-Hotspot-Updated-8.jpg?v=1633315578)
