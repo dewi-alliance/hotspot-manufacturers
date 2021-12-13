@@ -63,3 +63,5 @@ Worldwide shortage of chips and select electronic components.
 * Webshop - https://www.option.com/shop
 * Discord - https://discord.gg/RhAKM4FVpw
 * Payment methods - Credit card and Paypal
+* Contact customers - support@option.com
+* Contact Helium auditing team - p.poncelet@option.com
