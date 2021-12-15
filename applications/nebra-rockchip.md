@@ -42,9 +42,9 @@ To date we have shipped in excess of 30k Helium Hotspot Miners with 12k currentl
 * **Image**: [See here](#summary)
 
 Our Helium Rockchip Hotspot Miner has the following spec:
-* Powered By Rockchip OP1 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
+* Powered By Rockchip OP1 / RK3399 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
 * 2 GB RAM, 32 GB eMMC
-* Comes with a LoRa Concentrator.
+* Comes with a LoRa Concentrator (SX1301 based).
 * Power via USB-C power supply.
 * WiFi and Bluetooth connectivity.
 * Comes with Nebra ECC Key (ATECC) to securely store swarm keys.
