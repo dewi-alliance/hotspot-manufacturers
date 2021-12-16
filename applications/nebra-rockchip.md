@@ -3,14 +3,19 @@
 
 ## Summary
 
+### Nebra Rockchip (HNT-HHRK4) - Indoor Full Hotspot
+
 Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is an electronics manufacturer and retailer with experience in both the cryptocurrency and LoRa industries.
 
-We are submitting a new proposal for the Nebra Rockchip Hotspot Miner as shown in the pictures below. The reason for creating this new version is to add resiliency to our existing supply chain. We have had quite severe shortages in Raspberry Pi Compute Module 3+ boards, and we do not foresee this being hugely better in the coming months. So we have created two new versions of our Hotspot Miner to manage supply in case we have further Compute Module 3+ shortages...this is one, the CM4 based version is another.
+We are submitting a new proposal for the Nebra Rockchip Hotspot Miner as shown in the pictures below. The reason for creating this new version is to add resiliency to our existing supply chain. We have had quite severe shortages in Raspberry Pi Compute Module 3+ boards, and we do not foresee this being hugely better in the coming months. So we have created two new versions of our Hotspot Miner to manage supply in case we have further Compute Module 3+ shortages...this is one, the CM4 based version is another. This will also provide an increase in ram and processing power (6 core ARM processor with 2GB ram). We will use this to satisfy some existing orders where we have supply shortages on current design [as mentioned in our recent update](https://www.nebra.com/blogs/news/nebra-miners-shipping-production-update-7th-december-2021).
 
 ![Nebra Rockchip Hotspot](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/160839_1024x1024_ddd6a061-f4c9-4681-90ea-437deb205b5c.jpg?v=1633295350)
 ![Nebra Rockchip Internals 1](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195127.jpg?v=1633295350)
 ![Nebra Rockchip Internals 2](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195157.jpg?v=1633295350)
 ![Nebra Rockchip Internals 3](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211003_195209.jpg?v=1633295351)
+![Nebra Black Case](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150429_480x480.jpg?v=1637277322)
+![Nebra Black Case 2](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150446_480x480.jpg?v=1637277297)
+![Nebra open](https://cdn.shopify.com/s/files/1/0071/2281/3001/files/20211112_150823_480x480.jpg?v=1637277243)
 
 ## Company Information
 
@@ -37,9 +42,9 @@ To date we have shipped in excess of 30k Helium Hotspot Miners with 12k currentl
 * **Image**: [See here](#summary)
 
 Our Helium Rockchip Hotspot Miner has the following spec:
-* Powered By Rockchip OP1 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
+* Powered By Rockchip OP1 / RK3399 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
 * 2 GB RAM, 32 GB eMMC
-* Comes with a LoRa Concentrator.
+* Comes with a LoRa Concentrator (SX1301 based).
 * Power via USB-C power supply.
 * WiFi and Bluetooth connectivity.
 * Comes with Nebra ECC Key (ATECC) to securely store swarm keys.

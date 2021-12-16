@@ -64,5 +64,5 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 
 ## Pre-Orders
  At this point, after MOC approval, you are in the best position to take pre-orders as you see fit.
- A wait-list is permitted if you are not collecting payments. If you need to collect payment as part of your wait-list, you should contact christina@dewi.org so the matter can be addressed by the Manufacturing Oversight Committee.
+ A wait-list is permitted if you are not collecting payments.
 

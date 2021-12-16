@@ -3,6 +3,8 @@
 
 ## Summary
 
+### Nebra Light (HNTLGTMC) - Indoor Light Hotspot
+
 Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is an electronics manufacturer and retailer with experience in both the cryptocurrency and LoRa industries.
 
 We are proposing to make a Light Gateway hotspot as shown in the pictures below. This is the special edition blue colour. There will also be a black colour.

@@ -3,6 +3,8 @@
 
 ## Summary
 
+### Nebra 5G Ready (HNT-5G) - Indoor 5G Ready Full Hotspot
+
 Nebra Ltd (also trading as [Pi Supply](https://www.pi-supply.com), [StakeBox](https://www.stakebox.org), and [JustBoom](https://www.justboom.co)) is an electronics manufacturer and retailer with experience in both the cryptocurrency and LoRa industries.
 
 We are proposing to make a "5G Ready" Helium Hotspot as shown in the picture below. This will initially (Q2 2022 first batch) be only capable of acting as a Helium Hotspot Miner but 5G capability with Magma will be added around Q3 2022 with a software update.
