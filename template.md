@@ -76,6 +76,7 @@ Please tell us about some of the challenges that would prevent these products fr
 
 ## Other information (required) if you do not provide contact information we cannot review your proposal.
 * Contact info (* required)
+* Support Email -
 * Twitter profile -
 * Facebook profile -
 * Other social profiles -
