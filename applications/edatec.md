@@ -32,13 +32,13 @@ Thanks to more than 4 years’ experience in developing IoT market and intensive
 
 **Expected Release Date:** Nov 2021
 
-EDA-IoT Hotspot is a new Full Hotspot for PoC and Data Transfer. It is based on ARM Cortex A72 Quad Core 1.5GHz processors and Semtech SX1302 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868, US915. The product will be certified by FCC & CE.
+EDA-IoT Hotspot is a new Full Hotspot for PoC and Data Transfer. It is based on ARM Cortex A72 Quad Core 1.5GHz processors and Semtech SX1302/1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are CN470, EU868 and US915. The product will be certified by FCC & CE.
 
 It is a highly reliable, easy to use, indoor full hotspot for the Helium network.
 
 **Features**
 
-* Concentrator based on the Semtech SX1302, Support EU868, US915 LoRaWAN frequencies
+* Concentrator based on the Semtech SX1302/1303, Support CN470, EU868 and US915 LoRaWAN frequencies
 * Raspberry Pi 4B Inside
   * ARM Cortex A72 Quad Core 1.5GHz 64bit CPU
   * 2GB DDR
@@ -99,7 +99,7 @@ For how long? How are you planning to handle repairs and replacements?
 * Which security (swarm) element are you using?
   * **ATECC608**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-  * **SX1302+SX1250**
+  * **SX1302/1303+SX1250**
 * Where are you sourcing your components from?
   * **We sourced the components from authorized component distributors like Arrow, Future Electronics and local manufacturers**
 * How many radio modules/ concentrators can you procure?
@@ -145,6 +145,7 @@ paypal/TT
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
 
+* China
 * Eurpose
 * US
 
