@@ -49,10 +49,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required)
-* Please let us know:
-
 * The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email DeWi (christina@dewi.org). Which security (swarm) element are you using? 
-* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
+* Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
 We recommend you don't use the SX1301 in new designs 
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
