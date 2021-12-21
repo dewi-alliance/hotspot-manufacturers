@@ -103,6 +103,7 @@ But These Application need to become real. And Kerlink, as a Pioneer and Pure pl
 ## Other information
 
 * Desired Discord support channel name: Kerlink
+* Contact email: g.boisgontier@kerlink.fr
 * Twitter profile: https://twitter.com/kerlink_news
 * Facebook profile: -
 * Other social profiles: https://www.linkedin.com/company/kerlink/ — https://www.instagram.com/kerlink_news/ — https://www.youtube.com/channel/UCXR60-5v1ksOD3r4NW-lLyw

@@ -1,7 +1,7 @@
 ## Please copy this template.md, do not edit the template directly
 ## YOUR NAME
 
-Application to become an approved third party manufacturer as per HIP19.
+Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information may result in delays.
 ## Summary
 
 ## Company Information (required)
@@ -31,7 +31,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-* Which countries do you plan to ship to? 
+
+## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
@@ -48,10 +49,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required)
-* Please let us know:
-
-* Which security (swarm) element are you using? 
-* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
+* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email DeWi (christina@dewi.org). Which security (swarm) element are you using? 
+* Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
 We recommend you don't use the SX1301 in new designs 
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
@@ -75,7 +74,7 @@ Contact details for this will be provided after your application is submitted on
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information (required) if you do not provide contact information we cannot review your proposal.
-* Contact info (* required)
+* Contact info 
 * Contact Email -
 * Twitter profile -
 * Facebook profile -
@@ -83,6 +82,4 @@ Please tell us about some of the challenges that would prevent these products fr
 * Website -
 
 ## Payment methods available:
-
-## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
