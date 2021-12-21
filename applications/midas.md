@@ -73,5 +73,5 @@ The short-term risk is the shortage of chips currently happening in the world. W
 * Twitter profile -https://twitter.com/midaswireless
 * Website -www.midaswireless.com
 * Contact info -support@midaswireless.com
-* Payment methods available -
+* Payment methods available - We support Coinpayment platform for order placement; Supported tokens: ERC20-USDC, BSC-BUSD, ERC20-USDT and TRC20-USDT.
 * Regions covered / shipped to - Worldwide
