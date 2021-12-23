@@ -5,19 +5,19 @@ Application to become an approved third party manufacturer as per HIP19. All que
 ## Summary
 
 ## Company Information (required)
-* What is your company name?
-* How long have you been in business? 
-* What kind of products have you created? 
-* How many have you sold? 
-* What brought you to Helium etc? 
+* What is your company name? Silicon (Shenzhen) Electronic Technology Co., Ltd
+* How long have you been in business? Since 2014
+* What kind of products have you created? IR receiver chips，blockchain + RFID chips, gateways.
+* How many have you sold?  The total annual shipment is about 1 million units
+* What brought you to Helium etc? Relative articles on internet, miner communities
 
 ## Product Information (required)
-* What is this product's model name or model number? 
-* Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-* Is it for indoor or outdoor?
-* Provide a brief description of what you're making.
+* What is this product's model name or model number?Broadcom BCM2837 processor, 1GB LPDDR2 RAM, 32GB eMMC flash storage, 35 µin hard gold plating I/O pins, P/N: CM3+/32GB,XR22802IL56-F interface ICHi-Speed USB to 10/100 Ethernet Bridge with 2 UARTs, QFN-56 encapsulation, XMS80988” 0.5 µm CMOS (high-end, anti-Wi-Fi),XMS8090 0.18 µm CMOS(high performance, low cost),XMS80888” 0.5 µm CMOS(high performance),XMS8096 0.18 µm CMOS(high-end, anti-Wi-Fi),XMS8050 0.18 µm CMOS(high end, sequence code)
+* Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots) Full Hotspot
+* Is it for indoor or outdoor? Indoor
+* Provide a brief description of what you're making. We develop a new-generation IR receiver chip with better performance and higher market competitiveness: improved induction distance, reduced power consumption, chip area, chip cost.Our self-developed  blockchain + RFID chip is expected to combine the IoT & blockchain perfectly. It has high sensitivity, reliability and reading accuracy, and will be used in Waltonchain-based system solutions for the smart IoT application ecosystem to expand blockchain into the IoT. Blockchain + RFID chip adopts advanced 28 nm process & innovative X11-based algorithm for Waltonchain mainnet mining (also DASH-compatible), has high hash to power ratio.Walkie-talkie MCU:55 nm process, OTP support, flexible interface,low cost & power consumption, high performance.
 
-## What is your approximate price point? (required)
+## What is your approximate price point? (required) USD:20-300
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
