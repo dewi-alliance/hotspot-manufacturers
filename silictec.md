@@ -21,23 +21,29 @@ Application to become an approved third party manufacturer as per HIP19. All que
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
+![image](https://user-images.githubusercontent.com/96562800/147326313-7ea06668-c3df-448b-bdd3-2c9aa017d825.png)![image](https://user-images.githubusercontent.com/96562800/147326316-f7de5706-80ff-4973-b3f3-2c375a6441c7.png)![image](https://user-images.githubusercontent.com/96562800/147326315-8db1a08f-5e75-4048-b2f4-9cb25b577d04.png)![image](https://user-images.githubusercontent.com/96562800/147326314-c743b4d1-d6e1-4c6c-abe7-db87f7759a8b.png)
+
 Your plan for software setup and configuration for the devices. 
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+We have our independent software technique team, they are all-time standing-by and would make regular updating. 
 
 ## What is your expected production and delivery timeline? (required)
+Depends on the Marketing and Helium Official. 
 
 ## Previous shipments (required)
 
 ## Startups welcome! 
-* Have you shipped anything in the past? Yes or No
+* Have you shipped anything in the past? Yes
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
+Globally.
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
+Depends on the Market.
 
 ## Customer Support (required)
-* How will your customers be able to contact you for support for your products? 
+* How will your customers be able to contact you for support for your products? Online. 
 * For how long? How are you planning to handle repairs and replacements? 
-
+Hardware replacement depends on the logistics time. Software can be fixed online immediately. 
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
