@@ -68,13 +68,13 @@ Contact details for this will be provided after your application is submitted on
 ## Budget & Capital (required)
 * How many of these are you hoping to make and sell? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
-* What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash. 
+* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash.) 
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal.
-* Contact Info: 
+* Contact Info 
 * Contact Email (required) -
 * Twitter profile -
 * Facebook profile -
