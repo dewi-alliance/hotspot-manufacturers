@@ -48,23 +48,23 @@ Hardware replacement depends on the logistics time. Software can be fixed online
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
-* Are you using an ECC608. Yes or no?
-* Encrypted/locked-down firmware. Yes or no? 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+* Are you using an ECC608. Yes or no? NO.
+* Encrypted/locked-down firmware. Yes or no? NO.
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? No.
+* Encrypted buses, potting and other anti-tampering measures. Yes or No?No.
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?No.
 
 ## Hardware Information (required)
-* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email DeWi (christina@dewi.org). Which security (swarm) element are you using? 
-* Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
+* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email DeWi (christina@dewi.org). Which security (swarm) element are you using? SX1302/03
+* Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) SX1302/03
 We recommend you don't use the SX1301 in new designs 
-* Where are you sourcing your components from? 
-* How many radio modules/ concentrators can you procure? 
+* Where are you sourcing your components from? China and globally
+* How many radio modules/ concentrators can you procure? We procure all modules, but the delivery time is changing according to the market.
 
 ## Manufacturing Information (required)
-* Have you built and delivered radio hardware products before?
-* Have you built gateways before? 
-* How many gateways did you make? 
+* Have you built and delivered radio hardware products before?Yes.
+* Have you built gateways before? Yes.
+* How many gateways did you make? Routers, Wi-Fi mesh.
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
 ## Proof of Identity
