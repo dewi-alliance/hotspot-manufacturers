@@ -86,7 +86,7 @@ The main challenge is controlling all the separate legs of the project since we 
 * Other social profiles -
 * Instagram: @miningstoreteam
 * TikTok: @jpbaric
-* Website (required) - www.mininingstore.com
+* Website (required) - www.miningstore.com
 
 ## Payment methods available (required):
 * Bitcoin, Stablecoin
