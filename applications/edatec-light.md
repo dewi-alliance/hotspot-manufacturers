@@ -32,13 +32,13 @@ Thanks to more than 4 years’ experience in developing IoT market and intensive
 
 **Expected Release Date:** Q2 2022
 
-EDA-IoT Light Hotspot is a new Light Hotspot for PoC and Data Transfer. It is based on ARM Cortex A53 Quad Core 1GHz processors and Semtech SX1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU433, CN470, IN865, EU868, AU915, US915, KR920, AS920, and AS923. The product will be certified by FCC & CE and other regulation in specific countries.
+EDA-IoT Light Hotspot is a new Light Hotspot for PoC and Data Transfer. It is based on ARM Cortex A53 Quad Core 1GHz processors and Semtech SX1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868 and US915. The product will be certified by FCC & CE and other regulation in specific countries.
 
 It is a highly reliable, easy to use, indoor light hotspot for the Helium network.
 
 **Features**
 
-* Concentrator based on the Semtech SX1303, Support EU433, CN470, IN865, EU868, AU915, US915, KR920, AS920, and AS923 LoRaWAN frequencies
+* Concentrator based on the Semtech SX1303, Support EU868 and US915 LoRaWAN frequencies
 * ARM Cortex A53 Quad Core 1GHz 64bit CPU
 * 512MB DDR
 * 8GB SD Card Storage
@@ -142,6 +142,4 @@ paypal/TT
 
 * Eurpose
 * US
-* ASEAN
-* China
 
