@@ -5,7 +5,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 ## Summary
 
 ## Company Information (required)
-* What is your company name? Silicon (Shenzhen) Electronic Technology Co., Ltd
+* What is your company name? Silictec (Shenzhen) Electronic Technology Co., Ltd
 * How long have you been in business? Since 2014
 * What kind of products have you created? IR receiver chips，blockchain + RFID chips, gateways.
 * How many have you sold?  The total annual shipment is about 1 million units
@@ -72,8 +72,8 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 Contact details for this will be provided after your application is submitted on GitHub. 
 
 ## Budget & Capital (required)
-* How many of these are you hoping to make and sell? 
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+* How many of these are you hoping to make and sell? 4000 pieces per quater 
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? Silictec (Shenzhen) is not a newly stablished company and we have mature production and marketing lines, we have stable company profit income so we don't have any problem about the upfront fundation. 
 * What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash. 
 
 ## Risks & Challenges (required)
