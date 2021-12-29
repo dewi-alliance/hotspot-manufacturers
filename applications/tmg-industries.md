@@ -4,7 +4,7 @@
 # Summary
 * Two sentences about who you are and what you’d like to build. Indicate if you are building a Light Gateway, or a Full Gateway. Bonus points to include photos and links.  
 
-We are T.M.G INDUSTRIES we are a startup looking to build helium Gateways from what I understand we are technically building a light hotspot. We will be using the same components as a full hotspot to ensure all features work the same and that they will be more than capable for handling the required tasks.
+We are T.M.G INDUSTRIES we are a startup looking to build helium Gateways. We will be building full hotspots.
 
 # Company Information (required)
 • What is your company name?  
@@ -25,11 +25,11 @@ Currently the approximate price is around 550-600usd as components are more expe
 
 # Detailed hardware designs, including relevant parts.
  • CPU:  
- Quad-Core Cortex-A7 1.6GhZ
+ Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz
  * Memory (SDRAM):   
  2GB DDR3
  * Onboard Storage:   
- 16GB SD Card 
+ 32GB SD Card 
  * Onboard Network:   
  10/100 Ethernet RJ45
  * Power Source:   
@@ -53,7 +53,7 @@ No
 * Which countries have you previously shipped regulatory FCC or CE approved products?  
 No  
 * Which countries do you plan to ship to?  
-We plan to start shipping within Canada at first and then will expand to start shipping worldwide.   
+We plan to start shipping within Canada for the first batch and will expand to include the US by the second batch and by the third batch we plan to be worldwide.   
  
 # Customer Support (required)
 * How will your customers be able to contact you for support for your products?  
@@ -103,7 +103,7 @@ Details have already been provided
 * How many of these are you hoping to make and sell?  
 We are hoping to make as many as the people need as long as there is demand we will produce them  
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.  
-So far I have invested around 5000$ I am trying to fund this all personally which has been going very well however once we get our approval I will be able to get around 100000$ for inventory and to be able to fill orders without having to use the funds from the pre-sales. We are aiming to start with a smaller amount and grow gradually so that we can use our money to fill the orders and give the customers the option to cancel and get refunded if they choose. We are actively trying to reduce the cost of manufacturing each unit and we are in target to stay within our projections   
+So far I have invested around 20000$ I am trying to fund this all personally which has been going very well however once we get our approval I will be able to get around 100000$ for inventory and to be able to fill orders without having to use the funds from the pre-sales. We are aiming to start with a smaller amount and grow gradually so that we can use our money to fill the orders and give the customers the option to cancel and get refunded if they choose. We are actively trying to reduce the cost of manufacturing each unit and we are in target to stay within our projections   
  
 # Risks & Challenges (required)
 * Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.  

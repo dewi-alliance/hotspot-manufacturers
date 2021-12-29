@@ -30,9 +30,8 @@ Prototypes and software ready. Photo as below:
 
 <img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_10.jpg">
 
+
 <img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure1.png">
-
-
 
 Estimate price is between $200~$250 for HP0A depends on IC cost, price exclude Helium License. 
 
@@ -132,4 +131,6 @@ We have good experienced in production and quality control for LoRaWAN gateway. 
 * Regions covered / shipped to – Worldwide
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
+
 We plan to ship this model through our global distribute channels. It covers every country. 
+

@@ -1,4 +1,4 @@
-# Copyright © 2020 Browan Communications Inc.
+# Copyright © 2021 Browan Communications Inc.
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
@@ -18,15 +18,15 @@ BROWAN Communications, as a Gemtek Group’s Company, builds on the pioneering f
 ## Product Information
 
 Our main product areas are in WiFi, LoRaWAN gateways and IoT node devices. Please check https://www.browan.com/product/XP/VJ for the full list.
-We are building a new Cellular Gateway (PicoNext) which use Ethernet and LTE as the backhaul.
+We are building a new Gateway (PicoNext) which use Ethernet and WiFi as the backhaul.
 Please find the preliminary HW interfaces:
 
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117094000-22c4fe80-ad95-11eb-8694-53746782d98a.png)
 
 1. LED x4
 2. Reset Button
-3. LTE/LTE-M
-4. Ethernet
+3. Ethernet
+4. WiFi
 5. LoRa 8 channles
 6. DC power supply
 7. POE power supply 
@@ -46,7 +46,7 @@ Additionally our engineers and technicians span the globe, thus we can cover mul
 
 ## Hardware Security
 
-For our current product, Browan Cellular LoRa Gateway - we have adopted the ECC608 security element chip to increase the security of the swarm key.
+For our current product, Browan LoRa Gateway - we have adopted the ECC608 security element chip to increase the security of the swarm key.
 
 For future products we are evaluating more options including other security element chips.
 

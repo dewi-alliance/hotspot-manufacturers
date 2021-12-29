@@ -23,15 +23,17 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 
 ## Submit an Application 
  Overview of HIP19 (Manufacturer Approvals)
- Reach out to scott@dewi.org and sophi@dewi.org for KYC requirements
+ Reach out to scott@dewi.org and christina@dewi.org for KYC requirements
  
-## Fees in USD (beginning August 2021)
+## Fees in USD (updated December 2021)
  * HIP19 proposal (administrative costs for application review): $500
  * DeWi KYC: $1500
- * Hardware Audit: if using ECC608 for security: $3000. 
+ * Hardware Audit: if using ECC608 for security: $3000 
  * Hardware Audit: other security implementations: $4000
+ * Hardware Audit: additional fee for indoor and outdoor arriving at the same time: $500
+ * Radio Certifications: additional radio certificates submitted after the initial MOC vote: $2000
  
- Please ask sophi@dewi.org or scott@dewi.org for an invoice.
+ Invoices will be emailed once you submit a HIP19 proposal. Email christina@dewi.org if you have additional questions.
  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
@@ -63,5 +65,5 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 
 ## Pre-Orders
  At this point, after MOC approval, you are in the best position to take pre-orders as you see fit.
- A wait-list is permitted if you are not collecting payments. If you need to collect payment as part of your wait-list, you should contact sophi@dewi.org so the matter can be addressed by the Manufacturing Oversight Committee.
+ A wait-list is permitted if you are not collecting payments.
 

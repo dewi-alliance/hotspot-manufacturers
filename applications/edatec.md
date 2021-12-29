@@ -32,29 +32,30 @@ Thanks to more than 4 years’ experience in developing IoT market and intensive
 
 **Expected Release Date:** Nov 2021
 
-EDA-IoT Hotspot is a new Full Hotspot for PoC and Data Transfer. It is based on ARM Cortex A72 Quad Core 1.5GHz processors and Semtech SX1302 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868, US915. The product will be certified by FCC & CE.
+EDA-IoT Hotspot is a new Full Hotspot for PoC and Data Transfer. It is based on ARM Cortex A72 Quad Core 1.5GHz processors and Semtech SX1302/1303 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868 and US915. The product will be certified by FCC & CE.
 
 It is a highly reliable, easy to use, indoor full hotspot for the Helium network.
 
 **Features**
 
-* Concentrator based on the Semtech SX1302, Support EU868, US915 LoRaWAN frequencies
+* Concentrator based on the Semtech SX1302/1303, Support EU868 and US915 LoRaWAN frequencies
 * Raspberry Pi 4B Inside
   * ARM Cortex A72 Quad Core 1.5GHz 64bit CPU
   * 2GB DDR
-  * 64GB SD Card Storage
+  * 32GB SD Card Storage
 * Gig-Ethernet and Dual-band Wi-Fi networks
 * Bluetooth 5.0 for Gateway configuration with Helium's official App
 * Built-in ATECC608 security chip
 * Excellent Cooling System with CNC Aluminum Alloy Body
 * OTA support
-  * Docker based software OTA
-  * Debian APT package based OS OTA
 * 12V DC Power in
 * Dimension: 95mm(L) x 95mm(W) * 26mm(H)
 * CE, FCC Certified
 
-![EDA-IoT Hotspot Picture](edatec/eda-iot-hotspot.jpg)
+![EDA-IoT Hotspot Sample - Top, Bottom](edatec/eda-iot-hotspot-new-sample-top-bottom.png)
+
+![EDA-IoT Hotspot Sample Photo](edatec/eda-iot-hotspot-new-sample.png)
+
 
 ## What is your approximate price point?
 
@@ -98,7 +99,7 @@ For how long? How are you planning to handle repairs and replacements?
 * Which security (swarm) element are you using?
   * **ATECC608**
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)
-  * **SX1302+SX1250**
+  * **SX1302/1303+SX1250**
 * Where are you sourcing your components from?
   * **We sourced the components from authorized component distributors like Arrow, Future Electronics and local manufacturers**
 * How many radio modules/ concentrators can you procure?
