@@ -30,7 +30,7 @@ Prototypes and software ready. Photo as below:
 
 <img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_10.jpg">
 
-<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure.png">
+<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure1.png">
 
 
 
