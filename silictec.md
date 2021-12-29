@@ -78,14 +78,14 @@ Contact details for this will be provided after your application is submitted on
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
-
+The delivery time of some modules is always changing. Presale according to the delivery time should be the solution.
 ## Other information if you do not provide contact information we cannot review your proposal.
 * Contact Info: 
-* Contact Email (required) -
+* Contact Email (required) -business@slkxm.com 
 * Twitter profile -
 * Facebook profile -
 * Other social profiles -
 * Website (required) -
 
 ## Payment methods available (required):
-
+Bank transfer, check, cryptocurrency 
