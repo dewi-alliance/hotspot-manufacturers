@@ -55,7 +55,7 @@ We will handle customer service requests via Email and Discord vendor channels, 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:  
 
-  The swarm_key file stored into encrypted chip ECC508/ECC608.
+  The swarm_key file stored into encrypted chip ECC608.
 
 * Are you using an ECC608. - Yes 
 * Encrypted/locked-down firmware. - Yes
