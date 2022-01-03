@@ -66,7 +66,7 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 Contact details for this will be provided after your application is submitted on GitHub. 
 
 ## Budget & Capital (required)
-* How many of these are you hoping to make and sell? 
+* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash.) 
 
