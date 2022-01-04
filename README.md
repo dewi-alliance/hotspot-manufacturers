@@ -33,7 +33,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  * Hardware Audit: additional fee for indoor and outdoor arriving at the same time: $500
  * Radio Certifications: additional radio certificates submitted after the initial MOC vote: $2000
  
- Invoices will be emailed once you submit a HIP19 proposal. Email christina@dewi.org if you have additional questions.
+ Invoices will be emailed after you submit a HIP19 proposal and KYC documents. Email christina@dewi.org if you have additional questions.
  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
