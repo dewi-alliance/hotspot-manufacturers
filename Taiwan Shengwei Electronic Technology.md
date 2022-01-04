@@ -1,8 +1,7 @@
-## YOUR NAME
-Erickwok
+## Taiwan Shengwei Electronic Technology
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
-Taiwan Shengwei Electronic Technology Co., Ltd. was established in 2013 by two former Qualcomm and CSR communications engineers. It has been in development for 8 years. We have so far manufactured for TP-link, D-link, NETGEAR, Jabra, Vodafone Australia and Softbank of Japan, dozens of WiFi routers and several Bluetooth headsets, For Helium product, we will create a new website and brand to sell. 
+Taiwan Shengwei Electronic Technology was established in 2013 by two former Qualcomm and CSR communications engineers. It has been in development for 8 years. We have so far manufactured for TP-link, D-link, NETGEAR, Jabra, Vodafone Australia and Softbank of Japan, dozens of WiFi routers and several Bluetooth headsets, For Helium product, we will create a new website and brand to sell. 
 
 ## Company Information (required)
 * What is your company name? Taiwan ShengWei Electronics Technology Company. 
