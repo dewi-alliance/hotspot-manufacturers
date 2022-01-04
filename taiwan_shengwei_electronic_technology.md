@@ -16,7 +16,8 @@ Taiwan Shengwei Electronic Technology was established in 2013 by two former Qual
 * Is it for indoor or outdoor? It is for indoor.
 * Provide a brief description of what you're making. We use RaspBerry Pi4B as the calculation and control module of the mining machine. We use chipmatrix M302 (sx1302 inside) as lora's communication gateway.（CN470、EU868、US915） At present, we have successfully completed the steps of connecting the Raspberry Pi to the lora gateway, but I did not find the HNT code, nor can I upgrade the Raspberry Pi and Lora gateway modules to Helium Mining.  
 
-## What is your approximate price point? (required) We recommend that the retail price be in the range of US$700
+## What is your approximate price point? (required) 
+We recommend that the retail price be in the range of US$700
 
 ## Please provide detailed hardware designs, including relevant parts (required)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. Your plan for software setup and configuration for the devices. This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
@@ -106,6 +107,8 @@ Please tell us about some of the challenges that would prevent these products fr
 * Discord -Erickwok#6817
 * Website -
 
-## Payment methods available  Crypto, credit card, paypal, check, wire
+## Payment methods available  
+Crypto, credit card, paypal, check, wire
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required) North America, Australia, Japan and China
+## Which countries do you plan to ship to and get regulatory certifications for? (required)
+North America, Australia, Japan and China
