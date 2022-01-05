@@ -1,4 +1,4 @@
-## Shenzhen Gator Brilliant Technology Co., Ltd
+## Shenzhen Gator Brilliant Technology Co., Ltd(Gator for short)
 Application to become an approved third party manufacturer as per HIP19
 ## Summary
 Gator Group,established in 2009, is a high tech enterprise,which specialized in IoT field.Our main products is family Ecosystem like GPS kids watch,elderly watch,home service Robot and so on.
@@ -6,7 +6,7 @@ We have professional engineers for R&D department in this field.Under the innova
 Every year,big amount capital will be invested into researching and developing new products,devoting to becoming an outstanding force in the global consumer electronics industry,to provide our customers with prime service and create them the maximum value,to realize a win-win cooperation and brilliant future with our customers together.
 ## Company Information (required)
 * What is your company name?
-* Shenzhen Gator Brilliant Technology Co., Ltd
+* Shenzhen Gator Brilliant Technology Co., Ltd(Gator for short)
 * How long have you been in business? 
 * We are in IoT business since 2009. Gator Brilliant Technology invested by Gator Group Co.,LTD.
 * What kind of products have you created? 
@@ -14,22 +14,23 @@ Every year,big amount capital will be invested into researching and developing n
 * How many have you sold? 
 * Gator sold around 300,000 pieces kids watch all over the world.
 * What brought you to Helium etc? 
-* Our team provide technical guidance for HNT miner factory, Helium IOT solution is a perfect project for future IoT field and want to join in this network .
+* Our team know Helium from technical forum, Helium IOT solution is a perfect project for future IoT field and want to join in this network .
 ## Product Information (required)
-Light Gateway GT528
+Full hotspot GatorPro X1
 * WiFi and Ethernet connectivity                       
-* Media Tek MT7622,1.35GHZ 64bit dual-core Arm Cortex-A53
+* RockPi with Rockchip inside,2GB DDR and 32GB storage
 * 8 channel SX1301/SX1302/SX1303 LoRa concentrator
 * Microchip ATECC608 secure element to save swarm key 
-* GPS module:MTK3333.
-* BLE 5.0 for paring and wifi connection.
-* Approximate price point: $119
-* Expected production timeline: First batch product delivery-12/15/2021
+* BLE for paring and wifi connection.
+* Approximate price point: $438
+* Expected production timeline: First batch product delivery-1/25/2022
 
 
-Light Gateway is developed based on MT7622 gateway(see below pic), so can make it stable , we also have OTA firmware updates already to keep software up and security.
-![image](https://user-images.githubusercontent.com/90736405/133545392-5fe75f24-a065-4edb-b6ca-e068a15ae2d4.png)
+Full hotspot is developed based on RockPi(see below pic), so can make it stable , we also have OTA firmware updates already to keep software up and security.
 
+![207871641350129_ pic_hd](https://user-images.githubusercontent.com/90736405/148151765-cfaad10b-e874-4ab7-8a30-9ef1b296ce2a.jpg)
+
+![207891641350164_ pic](https://user-images.githubusercontent.com/90736405/148151844-bf15f8f6-3d4b-4302-9a1f-17c0246c27a4.jpg)
 
 ## Previous shipments (required)
 * Have you shipped anything in the past? Yes or No.
@@ -42,10 +43,10 @@ Light Gateway is developed based on MT7622 gateway(see below pic), so can make i
 * How will your customers be able to contact you for support for your products? 
 * We can support customers through email and we have distributor channel that can support customer too. Customer also can leave message to us via website to feedback all information . 
 * For how long? How are you planning to handle repairs and replacements? 
-* We have OTA server to support customer on firmware update. Light hotspot comes with a 12 months warranty - hotspots are produced with a defect will be replaced within 12 months.
+* We have OTA server to support customer on firmware update. full hotspot comes with a 12 months warranty - hotspots are produced with a defect will be replaced within 12 months.
 
 ## Hardware Security Element (required)
-* The Light hotspot will use Microchip's ECC608A/B secure chip to store the swarm key.
+* The full hotspot will use Microchip's ECC608A/B secure chip to store the swarm key.
 
 * Encrypted/locked-down firmware. Yes or no? 
 * Yes, We will encrypt firmware 
@@ -66,7 +67,7 @@ Light Gateway is developed based on MT7622 gateway(see below pic), so can make i
 * SX1301 with SX1257 and SX1302/SX1303 with SX1250.
  
 * Where are you sourcing your components from? 
-* We are currently working with Avnet and WPG based in China.
+* We are currently working with Avnet,CECport and WPG based in China.
 
 * How many radio modules/ concentrators can you procure? 
 * we can produce 6k Lora concentrators per month based on three models of SX1301/1302/1303 per month in 2022.
@@ -90,7 +91,7 @@ Light Gateway is developed based on MT7622 gateway(see below pic), so can make i
 
 ## Other information (required) if you do not provide contact information, we cannot review your proposal
 * Contact info (* required)Joyce - joyce@gatorcn.com
-* Website -http://gatorsmartwatch.com/
+* Website -http://gatorsmartwatch.com/ (www.gatorproiot.com)
 
 ## Payment methods available 
 T/T,Paypal.
