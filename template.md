@@ -61,7 +61,7 @@ We recommend you don't use the SX1301 in new designs
 * How many gateways did you make? 
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
-## Proof of Identity:
+## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
 Contact details for this will be provided after your application is submitted on GitHub. 
 
