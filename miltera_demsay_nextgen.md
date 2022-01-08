@@ -1,7 +1,4 @@
 ## Miltera Electronics and Software Technologies LTD
-## Mehmet Kurnaz
-## Hasan YENICE
-## Yalin Solak
 
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
