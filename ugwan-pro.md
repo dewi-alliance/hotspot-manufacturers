@@ -17,13 +17,13 @@ By powered with Helium blockchain protocol, 'uG' products will upgrade to fully 
 
 
 
-Amber-link invested factory to setup own prouction line, including SMT and online automatic testing, with ISO9001/14001/45001, IATF16949 certificated.
+Amber-link invested factory to setup own production line, including SMT and online automatic testing, with ISO9001/14001/45001, IATF16949 certificated.
 
 ![Factory](./ugwan/Factory.png) 
 
 
 
-Proucts including:
+Products including:
 
 - Dual-band(SubGHz + 2.4GHz) LoRaWAN Hostspot & Nano(Single/Dual channel) LoRa Hotspot
 
@@ -39,14 +39,14 @@ Proucts including:
 
   
 
-A decentralized secured open network, world-wide roaming service, fair policy for long term maintenance, lower data transfer fee and public document/apply process, Helium network is linking all of the key factors together and leading to change the world's IoT data service mode, new IoT era is comming.
+A decentralized secured open network, world-wide roaming service, fair policy for long term maintenance, lower data transfer fee and public document/apply process, Helium network is linking all of the key factors together and leading to change the world's IoT data service mode, new IoT era is coming.
 
 
 
 ## Product Information 
 uGW800(L) Pro are designed as Helium full-node hotspot for global market, support both indoor and outdoor deployment. 'L' version support 4G LTE.
 
-To match with LoRaWAN regional parameters, uGW800 series will deliver to EU868/US915/AS923 firstly, then support more regional step by step, including CN470/RU864/IN865/AU915/KR920, etc.
+To match with LoRaWAN regional parameters, uGW800 series will deliver to EU868/US915/AS923 firstly, then support more regions step by step, including CN470/RU864/IN865/AU915/KR920, etc.
 
 
 
@@ -122,7 +122,7 @@ To match with LoRaWAN regional parameters, uGW800 series will deliver to EU868/U
 * Have you shipped anything in the past? 
   Yes
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-  U.S., Canada, Netherlands, French, Switchland
+  U.S., Canada, Netherlands, France, Switchland
 
 
 
@@ -165,7 +165,7 @@ To match with LoRaWAN regional parameters, uGW800 series will deliver to EU868/U
 
 ## Amendments for alternate security implementations
 
-Chipsec DX83E08([Datasheet](./ugwan/DX83E08.pdf)) has similar security funcaion as ATECC608, which support:
+Chipsec DX83E08([Datasheet](./ugwan/DX83E08.pdf)) has similar security function as ATECC608, which support:
 
 - Secure Hardware-based Key Storage up to 8 keys, certificates or data
 - Hardware Asymmetric Sign, Verify, Key Agreement
