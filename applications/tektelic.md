@@ -34,9 +34,8 @@ In order to satisfy the security requirement on the Light Hotspots, TEKTELIC wil
 
 ## Hardware Information
 
-ECC608
-SX1308
-TEKTELIC has a number of CM who purchase materials for our builds.  We also purchase direct should be ne necessary. 
+TEKTELIC hotspot hardware is based on our current Micro & Enteprise gateways. This hardware platform includes a Semtech SX1308, a TI AM335x processor, ECC608 secure element, and the Enterprise gateway alone contains a GPS receiver. 
+TEKTELIC has a number of CM's who purchase materials for our builds.  We also purchase direct should it be necessary. 
 Supply chain and demand are the only limiting factors in regards to the volume of radios TEKTELIC can procure.  
 
 ## Manufacturing Information
