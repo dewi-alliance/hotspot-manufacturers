@@ -12,16 +12,10 @@ CalDigit is best known for Thunderbolt docks that turn lightweight laptops into 
 
 ## Product Information
 
-![image](https://github.com/harryli300/Imagefiles/blob/main/CalDigit%20Hotspot%20Image%201.png)
+![image](https://github.com/harryli300/Imagefiles/blob/main/light%20hotspot.png)
 
-Specification:
-1) Core: Quad core CPU, 32GB Storage, 1GB RAM
-2) Input power: 12VDC / 2A
-3) Lora frequency band: US915  and EU868 by different SKU
-4) WiFi 2.4G 802.11b/g/n
-5) Security Crypto Authentication: ECC608
-6) Ethernet port x 1
-7) LED x 3
+Light Hotspot Product Specification:
+![image](https://github.com/harryli300/Imagefiles/blob/main/Product%20Specifications.png)
 
 ## Customer Support
 
