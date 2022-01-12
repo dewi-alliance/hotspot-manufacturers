@@ -27,6 +27,9 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## What is your expected production and delivery timeline? (required)
 
 ## Previous shipments (required)
+
+## Startups welcomed!
+
 * Have you shipped anything in the past? Yes or No
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 
