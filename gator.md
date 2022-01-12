@@ -38,7 +38,7 @@ Full hotspot is developed based on RockPi(see below pic), so can make it stable 
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 * We shipped FCC,CE approved products to many countries：USA,UK,France,Netherlands,Norway,Sweden,Switzerland,Italy,Argentina,Brazil,South Africa,Australia,New Zealand and so on.
 * Which countries do you plan to ship to? 
-* We plan to ship to USA,EU and Australia.
+* We plan to ship to America,Europe,Canada,UK, Australia , New Zealand and China.
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 * We can support customers through email and we have distributor channel that can support customer too. Customer also can leave message to us via website to feedback all information . 
@@ -64,7 +64,7 @@ Full hotspot is developed based on RockPi(see below pic), so can make it stable 
 * Microchip ATECC608
 
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
-* SX1301 with SX1257 and SX1302/SX1303 with SX1250.
+* SX1302/SX1303 with SX1250.which are compatible on hotspot.
  
 * Where are you sourcing your components from? 
 * We are currently working with Avnet,CECport and WPG based in China.
@@ -96,4 +96,4 @@ Full hotspot is developed based on RockPi(see below pic), so can make it stable 
 ## Payment methods available 
 T/T,Paypal.
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-worldwide
+America,Europe,Canada,UK, Australia , New Zealand and China.
