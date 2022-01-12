@@ -1,7 +1,7 @@
 ## Please copy this template.md, do not edit the template directly
 ## YOUR NAME
 
-Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information may result in delays.
+Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
 ## Summary
 
 ## Company Information (required)
