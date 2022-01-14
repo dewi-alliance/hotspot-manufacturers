@@ -3,6 +3,8 @@ Application to become an approved third party manufacturer as per HIP19.
 
 ## Summary
 
+Airbeam is an innovative company that is looking to unlock a worldwide opportunity in 5G and Smart Cities rollout. Based off of production-ready industry-leading chip design, Airbeam supplies the next-generation wireless solution that is positioned to benefit from the existing and emerging high-speed data markets.
+
 ## Company Information (required)
 * What is your company name?
 
