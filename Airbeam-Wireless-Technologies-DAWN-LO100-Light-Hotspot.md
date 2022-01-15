@@ -1,4 +1,6 @@
 ## Airbeam Wireless Technologies Inc.
+<img src="./Airbeam-Wireless-Technologies-Logo.png" width="150">
+
 Application to become an approved third party manufacturer as per HIP19.
 
 ## Summary
