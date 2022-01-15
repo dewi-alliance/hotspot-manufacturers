@@ -91,6 +91,7 @@ Details have been submitted privately to DeWi, as per HIP 19 guideline.
 ## Budget & Capital
 
 As we are a thriving and well-established enterprise with stable capital flow, budget and financing topics are not a concern.
+As requested by DeWi, we disclose that we are planning to purchase HNT needed for onboarding through market and limit buys on exchanges like Binance, as well as through OTC trades.
 
 ## Risks & Challenges
 
