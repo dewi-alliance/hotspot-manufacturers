@@ -77,7 +77,7 @@ Contact details for this will be provided after your application is submitted on
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal.
-* Contact Info: 
+## Contact Info 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
