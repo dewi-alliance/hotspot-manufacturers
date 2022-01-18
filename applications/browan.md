@@ -18,7 +18,7 @@ BROWAN Communications, as a Gemtek Group’s Company, builds on the pioneering f
 ## Product Information
 
 Our main product areas are in WiFi, LoRaWAN gateways and IoT node devices. Please check https://www.browan.com/product/XP/VJ for the full list.
-We are building a new Gateway (PicoNext) which use Ethernet and WiFi as the backhaul.
+We are building two versions of Light Miner (PicoNext) which use Ethernet and WiFi as the backhaul. The standard version comes with SX1302 and the advanced one comes with SX1303 plus GPS. 
 Please find the preliminary HW interfaces:
 
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117094000-22c4fe80-ad95-11eb-8694-53746782d98a.png)
@@ -27,9 +27,10 @@ Please find the preliminary HW interfaces:
 2. Reset Button
 3. Ethernet
 4. WiFi
-5. LoRa 8 channles
-6. DC power supply
-7. POE power supply 
+5. GPS
+6. LoRa 8 channles
+7. DC power supply
+8. POE power supply 
 
 
 ## Customer Support
@@ -82,10 +83,10 @@ Sourcing components continues to be challenging in the current market – severa
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117093961-045f0300-ad95-11eb-9b4d-02450daf4e25.png)
 
 - expected ship date
-September 2021
+April 2022
 - Country / region support 
 US/ EU/ AU
 - expected price point(Please contact with Browan sale Moha mohd@browan.com)
-- likely production quantities: 25,000 units in 2021. 
+- likely production quantities: 100,000 units in 2022.. 
 
 
