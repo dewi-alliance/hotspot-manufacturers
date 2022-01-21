@@ -35,16 +35,30 @@ To date we have shipped in excess of 30k Helium Hotspot Miners with 12k currentl
 
 **The Nebra Rockchip Hotspot Miner is a new product that we have created to ensure supply chain resiliency in the event we have further shortages of Raspberry Pi Compute Modules.**
 
-### Nebra Rockchip Hotspot Miner
+### Nebra Rockchip Hotspot Miner - SX1301
 
 * **Product Status:** First batch of 100 units manufactured. Certification (CE/FCC etc) starting shortly.
-* **Estimated Price:** £350.00 ex VAT
+* **Estimated Price:** £450.00 ex VAT
 * **Image**: [See here](#summary)
 
 Our Helium Rockchip Hotspot Miner has the following spec:
 * Powered By Rockchip OP1 / RK3399 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
 * 2 GB RAM, 32 GB eMMC
 * Comes with a LoRa Concentrator (SX1301 based).
+* Power via USB-C power supply.
+* WiFi and Bluetooth connectivity.
+* Comes with Nebra ECC Key (ATECC) to securely store swarm keys.
+
+### Nebra Rockchip Hotspot Miner - SX1303
+
+* **Product Status:** First batch of 100 units manufactured. Certification (CE/FCC etc) starting shortly.
+* **Estimated Price:** £450.00 ex VAT
+* **Image**: [See here](#summary)
+
+Our Helium Rockchip Hotspot Miner has the following spec:
+* Powered By Rockchip OP1 / RK3399 processor (hexa core - quad core 1.4GHz Cortex-A53 with a dual-core 2GHz Cortex-A72)
+* 2 GB RAM, 32 GB eMMC
+* Comes with a LoRa Concentrator (SX1303 based).
 * Power via USB-C power supply.
 * WiFi and Bluetooth connectivity.
 * Comes with Nebra ECC Key (ATECC) to securely store swarm keys.

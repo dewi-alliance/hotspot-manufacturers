@@ -91,10 +91,16 @@ Details have been submitted privately to DeWi, as per HIP 19 guideline.
 ## Budget & Capital
 
 As we are a thriving and well-established enterprise with stable capital flow, budget and financing topics are not a concern.
+As requested by DeWi, we disclose that we are planning to purchase HNT needed for onboarding through market and limit buys on exchanges like Binance, as well as through OTC trades.
 
 ## Risks & Challenges
 
 The current chip sourcing crisis is affecting almost every company that uses electronics in their products. Furthermore, increasing demand for LoRa chips will probably have a negative effect in terms of sourcing speed and prices. We are mitigating this risk by already reserving and buying critical components with our most trusted suppliers and planning orders and production months in advance. This is the only way to ensure quick and customer-friendly responses to market surges.
+
+## Updates on Device Hardware
+
+As per DeWi guidelines and discussed with DeWi itself, we'd like to announce an update to our Controllino Hotspot:
+The device will receive an update as of April 2022 (called Hotspot V2), with an added LCD display on top of the housing, as well as additional LTE and WiFi options. The housing and other core features of the device remain the same.
 
 ## Other information
 
