@@ -30,18 +30,17 @@ TEKTELIC is looking to leverage the 3rd party organization Emrit https://emrit.i
 
 ## Hardware Security
 
-In order to satisfy the security requirement on the Light Hotspots, TEKTELIC will be adding the ECC206 chip to our board. TEKTELIC will also implement firmware package signing.
+In order to satisfy the security requirement on the Light Hotspots, TEKTELIC will be adding the ECC608 chip to our board. TEKTELIC will also implement firmware package signing.
 
 ## Hardware Information
 
-ECC206
-SX1308
-TEKTELIC has a number of CM who purchase materials for our builds.  We also purchase direct should be ne necessary. 
+TEKTELIC hotspot hardware is based on our current Micro & Enteprise gateways which share the same hardware and software platform. The Micro is our indoor variant while the Enterprise is the IP67 rated outdoor.  This hardware platform includes a Semtech SX1308, a TI AM335x processor, ECC608 secure element, and the Enterprise gateway alone contains a GPS receiver. 
+TEKTELIC has a number of CM's who purchase materials for our builds.  We also purchase direct should it be necessary. 
 Supply chain and demand are the only limiting factors in regards to the volume of radios TEKTELIC can procure.  
 
 ## Manufacturing Information
 
-Have you built and delivered hardware projects before? If yes, how did it go, and how many did you make? If not, from whom will you get help? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+Over the past five years TEKTELIC has shipped over 100K LoRaWAN Gateways to customers globally. TEKTELIC has partnered with two Contract Manufacturers, one based in in Europe and the other in North America to support the product builds and order fulfillments to global customers. TEKTELIC’s European Contract Manufacturing partner is the highest volume CM in the world outside of the China region. Having CM partners in both North America and Europe allows TEKTELIC to fulfill orders quickly and efficiently to any global location and partnering with these leading companies enhances TEKTELIC’s buying power for materials and components.
 
 ## Proof of Identity
 

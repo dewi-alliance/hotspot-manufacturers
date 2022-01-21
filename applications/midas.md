@@ -18,11 +18,11 @@ Midas-926:
 * Quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5 GHz
 * 2GB LPDDR4-3200 SDRAM
 * 32GB Flash
-* ATECC608A or RJGT102 security chip for swarm key
+* ATECC608 security chip for swarm key
 * WiFi(2.4GHz/5.0GHz) IEEE 802.11b/g/n/ac
 * BLE 5.0
 * Status indication LEDs
-* Voltage 12V
+* Voltage 5V
 * Automatic software update
 ![Midas_透明层_正俯](https://user-images.githubusercontent.com/86901323/125427574-f8ae9457-f252-4cb0-b01d-ae8198b7a0c7.jpg)
 ![Midas_透明层_侧](https://user-images.githubusercontent.com/86901323/125427636-9126325b-37d8-4a05-9ce2-c2239669e94c.jpg)
@@ -40,11 +40,11 @@ We'll offer a one-year warranty for the gatway products. And we'll co-work with 
 
 ## Hardware Security Element (required)
 
-The security is guaranteed by Helium hotspot miner standard design using ATECC608A chip.
+The security is guaranteed by Helium hotspot miner standard design using ATECC608 chip.
 
 ## Hardware Information (required)
 
-* We are using ATECC608A and planning to use RJGT102 as a backup
+* We are using ATECC608 as security chip
 * We are using SX1302 in the gateway Midas926
 * We are sourcing from the two major LoRaWan module vendors in China
 * And we have solid supply chain and can procure more than 10K concentrators per year
@@ -73,5 +73,5 @@ The short-term risk is the shortage of chips currently happening in the world. W
 * Twitter profile -https://twitter.com/midaswireless
 * Website -www.midaswireless.com
 * Contact info -support@midaswireless.com
-* Payment methods available -
+* Payment methods available - We support Coinpayment platform for order placement; Supported tokens: ERC20-USDC, BSC-BUSD, ERC20-USDT and TRC20-USDT.
 * Regions covered / shipped to - Worldwide

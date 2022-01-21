@@ -23,15 +23,17 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 
 ## Submit an Application 
  Overview of HIP19 (Manufacturer Approvals)
- Reach out to scott@dewi.org and sophi@dewi.org for KYC requirements
+ Reach out to scott@dewi.org and christina@dewi.org for KYC requirements
  
-## Fees in USD (beginning August 2021)
+## Fees in USD (updated December 2021)
  * HIP19 proposal (administrative costs for application review): $500
  * DeWi KYC: $1500
- * Hardware Audit: if using ECC608 for security: $3000. 
+ * Hardware Audit: if using ECC608 for security: $3000 
  * Hardware Audit: other security implementations: $4000
+ * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with the same hardware: $500
+ * Radio Certifications: additional radio certificates submitted after the initial MOC vote: $2000
  
- Please ask sophi@dewi.org or scott@dewi.org for an invoice.
+ Invoices will be emailed after you submit a HIP19 proposal and KYC documents. Email christina@dewi.org if you have additional questions.
  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
@@ -43,8 +45,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  * Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
  * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
  * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
- * More details about the hardware audit can be reviewed here. Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
- * Please reach out to louis@helium.com and sophi@dewi.org to start this part of the process. 
+ * The publicly available hardware audit procedure is available at [this link.](https://docs.google.com/document/d/15zOOsqLSjb1ETZKHpRoxpxjBjcFUu_c6CpFq3V2gby4) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
  
 ## Complete Onboarding Integration 
  The onboarding integration ensures your hotspot will be recognized by the blockchain and Hotspot owners are able to appropriately provide proof of coverage and mine HNT.
@@ -63,5 +64,5 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 
 ## Pre-Orders
  At this point, after MOC approval, you are in the best position to take pre-orders as you see fit.
- A wait-list is permitted if you are not collecting payments. If you need to collect payment as part of your wait-list, you should contact sophi@dewi.org so the matter can be addressed by the Manufacturing Oversight Committee.
+ A wait-list is permitted if you are not collecting payments.
 

@@ -12,6 +12,8 @@ Our mission is to develop community networks in Africa. We would like to empower
 
 Atom Design and Innovation (Pty) Ltd was established in 2021. It is based in South Africa with an office in Paarl. The team consists of highly skilled and experienced engineers in the IOT industry. This company was established to design, manufacture and service existing IOT devices. The mission of this company is to build community networks by utilising the Helium network and combining this with existing devices via the LoRa network.
 
+Most of our existing devices are shipped and used within South Africa. We have also shipped devices to Botswana, Zambia, Namibia and Zimbabwe. We have an excellent understanding of the needs for the African market.
+
 ## Product Information
 Our main product areas are in IoT modules, LoRa gateways and node devices. We have over 30 IoT related products currently in active production.
 We are busy prototyping our own Full Hotspot and our device will be called the Proton Hotspot Miner. The main features of the Proton can be viewed below.
@@ -19,8 +21,13 @@ The Proton Hotspot Miner is a brand new, high-performance, ready-to-use LoRaWAN 
 
 The key features of the Proton gateway will be discussed in detail. 
 
-In the future we will also be investigating a solar solution for the Proton Hotspot Miner to target rural areas who can benefit from IoT devices. In some cases, mining will not be possible, due to power and/or access to internet constraints. In these cases, we will be able to provide these communities with a hotspot, purely to capture and transfer data from IoT devices.
+![image (2)](https://user-images.githubusercontent.com/91087058/140799495-8d89756f-f4ab-4621-ab2f-232690e7a578.png)
 
+In the future we will also be investigating a solar solution for the Proton Hotspot Miner to target rural areas who can benefit from IoT devices. In some cases, mining will not be possible, due to power and/or access to internet constraints. In these cases, we will be able to provide these communities with a hotspot, purely to capture and transfer data from IoT devices. See below an example of our first prototype being used at a school in Paarl to provide a safety network by combining the hotspot with panic buttons to notify first responders.
+
+![Proton1](https://user-images.githubusercontent.com/91087058/136845048-ef2adc2d-f189-4499-8a1f-05e1d517bf61.JPG)
+
+We partnered with non-profit organisations in local communities to reduce the crime in struggling communities.
 
 ## What is your approximate price point?
 
@@ -48,7 +55,7 @@ The MOQ supply of Hotspots will be revised during this process as we finalise th
 For Helium products Atom Design and Innovation works in close collaboration with the Institute for Technology and Society to handle sales and first line support with more complex technical enquiries escalated to us. We aim to provide great customer service. We put all the experience and know-how in the field of IoT so we can answer your questions and offer our best product and services that is perfect for your application requirements. Additionally, our engineers and technicians span the whole of South Africa. 
 
 ## Hardware Security Element
-For our current product, Proton Hotspot Miner and in line with the community consensus - we have adopted the ECC608 security element chip to increase the security of the swarm key. For future products we are evaluating more options including other security element chips. We use potting as an anti-tampering measure for our existing IoT devices and will consider using this for the Proton Hotspot Miner. We are more than willing to submit a prototype for audit.
+For our current product, Proton Hotspot Miner and in line with the community consensus - we have adopted the ECC608 security element chip to increase the security of the swarm key. For future products we are evaluating more options including other security element chips. We use potting as an anti-tampering measure for our existing IoT devices and will consider using this for the Proton Hotspot Miner. We are more than willing to submit a prototype for audit. Due to the shortages of components, we are alos investigating the ATSHA204A Microchip Crypto Authentication security element.
 
 ## Hardware Information
 
@@ -109,19 +116,23 @@ Herewith the breakdown of the hardware components used for the Proton Hotspot Mi
 ICASA Type Approval is in process for the Proton Hotspot Miner. This device will then be authorised to be used in South Africa and involves verification of the equipment's compliance with the applicable standards and regulatory requirements.
 
 ## Manufacturing Information
-We have extensive experience with developing and implementing our own radio-frequency (RF) networks for our IoT products. We manufactured and sold up to 500 of our own gateways. We also have experience with the Sigfox network, but due to uncertainties, all IoT devices will be reworked to communicate via the LoRa network. This will enable us to quickly deploy our first manufactured gateways to existing clients and to expand from this.
+We have extensive experience with developing and implementing our own radio-frequency (RF) networks for our IoT products. We manufactured and sold up to 500 of our own gateways. We also have experience with the Sigfox network, but due to uncertainties in South Africa, all IoT devices will be reworked to communicate via the LoRa network. This will enable us to quickly deploy our first manufactured gateways to existing clients and to expand from this. We have trusted partners and processes in place to scale products. We manage all aspects of the manufacturing process and have therefor an advantage to adjust designs if required due to component shortages.
 
 ## Proof of Identity
 To be submitted privately to DeWi. 
 
 ## Budget & Capital
-Our budget is aligned with our expected production and delivery timeline as outlined above.
+Our budget is aligned with our expected production and delivery timeline as outlined above. We do not rely on external funding to meet our expected production schedule.
 
 ## Risks & Challenges
 Sourcing components continues to be challenging in the current market – several supply chain issues affecting the whole industry – but we have secured enough stock to produce the quantities listed above.
 
 ## Other information if you do not provide contact information, we cannot review your proposal
-Email: pieterdw@atomdesign.io
+* Company website - https://www.atomdesign.io/
+* Contact Email: pieterdw@atomdesign.io
+* LinkedIn - Atom Design & Innovation
+* Facebook - Atom Design & Innovation (@AtomDesignInnovation)
+* Instagram - Atom_design_innovation
 
 ## Payment methods available 
 * Card Payments
