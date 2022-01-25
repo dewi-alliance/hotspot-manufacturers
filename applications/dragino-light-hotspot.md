@@ -72,6 +72,11 @@ These two light hotspots designed for Helium will support ECC chip base on ATECC
 ## Hardware Information (required)
 * Please let us know:
 
+* CPU:
+Allwinner H3.
+RAM: 512MB
+Flash: EMMC 4G
+
 * Which security (swarm) element are you using?  
 ATECC608 
 
