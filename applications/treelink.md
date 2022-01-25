@@ -36,7 +36,7 @@ Application to become an approved third party manufacturer as per HIP19.
 ## Please provide detailed hardware designs, including relevant parts (required)
 
     ·Based on Semtech SX1302 and sx1250 chip
-    ·NXP A53 quad-core processor (raspberrypi CM4 module)
+    ·Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz| (raspberrypi CM4 module)
     ·2 GB or 4 GB LPDDR4
     ·8/16/32 GB on board EMMC chip + 64/128 GB SSD with M.2 interface
     ·Built-in ATECC608 encryption chip
