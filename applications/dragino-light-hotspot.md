@@ -76,7 +76,7 @@ These two light hotspots designed for Helium will support ECC chip base on ATECC
 ATECC608 
 
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)  
-We use SX1302/03 & SX1250
+SX1302 & SX1250
 
 * Where are you sourcing your components from?  
 We source components from Semtech distributors in China. 
