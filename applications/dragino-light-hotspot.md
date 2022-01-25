@@ -30,9 +30,8 @@ Prototypes and software ready. Photo as below:
 
 <img width="300" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_10.jpg">
 
-<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure.png">
 
-
+<img width="600" alt="java 8 and prio java 8  array review example" src="https://www.dragino.com/downloads/downloads/LoRa_Gateway/photo/HP0C_system_structure1.png">
 
 Estimate price is between $200~$250 for HP0A depends on IC cost, price exclude Helium License. 
 
@@ -73,11 +72,16 @@ These two light hotspots designed for Helium will support ECC chip base on ATECC
 ## Hardware Information (required)
 * Please let us know:
 
+* CPU:
+Allwinner H3.
+RAM: 512MB
+Flash: EMMC 4G
+
 * Which security (swarm) element are you using?  
 ATECC608 
 
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)  
-We use SX1302/03 & SX1250
+SX1302 & SX1250
 
 * Where are you sourcing your components from?  
 We source components from Semtech distributors in China. 
@@ -132,4 +136,6 @@ We have good experienced in production and quality control for LoRaWAN gateway. 
 * Regions covered / shipped to – Worldwide
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
+
 We plan to ship this model through our global distribute channels. It covers every country. 
+
