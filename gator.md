@@ -19,7 +19,7 @@ Every year,big amount capital will be invested into researching and developing n
 Full hotspot GatorPro X1
 * WiFi and Ethernet connectivity                       
 * RockPi with Rockchip inside,2GB DDR and 32GB storage
-* 8 channel SX1301/SX1302/SX1303 LoRa concentrator
+* 8 channel SX1302 LoRa concentrator
 * Microchip ATECC608 secure element to save swarm key 
 * BLE for paring and wifi connection.
 * Approximate price point: $438
@@ -64,13 +64,13 @@ Full hotspot is developed based on RockPi(see below pic), so can make it stable 
 * Microchip ATECC608
 
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
-* SX1302/SX1303 with SX1250.which are compatible on hotspot.
+* SX1302 with SX1250.
  
 * Where are you sourcing your components from? 
 * We are currently working with Avnet,CECport and WPG based in China.
 
 * How many radio modules/ concentrators can you procure? 
-* we can produce 6k Lora concentrators per month based on three models of SX1301/1302/1303 per month in 2022.
+* we can produce 6k Lora concentrators per month based on three models of SX1302 per month in 2022.
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?

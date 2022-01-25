@@ -1,4 +1,4 @@
-## Please copy this template.md, do not edit the template directly
+## Please copy this template.md (do not edit the template directly).
 ## YOUR NAME
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
@@ -54,6 +54,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
 We recommend you don't use the SX1301 in new designs 
 * What is the CPU?
+* Other Hardware Specifications: 
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
