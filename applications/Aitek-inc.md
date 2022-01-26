@@ -65,18 +65,18 @@ We will handle customer service requests via Email and Discord vendor channels, 
 
 ## Hardware Information (required)
 
-Which security implementation (ECC608, TPM, TrustZone, other) are you using?  -  ECC608
-Which LoRa chipset are you planning to use in your gateway?  -  SX1302
-What is the CPU?  -  Quad-core Cortex-A55 CPU
-Other Hardware Specifications:
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using?  -  ECC608
+* Which LoRa chipset are you planning to use in your gateway?  -  SX1302
+* What is the CPU?  -  Quad-core Cortex-A55 CPU
+* Other Hardware Specifications:
 
-RAM: 2G DDR4
-Security: ATECC608 swarm keys storage
-Flash: 64G eMMC
-Bluetooth: BT V4.2 EDR
-Ethernet: RJ45 Ethernet jack
-OS: Customization Linux System
-Wifi: IEEE 802.11 a/b/g/n/ac Wireless LAN
+* RAM: 2G DDR4
+* Security: ATECC608 swarm keys storage
+* Flash: 64G eMMC
+* Bluetooth: BT V4.2 EDR
+* Ethernet: RJ45 Ethernet jack
+* OS: Customization Linux System
+* Wifi: IEEE 802.11 a/b/g/n/ac Wireless LAN
 
 ## Manufacturing Information (required)
 
