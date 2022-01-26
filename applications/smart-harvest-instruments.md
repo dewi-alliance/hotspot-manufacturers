@@ -44,7 +44,6 @@ We plan to ship to North America to start. Will consider expanding to global ava
 - 8 channel SX1302 LoRa concentrator
 - External LoRa antenna (3dBi)
 - Microchip ATECC608 secure element for swarm key storage
-- Ublox Max-7 GPS
 - USB-C port (5V) for Power
 - Approximate price point: $300 to $400
 - Expected production timeline: Late 2021
@@ -55,7 +54,8 @@ Photos of working prototype below. Design for manufacturing and enclosure design
 <img src="shi/hl100-prototype-02.jpg" width=400 />
 <img src="shi/hl100-prototype-terminal-00.png" width=400 />
 
-A setup wizard accessible through a web app can be used for software setup, configuration, and monitoring. The setup wizard will be available over the Light Gateway's WiFi and Ethernet connections. OTA firmware updates will keep the software up to date and secure.
+A setup wizard accessible through a mobile app will be used for onboarding, setup, and  configuration.
+The device itself will receive OTA firmware and software updates to keep it up to date and secure.
 
 After the introduction of the Indoor Light Gateway, we intend to work with the community to build additional products for the Helium ecosystem with features they deem desirable.
 
@@ -121,3 +121,4 @@ We believe transparency is the best policy and will keep our customers informed 
 - Website - [http://smartharvest.ca/](http://smartharvest.ca/)
 - Payment methods available - Major credit cards (through Stripe)
 - Regions covered / shipped to - USA/Canada (initially)
+- Method for obtaining HNT for on-boarding - Crypto.com
