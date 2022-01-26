@@ -65,15 +65,26 @@ We will handle customer service requests via Email and Discord vendor channels, 
 
 ## Hardware Information (required)
 
-*  Which security (swarm) element are you using? - ECC508/ECC608
-* Which LoRa chipset are you planning to use in your gateway?   -  SX1302 & SX1250
-* Where are you sourcing your components from?  - China
-* How many radio modules/ concentrators can you procure?  - US915/EU868/AU915/AS923/CN470
+Which security implementation (ECC608, TPM, TrustZone, other) are you using?  -  ECC608
+Which LoRa chipset are you planning to use in your gateway?  -  SX1302
+What is the CPU?  -  Quad-core Cortex-A55 CPU
+Other Hardware Specifications:
+
+RAM: 2G DDR4
+Security: ATECC608 swarm keys storage
+Flash: 64G eMMC
+Bluetooth: BT V4.2 EDR
+Ethernet: RJ45 Ethernet jack
+OS: Customization Linux System
+Wifi: IEEE 802.11 a/b/g/n/ac Wireless LAN
 
 ## Manufacturing Information (required)
 
 Our trusted manufacturing partners in China have a complete mass production supply chain of Helium miners. We are capable of producing around 10,000 units per month now and will continue to increase our capacity.
 Upon approval, our team will be able to mobilize funds and start the mass production ASAP. The finished devices will be then transported to the US, waiting to be dispatched. Additional team members will be hired to support operation work. Our investors and technical expertise will assist us along the way, ensuring smooth production and transportation for the growing demand of Helium miners.
+
+* Where are you sourcing your components from?  - China
+* How many radio modules/ concentrators can you procure?  - US915/EU868/AU915/AS923/CN470
 
 ## Proof of Identity
 
