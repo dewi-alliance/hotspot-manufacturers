@@ -1,4 +1,4 @@
-## Please copy this template.md, do not edit the template directly
+## Please copy this template.md (do not edit the template directly).
 ## YOUR NAME
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
@@ -15,7 +15,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 * What is this product's model name or model number? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is it for indoor or outdoor?
-* Provide a brief description of what you're making.
+* Provide a brief description:
 
 ## What is your approximate price point? (required)
 
@@ -27,7 +27,6 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## What is your expected production and delivery timeline? (required)
 
 ## Previous shipments (required)
-
 
 ## Startups welcomed!
 * Have you shipped anything in the past? Yes or No
@@ -50,17 +49,20 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required)
-* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email DeWi (christina@dewi.org). Which security (swarm) element are you using? 
-* Which LoRa chipset are you planning to use in your gateway? (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
-We recommend you don't use the SX1301 in new designs 
-* Where are you sourcing your components from? 
-* How many radio modules/ concentrators can you procure? 
+* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
+* Which LoRa chipset are you planning to use in your gateway? (i.e. Either SX1302 or SX1303, only list one) 
+We recommend you don't use the SX1301 in new designs. 
+* What is the CPU?
+* Other Hardware Specifications: 
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
 * Have you built gateways before? 
 * How many gateways did you make? 
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+* Where are you sourcing your components from? 
+* How many radio modules/ concentrators can you procure? 
 
 ## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
@@ -69,13 +71,13 @@ Contact details for this will be provided after your application is submitted on
 ## Budget & Capital (required)
 * How many hotspots are you planning to manufacture and sell within the first six months of sales? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
-* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures - getting almost over the line and then running out of cash.) 
+* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal.
-* Contact Info: 
+## Contact Info 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -

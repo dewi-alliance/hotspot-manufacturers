@@ -31,7 +31,8 @@ We believe that Helium protocol is a good way to develop new ways of how a netwo
 * This is Full Hotspot
 * Provide a brief description of what you're making:
 The Epoch Gateway is a Helium Hotspot in an indoor case ready to be transformed into an outoor one by inserting into an outside case.
-![image](https://user-images.githubusercontent.com/48658099/136658537-70bc91e0-8fe7-4a2f-b007-449c40b0bcf7.png)
+
+![epoch-hardware-specs](https://user-images.githubusercontent.com/48658099/150568593-92deb0bf-02d2-4795-8061-8b76c41f2c4e.jpg)
 
 
 ## What is your approximate price point? 

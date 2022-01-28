@@ -52,7 +52,7 @@ Our goal is to provide industry-grade products for covering large-scale and unin
 Fusion Light Hotspot gateway is a custom design based on
 - Onion Omega 2S+ Computer module (Mediatek MT7688, mipsle architecture) running customized OpenWrt Linux
 - RAK2287 mPCIE LPWAN Concentrator with Semtech SX1302 chip and ZOE-M8Q GPS
-- Microchip ATECC608 for pki/crypto operations and Infineon SLS32AIA alternative
+- Microchip ATECC608 for pki/crypto operations
 - Espressif ESP32-C3 for BLE support
 - providing Wifi, BLE and Ethernet connectivity
 - primarily intended for outdoor use i.e. IP65 waterproof enclosure
