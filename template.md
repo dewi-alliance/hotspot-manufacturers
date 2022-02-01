@@ -36,7 +36,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
-* For how long? How are you planning to handle repairs and replacements? 
+* For how long? 
+* How are you planning to handle repairs and replacements? 
 
 
 ## Hardware Security Element (required)
@@ -51,7 +52,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Hardware Information (required)
 * The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
-* Which LoRa chipset are you planning to use in your gateway? (i.e. Either SX1302 or SX1303, only list one) 
+* Which LoRa chipset are you planning to use in your gateway? (i.e. SX1302, SX1303, etc, only list one) 
 We recommend you don't use the SX1301 in new designs. 
 * What is the CPU?
 * Other Hardware Specifications: 
