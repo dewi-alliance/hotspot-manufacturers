@@ -55,7 +55,7 @@ Fusion Light Hotspot gateway is a custom design based on
 - Microchip ATECC608 for pki/crypto operations
 - Espressif ESP32-C3 for BLE support
 - providing Wifi, BLE and Ethernet connectivity
-- primarily intended for outdoor use i.e. IP65 waterproof enclosure
+- primarily intended for outdoor use i.e. IP56 waterproof enclosure
 
 All chosen components have been proved in many industrial and retail products.
 
