@@ -39,18 +39,18 @@ HT-M2802 is an upgraded version of HT-M2808. In the new generation of HT-M2802, 
 
 **Hardware information:**
 
-| Resource             | Description                                             |
-| -------------------- | ------------------------------------------------------- |
-| CPU                  | Quad core Cortex-A53 64-bit CPU 1.5GHz                  |
-| RAM                  | 2G DDR4                                                 |
-| ROM                  | 32G eMMC 5.1                                            |
-| Wi-Fi                | IEEE 802.11 b/g/n 2.4GHz with internal antenna          |
-| BlueTooth            | BT V4.2 EDR with internal antenna                       |
-| Ethernet             | 10/100M Ethernet                                        |
-| Security             | ATECC608                                                |
-| LoRa Baseband Chip   | SX1302/3 + SX1250, 8 channels                           |
-| LoRa Supported Bands | RU864, IN865, EU868, US915, AU915, KR920, AS923, CN470. |
-| Host Size (mm)       | 120 * 115 * 33                                          |
+| Resource             | Description                                    |
+| -------------------- | ---------------------------------------------- |
+| CPU                  | Quad core Cortex-A53 64-bit CPU 1.5GHz         |
+| RAM                  | 2G DDR4                                        |
+| ROM                  | 32G eMMC 5.1                                   |
+| Wi-Fi                | IEEE 802.11 b/g/n 2.4GHz with internal antenna |
+| BlueTooth            | BT V4.2 EDR with internal antenna              |
+| Ethernet             | 10/100M Ethernet                               |
+| Security             | ATECC608                                       |
+| LoRa Baseband Chip   | SX1303 + SX1250, 8 channels                    |
+| LoRa Supported Bands | EU868, US915, AU915, AS923.                    |
+| Host Size (mm)       | 120 * 115 * 33                                 |
 
 
 

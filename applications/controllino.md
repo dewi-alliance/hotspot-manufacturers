@@ -102,6 +102,10 @@ The current chip sourcing crisis is affecting almost every company that uses ele
 As per DeWi guidelines and discussed with DeWi itself, we'd like to announce an update to our Controllino Hotspot:
 The device will receive an update as of April 2022 (called Hotspot V2), with an added LCD display on top of the housing, as well as additional LTE and WiFi options. The housing and other core features of the device remain the same.
 
+## Update #2 on Device Hardware
+
+As per DeWi guidelines, we'd like to announce a version of our Controllino Hotspot that will have an outdoor-proof, IP certified housing. Other core features of the device remain the same. As discussed with DeWi, besides the housing, nothing else will change hardware- or software-wise.
+
 ## Other information
 
 * Desired Discord support channel name: Controllino
