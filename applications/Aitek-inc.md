@@ -68,6 +68,11 @@ We will handle customer service requests via Email and Discord vendor channels, 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using?  -  ECC608
 * Which LoRa chipset are you planning to use in your gateway?  -  SX1302
 * What is the CPU?  -  Quad-core Cortex-A55 CPU
+
+* Where are you sourcing your components from?  - Semtech for Lora Chips and other suppliers from China. We are well-connected with our friends across multiple fields for material sourcing.
+* How many radio modules/ concentrators can you procure?  - We are expecting to procure at least 10k units per month. In the future if the capacity rises, we will procure and produce more.
+
+
 * Other Hardware Specifications:
 
 * RAM: 2G DDR4
@@ -83,8 +88,7 @@ We will handle customer service requests via Email and Discord vendor channels, 
 Our trusted manufacturing partners in China have a complete mass production supply chain of Helium miners. We are capable of producing around 10,000 units per month now and will continue to increase our capacity.
 Upon approval, our team will be able to mobilize funds and start the mass production ASAP. The finished devices will be then transported to the US, waiting to be dispatched. Additional team members will be hired to support operation work. Our investors and technical expertise will assist us along the way, ensuring smooth production and transportation for the growing demand of Helium miners.
 
-* Where are you sourcing your components from?  - China
-* How many radio modules/ concentrators can you procure?  - US915/EU868/AU915/AS923/CN470
+
 
 ## Proof of Identity
 
