@@ -1,22 +1,31 @@
 ## Please copy this template.md (do not edit the template directly).
-## YOUR NAME
+## Chengdu ZhiJiaXin Experimental equipment Co., Ltd
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
 ## Summary
-
+Chengdu zhijiaxin Experimental Equipment Co., Ltd., established on July 28, 2016, is engaged in the development of network equipment. Team members have rich experience in router development and blockchain mining
 ## Company Information (required)
 * What is your company name?
+Chengdu ZhiJiaXin Experimental equipment Co., Ltd
 * How long have you been in business? 
+Chengdu zhijiaxin Experimental Equipment Co., Ltd., established on July 28, 2016, is engaged in network equipment development and software and hardware services.
 * What kind of products have you created? 
+We have designed, manufactured and produced a large number of Ethereum mining machines and Chia mining machines
 * How many have you sold? 
+The total turnover is about US $1 million
 * What brought you to Helium? 
-
+By chance, we learned that a large number of users need stable IOT devices. Helium project has cooperated with many IOT equipment manufacturers and is at the forefront of the IOT blockchain in the world. Therefore, we hope to become a part of helium network and contribute to the cause of the IOT in the future.
 ## Product Information (required)
 * What is this product's model name or model number? 
+FT-01
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
+Full hotspots
 * Is it for indoor or outdoor?
+Outdoor
 * Provide a brief description:
-* What is your approximate price point? 
+Our product is a lorawan hotspot device, which supports Long Fi technology. The product adopts SX1302 chip and 4-core high-performance processor, and has a waterproof shell, supports POE and reliable transmission capacity.
+* What is your approximate price point?
+We will sell our product at around $600.
 * What is your expected production and delivery timeline? 
 
 ## Previous shipments (required)
