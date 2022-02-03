@@ -25,14 +25,27 @@ Shenzhen Coship Electronics Co., Ltd. was established in 1994. It is a high-tech
 Your time to shine! What are you building? What’s so great about it? 
 * What is your approximate price point? USD 500![image](https://user-images.githubusercontent.com/87060625/125915948-2e07a88f-92d1-41cb-b8b2-4fb3a844b8db.png)
 
-* Detailed hardware designs, including relevant parts SYS-CM3+/32GB Raspberry Pi Compute Module, Broadcom BCM2837 processor, 1GB LPDDR2 RAM, 32GB eMMC flash storage, 35 µin hard gold plating I/O pins, P/N: CM3+/32GB
-XR22802IL56-F interface ICHi-Speed USB to 10/100 Ethernet Bridge with 2 UARTs, work temperature: 40–85 °C, QFN-56 encapsulation, P/N: XR22802IL56-F
-ATECC608A-SSHDA-BECC encryption chip ECC encryption chip, I2C interface, SOIC-8, PN: ATECC608A-SSHDA-B![image](https://user-images.githubusercontent.com/87060625/125916077-f91ad6f4-e5c6-444e-bba1-07ec39eb5dce.png)
+* Detailed hardware designs, including relevant parts 
+Rockchip RK3399 processor,
+4GB LPDDR4 RAM,
+32GB eMMC,
+10/100/1000M Ethernet,
+Encryption chip: ATECC608B, I2C interface, SOIC-8
+Lora adopts SX1302+SX1250
+Wifi supports IEEE 802.11a/b/g/n/ac
+Support Bluetooth 4.2
 
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. See the link: http://www.coship.com/Productandsolution2.html
+![image](https://user-images.githubusercontent.com/87060625/152274720-50b70808-247c-479f-bbef-57f5fb0d2afd.png)
+![image](https://user-images.githubusercontent.com/87060625/152274748-0f451e2a-d90a-4cde-ba7c-11d5085d571f.png)
+
+
+* Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
+Software OTA supportive.
 
 * Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.Negotiable
-* What is your expected production and delivery timeline? Negotiable
+*
+* What is your expected production and delivery timeline? In 3-6 months after authorised.
 Photos and videos welcome.
 
 ## Previous shipments (required)
@@ -59,36 +72,33 @@ Software issues can be solved online via SSH remote access or OTA updates.
 
 The community is concerned about devices that can be easily hacked, specifically by copying their `swarm_key` files. Applications should include plan for how the devices will be secured, potentially including:
 
-* Encrypted/locked-down firmware No.
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip No.![image](https://user-images.githubusercontent.com/87060625/125919004-3dadef1e-be1d-45ee-95eb-490a6c76bcca.png)
-
-* Encrypted buses, potting and other anti-tampering measures.No.![image](https://user-images.githubusercontent.com/87060625/125918996-7f110d6b-e637-4080-b52b-872abc186806.png)
-
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) No.![image](https://user-images.githubusercontent.com/87060625/125919010-64988032-dc65-48f2-a3fa-42dda6774de8.png)
+* Encrypted/locked-down firmware Yes.
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures like an ECC chip Yes.
+* Encrypted buses, potting and other anti-tampering measures.
+Our devices contain an ATECC608B security chip for key storage and cryptographic operations, the keys are non-exportable, for high security. The Helium gateway will store its swarm_key on the ECC chip upon request.
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes.
 
 
 ## Hardware Information (required)
 
 Please let us know:
-* Which security (swarm) element are you using? No.![image](https://user-images.githubusercontent.com/87060625/125919311-f17abda1-fb2d-4ad8-a0ac-a97c5396228c.png)
+* Which security (swarm) element are you using? ATECC608B-SSHDA
+* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) SX1302&SX1250
 
-* Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) SX1302/03![image](https://user-images.githubusercontent.com/87060625/125919324-d1aae2af-3b45-4689-8edf-b901d2835d0a.png)
+* We recommend you don't use the SX1301 in new designs No, we don't.
+* Where are you sourcing your components from? From China and globally
 
-* We recommend you don't use the SX1301 in new designs Ok
-* Where are you sourcing your components from? From China and globally![image](https://user-images.githubusercontent.com/87060625/125919370-545f9d8f-d349-49d3-9a7b-97da7cb00f59.png)
-
-* How many radio modules/ concentrators can you procure? Depends on the product.![image](https://user-images.githubusercontent.com/87060625/125919404-6979a400-a831-4021-81b2-fe94a20fb789.png)
-
+* How many radio modules/ concentrators can you procure? We have a good market supply chain system which can purchase according to demand.
 
 ## Manufacturing Information (required)
 
-* Have you built and delivered radio hardware products before?  Yes![image](https://user-images.githubusercontent.com/87060625/125919588-e0140e06-1bfd-4f50-82bb-5951c5c477e0.png)
+* Have you built and delivered radio hardware products before?  Yes
 
-* Have you built gateways before? Yes![image](https://user-images.githubusercontent.com/87060625/125919589-4c4d6577-8dee-4243-86cc-a514bb48c647.png)
+* Have you built gateways before? Yes
 
-* How many gateways did you make?  Routers, Wi-Fi mesh![image](https://user-images.githubusercontent.com/87060625/125919617-0b582953-b36f-477f-833d-1c0e2cf16089.png)
+* How many gateways did you make?  Routers, Wi-Fi mesh
 
-* If you have not built gateways before, are you using a third party manufacturer? Yes.
+* If you have not built gateways before, are you using a third party manufacturer? Yes and we also have selfowned manufacturing system to ensure the supply chain.
 This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 
 ## Proof of Identity
@@ -113,14 +123,13 @@ As this is the first attempt to cooperate with Helium, both Helium and we don’
 
 ## Other information (required)
  
-* Contact info (* required) -
+* Contact info (* required) - june.liu@waltonchain.org
 * Twitter profile - No
 * Facebook profile - No
-* Other social profiles - Telegram customer support: @doonalee![image](https://user-images.githubusercontent.com/87060625/125920106-3943a21e-29fa-4b1e-aa4b-c146511a4d3a.png)
+* Other social profiles - Telegram customer support: @doonalee
+* Website -http://www.coship.com/
 
-* Website -http://www.coship.com/![image](https://user-images.githubusercontent.com/87060625/125920135-f6c9e6ca-a5bb-47e5-bea3-09cafa63b633.png)
+* Payment methods available - Bank transfer, check
 
-* Payment methods available - Bank transfer, check![image](https://user-images.githubusercontent.com/87060625/125920157-83512c83-c64d-4261-b079-08444d9b5619.png)
-
-* Regions covered / shipped to - Bank transfer, check![image](https://user-images.githubusercontent.com/87060625/125920182-729e65b4-112c-4bd3-9318-f4b8db71a9c2.png)
+* Regions covered / shipped to - China and Globally
 
