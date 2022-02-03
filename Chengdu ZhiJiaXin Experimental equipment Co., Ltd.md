@@ -27,18 +27,25 @@ Chengdu zhijiaxin Experimental Equipment Co., Ltd., established on July 28, 2016
 * What is your approximate price point?
 * We will sell our product at around $600.
 * What is your expected production and delivery timeline? 
+* Production and delivery timeline: Booking - 2/15/2022 Batch production - 3/15/2021 First batch product delivery
 
 ## Previous shipments (required)
 Startups welcomed!
 * Have you shipped anything in the past? What types of products have you shipped?
+* We have sent a large number of Ethereum mining machines and Chia mining machines, and have some transportation experience. Our main customers will be the United States and Europe. We have long-term cooperation with the transshipment company in Shenzhen, who will help us transport the goods to all parts of the world.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
+* U.S.A
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
+U.S.A
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
+* We have a customer service team to. Customers can contact us by email WeChat Discord and official website.
 * For how long? 
+* I think we can guarantee our products for one year.
 * How are you planning to handle repairs and replacements? 
+* After the customer sends it back, we repair and replace it
 
 
 ## Hardware Security Element (required)
