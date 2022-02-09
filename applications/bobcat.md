@@ -1,6 +1,6 @@
 # Bobcat (Easylinkin)
 
-### HIP19 amendments for alternate security implementations
+### HIP19 Amendment for New SKU and Alternate Security Implementation
 
 ## Summary
 
@@ -8,7 +8,7 @@
 
 We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway.
 
-In this HIP19 Amendments we propose an alternative security chip for ATECC608.
+In this HIP19 Amendments we propose new SKU for full hotspot and an alternative security chip for ATECC608.
 
 ## Company Information
 
@@ -30,31 +30,46 @@ Further to expand company organization, EasyLinkin had finished C round capital 
 
 We provide two stable and compact gateway solutions.
 
-* Bobcat Miner 300 for Helium Hotspot Miner, Black Box, Retail Price: $429.00
-* G200 for Helium Light Gateway, White Box, Estimated Price: $119.99
+* Bobcat Miner 300 for Helium Full Hotspot, Retail Price: $429.00
+* Bobcat Miner 200 for Helium Light Hotspot, Retail Price TBD
 
-**Bobcat Miner 300 Features:** 
+**Bobcat Miner 300 Original Features:** 
 
-* Concentrator based on the Semtech SX1308/SX1302 with ADR
-* Quad-core Cortex-A35 CPU with 64G eMMC Flash and 1G/2G DDR2 RAM
+* Concentrator based on the Semtech SX1301+SX1255/1257 with ADR
+* Quad-core Cortex-A35 CPU with 64G eMMC Flash and 1G DDR3 RAM
 * ATECC608 for swarm keys storage
 * Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
-* Bluetooth: BT V4.1 EDR, GPS: BDS B1+GPS L1
+* Bluetooth: BT V4.1 EDR
 * Frequency band: 470MHz/868MHz/915MHz/923MHz and other
 * Coverage radius: 3km in city, 5km in rural area
 * Voltage DC 12V 
-* Comes in IP30 case, size: 142 * 142 * 35mm
+* Comes in IP30 case, size: 141 * 141 * 47mm
 
-**Helium Light Gateway Features:**
+As the network expands and the chain continues to grow in size, we releaize the demand for more RAM, and therefore we have the updated solution for you at the same price!
 
-* Concentrator based on the Semtech SX1308 with ADR
-* MIPS 650MHz with 16MB Flash and 128MB RAM
-* RJGT102WDP8 encryption chip for swarm keys storage
-* Wi-Fi: QCA9513, 4G/Ethernet Connectivity
-* Support Bluetooth and GPS
+**Bobcat Miner 300 New Features:** 
+
+* Concentrator based on the **Semtech SX1302+SX1250** with ADR
+* Quad-core **Cortex-A55** CPU with 64G eMMC Flash and **2G DDR4** RAM
+* ATECC608 for swarm keys storage
+* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
+* Bluetooth: BT V4.1 EDR
 * Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-* Voltage DC 12V (11.0 VDC ~ 14.0 VDC)
-* Comes in IP30 case, size: 142 * 142 * 35mm
+* Coverage radius: 3km in city, 5km in rural area
+* Voltage DC 12V 
+* Comes in IP30 case, size: 141 * 141 * 47mm
+
+**Bobcat Miner 200 Features:**
+
+* Concentrator based on the Semtech SX1302/1303+SX1250 with ADR
+* Quad-core Cortex-A35 CPU with 8G eMMC Flash and 256/512MB DDR4 RAM
+* ATECC608 for swarm keys storage
+* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
+* Bluetooth: BT V4.1 EDR
+* Frequency band: 470MHz/868MHz/915MHz/923MHz and other
+* Coverage radius: 3km in city, 5km in rural area
+* Voltage DC 12V
+* Comes in IP30 case, size: 141 * 141 * 47mm
 
 ## Customer Support ##
 
@@ -68,7 +83,7 @@ Bobcat can provide customer support via:
 
 ## Hardware Security Amendment ##
 
-Currently we use ATECC608 encryption chip for swarm key storage, we now propose an alternative encryption implementation DX83E08 which has equivalent ecryption capabilities from [Shanghai Dongxin Microelectronics](http://www.chipsec.com/) to be used on both full hotspots(bobcat miner 300) and future light hotspots series. Here is the [Datasheet](./bobcat/DX83E08.pdf).
+Currently we use ATECC608 encryption chip for swarm key storage, we now propose an alternative encryption implementation DX83E08 from [Shanghai Dongxin Microelectronics](http://www.chipsec.com/), which has equivalent ecryption capabilities. Here is the [Datasheet](./Bobcat/DX8308.pdf).
 
 DX83E08 supports the following Algorithm:
 
@@ -122,5 +137,10 @@ Another thing to concern is the scale of our customer service with the growth of
 
 ## Other information
 
-* Discord channel - [Official Bobcat Miner Comuunity](https://discord.gg/BuWna9Px54)
-* Website – [www.bobcatminer.com](https://www.bobcatminer.com/)
+* Official Website  - [www.bobcatminer.com](https://www.bobcatminer.com/)
+* Discord channel - [Official Bobcat Miner Community](https://discord.gg/BuWna9Px54)
+* Q&A - [https://bobcatminer.zendesk.com/hc/en-us](https://bobcatminer.zendesk.com/hc/en-us)
+* Certification Library - [https://www.bobcatminer.com/library](https://www.bobcatminer.com/library)
+* Contact Us - [https://www.bobcatminer.com/contact](https://www.bobcatminer.com/contact)
+* Payment method - USDC
+
