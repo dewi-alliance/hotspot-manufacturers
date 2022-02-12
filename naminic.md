@@ -4,7 +4,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 ## Summary
 Naminic has been designing electronics board based on stm32 since 2013 and desigin hardware wallet for crypto currencies 
 ## Company Information (required)
-* What is your company name? Fanavar Gostar e Naminic 
+* What is your company name? Amin Dorj Kavarmiyaneh 
 * How long have you been in business? 8 years
 * What kind of products have you created? Educational package for STM32 students, Metro Signaling devices by Zigbee network technology, Crypto Currency Hardware wallet 
 * How many have you sold? More than 3000 hardware wallet in 2 years
@@ -26,7 +26,7 @@ Startups welcomed!
 * Which countries have you previously shipped regulatory FCC or CE approved products? No where
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-Local Iran , Middle East , Azarbayjan , Torkamanestan , Dubai , Turkey
+Local Iran , Middle East , Azerbaijan, Turkmenistan, Dubai , Turkey
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? They can email us or text us on telegram or whatsapp we are available and easy to connect 
 * For how long? 3 years guarantee and services 
@@ -37,10 +37,10 @@ Local Iran , Middle East , Azarbayjan , Torkamanestan , Dubai , Turkey
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured.
 * The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
 * Are you using an ECC608. Yes or no?  Yes We will use ECC chip to store the swarm_keys.
-* Encrypted/locked-down firmware. Yes or no? 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+* Encrypted/locked-down firmware. Yes or no? No
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? Yes, via the ECC608
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? No
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? No
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
