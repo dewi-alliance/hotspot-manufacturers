@@ -163,6 +163,7 @@ Photos of functioning prototype:
 
 ![With antenna](syngeos/case-w-antenna.JPG)
 
+![On a street](syngeos/street.jpg)
 
 * What are your plans for software setup and configuration for the devices?
   This would include remote updates and the ability for hosts to change WiFi settings, via Helium's official app or otherwise.
