@@ -159,7 +159,7 @@ Photos of functioning prototype:
 
 ![Front view](syngeos/case-front.JPG)
 
-![Inside](syngeos/inside-up.JPG)
+![Inside](syngeos/inside-up.jpg)
 
 ![With antenna](syngeos/case-w-antenna.JPG)
 
