@@ -76,6 +76,7 @@ Please tell us about some of the challenges that would prevent these products fr
 * Website (required) -
 * Twitter profile -
 * Facebook profile -
+* Discord - 
 * Other social profiles -
 
 
