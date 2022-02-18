@@ -1,7 +1,7 @@
 ## Please copy this template.md (do not edit the template directly).
 ## YOUR NAME
 
-Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
+Application to become an approved third party manufacturer as per HIP19. All questions must be answered, any missing information will result in delays.
 ## Summary
 
 ## Company Information (required)
@@ -34,8 +34,8 @@ Startups welcomed!
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
-* Are you using an ECC608. Yes or no?
-* Encrypted/locked-down firmware. Yes or no? 
+* Are you using an ECC608. Yes or No?
+* Encrypted/locked-down firmware. Yes or No? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
@@ -76,6 +76,7 @@ Please tell us about some of the challenges that would prevent these products fr
 * Website (required) -
 * Twitter profile -
 * Facebook profile -
+* Discord - 
 * Other social profiles -
 
 
