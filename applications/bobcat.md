@@ -1,6 +1,6 @@
 # Bobcat (Easylinkin)
 
-### HIP19 Amendment for New SKU and Alternate Security Implementation
+### HIP19 Amendment for New SKU
 
 ## Summary
 
@@ -8,7 +8,7 @@
 
 We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway.
 
-In this HIP19 Amendments we propose new SKU for full hotspot and an alternative security chip for ATECC608.
+In this HIP19 Amendments we propose new SKU for full hotspot and updated light hotspot information.
 
 ## Company Information
 
@@ -81,39 +81,9 @@ Bobcat can provide customer support via:
 * The hardware maintenance service will be one year free for labor cost, provided hardware replacement if the breakdown of hardware comes from itself.
 * The software issues could be solved by SSH remote access or OTA upgrade.
 
-## Hardware Security Amendment ##
+## Hardware Security ##
 
-Currently we use ATECC608 encryption chip for swarm key storage, we now propose an alternative encryption implementation DX83E08 from [Shanghai Dongxin Microelectronics](http://www.chipsec.com/), which has equivalent ecryption capabilities, to be used on both miner 300 and miner 200. Here is the [Datasheet](./Bobcat/DX8308.pdf).
-
-DX83E08 supports the following Algorithm:
-
-* Asymmetric Algorithm:
-  * ECC-GF(P256): ECDSA Signature, ECDH(E) Key agreement, support curve Secp256r1 and Secp256k1
-  * SM2: SM2 Signature and Key Agreement
-* Symmetric Algorithm:
-  * AES: 128/192/256 bits key length, support ECB/CBC/OFB/CFB/CTR cipher mode
-  * SM4: 256 bits key length, support ECB/CBC/OFB/CFB/CTR cipher mode
-* Hash Algorithm:
-  * SHA256/HMAC-SHA256
-  * SM3/HMAC-SM3
-* Key Derive Function:
-  * HKDF-SHA256
-  * HKDF-SM3
-
-Every key of DX83E08 has unique KID, and key is accessed according to KID. Keys can be directly imported or generated into key’s KID storage space using designed API. Below is the KID definition:
-
-| **Key Type**      | **KID**   | **Groups** | **Flash or RAM** | **Status** | **Length** | **Remark**                                                   |
-| ----------------- | --------- | ---------- | ---------------- | ---------- | ---------- | ------------------------------------------------------------ |
-| PIN               | 0x10      | 1          | Flash            | One Time   | 32         | After verifying PIN successfully, DX83 opens the access right, and generate I2C bus session key |
-| Server Public Key | 0x20-0x23 | 4          | Flash            | One Time   | 64         | Sever fix public key                                         |
-| Server Public Key | 0x24      | 1          | RAM              | Dynamic    | 64         | Sever temporary public key                                   |
-| Device Key Pair   | 0x30-0x37 | 8          | Flash            | One Time   | 96         | Device fix Asymmetric Key Pair                               |
-| Device Key Pair   | 0x38-0x39 | 2          | RAM              | Dynamic    | 96         | Device temporary symmetric Key Pair                          |
-| Symmetric Key     | 0x40-0x47 | 8          | Flash            | One Time   | 32         | Device fix symmetric Key                                     |
-| Symmetric Key     | 0x48      | 1          | RAM              | Dynamic    | 32         | Device temporary symmetric Key                               |
-| Zone Key          | 0x50-0x57 | 8          | Flash            | One Time   | 32         | Every User Zone has own Zone Key, only after verifying the zone successfully, you can write or read the zone data, and I2C bus dynamic encrypts the access data. |
-
-Keys can never read from DX83E08 directly, and the keys stored in Flash are One Time Programming Locked. When importing key into key’s KID storage, you must verify PIN successfully first, and I2C bus is dynamic encryption, so you cannot get the plaintext through I2C detection by oscilloscope. All DX83E08 keys’ physical Flash storage are address scrambled and data encrypted according to every chip’s SN. The same logic address/data stored on every DX83E08 have different physical address and physical data. Even you can steal the physical Flash code, but you cannot reverse the real plaintext. Also, DX83E08 chip has the extra shield layer on the top metal, which can protect FIB or other physical attacking. Samples have been sent to Dewi for audit.
+Currently we use ATECC608 encryption chip for swarm key storage, and key is securely provisioned during manufacturing.
 
 ## Manufacturing Information ##
 
