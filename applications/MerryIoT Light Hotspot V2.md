@@ -24,16 +24,17 @@ Please find the preliminary HW interfaces:
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117094000-22c4fe80-ad95-11eb-8694-53746782d98a.png)
 
 1. MPU: Nuvoton NUC980
-2. Memory: DDR2 64MB
-3. Storage: Flash 128M
-4. Power Supply: DC12V 1.5A
-5. LED x4
-6. Reset Button
-7. Ethernet
-8. WiFi
-9. LoRa 8 channles
-10. DC power supply
-11. POE power supply 
+2. SX1302
+3. Memory: DDR2 64MB
+4. Storage: Flash 128M
+5. Power Supply: DC12V 1.5A
+6. LED x4
+7. Reset Button
+8. Ethernet
+9. WiFi
+10. LoRa 8 channles
+11. DC power supply
+12. POE power supply 
 
 
 ## Customer Support
