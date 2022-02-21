@@ -49,7 +49,7 @@ Startups welcomed!
   - Yes
   - Smart Device for Intelligent Agriculture.
   - Smart Device for Intelligent Transportation.
-  - C-Oriented Smart Device
+  - Smart Device for Consumer
 * Which countries have you previously shipped regulatory FCC or CE approved products?
   - China
   - Japan
@@ -131,8 +131,8 @@ Contact details for this will be provided after your application is submitted on
   - Up-front: ¥ 1 million
   - On-hand:  ¥ 2 million
   - Access:
-    - 3 sales teams completely for the C-side
-    - 5 sales teams completely for blockchain industry
+    - 3 sales teams completely for the Consumer
+    - 5 sales teams completely for the Blockchain Industry
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.)
   - We have an inherent product line to maintain cash flow and are not expected to need financing.
 
