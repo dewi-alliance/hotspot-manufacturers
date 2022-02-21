@@ -2,10 +2,10 @@
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered, any missing information will result in delays.
 ## Summary
-Our company is dedicated to exploring the practical applications of blockchain.  With the rapid development of the Internet of Things, the Helium team’s ingenious idea of combining digital currency, blockchain and IoT construction will push the Helium network to be the forefront of the next generation of IoT. In our opinion, Helium is the best blockchain that meets the real needs of our society. We appreciate to be an engineer of Helium network and engage in manufacturing a secure indoor Helium Hotspots Miner.
+Our company is dedicated to exploring the practical applications of blockchain.  With the rapid development of the Internet of Things, the Helium team’s ingenious idea of combining digital currency, blockchain and IoT construction will push the Helium network to be the forefront of the next generation of IoT. In our opinion, Helium is the best blockchain that meets the real needs of our society. We want to be an engineer of Helium network and engage in manufacturing a secure indoor Helium Hotspots Miner.
 ## Company Information (required)
-RedRock Technology LLC, established in Denver, Colorado in 2017, is an all-in-one IoT solutions company, our manufacturing factory is located in Chengdu, China. We conduct internally R&D, production, and QA, which provides warranty for quality assurance. Our products cover LoRaWAN gateways and modules, pet trackers, indoor tracking tag and more. 
-In the past few years, we established strong relationships with business partners in China with a complete supply chain, strong financial resources and the ability for mass production. 
+RedRock Technology LLC, established in Denver, Colorado in 2017, is an all-in-one IoT solutions company, our manufacturing factory is located in Chengdu, China. We conduct internal R&D, production, and QA, which provides warranty for quality assurance. Our products cover LoRaWAN gateways and modules, pet trackers, indoor tracking tag and more. 
+In the past few years, we established strong relationships with business partners in China with a complete supply chain, strong financial resources and mass production capabilities. 
 
 * **What is your company name?**
   <br/>RedRock Technology LLC
@@ -44,7 +44,7 @@ In the past few years, we established strong relationships with business partner
 ## Previous shipments (required)
 Startups welcomed!
 * **Have you shipped anything in the past? What types of products have you shipped?**<br/>
-We have shipping experience, such as QRdish Bluetooth printer shipped from China to USA in 2019. We have built up strong business connections with our partner AGI Link Cargo in China. 
+We have shipping experience, such as QRdish Bluetooth printer shipped from China to USA in 2019. We have built up strong business connections with our partner [AGI Link Cargo](http://www.agizs.com/index.php?siteid=2) in China. 
 * **Which countries have you previously shipped regulatory FCC or CE approved products?**<br/> 
 From China to USA
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)<br/> 
@@ -55,7 +55,7 @@ Our customer will be able to reach us by phone, website, email, Telegram or What
 * **For how long?**<br/> 
 We provide customers with one-year product warranty for quality assurance. If a quality defect occurs within a year, we will offer a new product for free. 
 * **How are you planning to handle repairs and replacements?**<br/> 
-After one-year warranty, all defective devices will be returned to our warehouses located in Denver, Colorado for USA and Canada customers, or in Vienna, Austria for Europe customers. If there are only small equipment problems, our local engineer will fix them right away and mail back to our customers, other defective devices will be sent back to our factory in Chengdu, China for testing and repair, the repair and shipping costs will be supported by the customers.
+After one-year warranty, all defective devices will be returned to our warehouses located in Denver, Colorado for USA and Canada customers, or in Vienna, Austria for European customers. If there are only small equipment problems, our local engineer will fix them right away and mail back to our customers, Other defective devices will be sent back to our factory in Chengdu, China for testing and repair. The repair and shipping costs will be supported by the customers.
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
@@ -94,7 +94,7 @@ Evidence of a functioning prototype - photos, videos. Renderings are OK but phys
 ![figure4](https://user-images.githubusercontent.com/100087212/154887200-f6733369-5829-4fbb-861d-5c04d9917333.png)
 <br/>Figure 4. Start gateway<br/><br/>
 ![figure5](https://user-images.githubusercontent.com/100087212/154887218-5706ab43-6853-4943-be54-930c55628201.png)
-<br/>Figure 5. Gateway startup Succeeded<br/><br/>
+<br/>Figure 5. Gateway startup successfully<br/><br/>
 ![figure6](https://user-images.githubusercontent.com/100087212/154887239-5e8d0368-c999-4ee6-804c-e4f9501685ea.png)
 <br/>Figure 6. Gateway receiving data<br/><br/><br/>
 ![figure7](https://user-images.githubusercontent.com/100087212/154887264-0a8680a3-4c62-4320-be48-0b1ae76a53d6.png)
@@ -151,7 +151,7 @@ We can obtain financial support through reliable investment partner if needed.
 ## Risks & Challenges (required)
 **Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.**<br/>
 The shortage of chips could be challenging in the current market, which affects the whole industry, but we have enough stock to produce the above quantity of products.<br/>
-Because of the Covid-19 pandemic and China’s strict epidemic prevention policy, there may be possible delays in transportation and maintenance of our products. Our partner, AGI Link Cargo, can provide us international logistics services, there should be no problem.
+Because of the Covid-19 pandemic and China’s strict epidemic prevention policy, there may be possible delays in transportation and maintenance of our products. Our partner, [AGI Link Cargo](http://www.agizs.com/index.php?siteid=2), can provide us international logistics services, and will help us mitigate these problems.
 
 ## Other information if you do not provide contact information we cannot review your proposal
 ## Contact Info 
