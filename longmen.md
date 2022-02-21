@@ -28,7 +28,7 @@ Hi, we come from china. We are a pure technology start-up company, committed to 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
   - Full Hotspot
 * Is it for indoor or outdoor?
-  - Indoor
+  - Both
 * Provide a brief description:
   - CPU: Raspberry Pi CM4
   - Radio: S90S (Based on SX1302)
