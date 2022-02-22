@@ -2,7 +2,7 @@
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered, any missing information will result in delays.
 ## Summary
-Our company is dedicated to exploring the practical applications of blockchain.  With the rapid development of the Internet of Things, the Helium team’s ingenious idea of combining digital currency, blockchain and IoT construction will push the Helium network to be the forefront of the next generation of IoT. In our opinion, Helium is the best blockchain that meets the real needs of our society. We want to be an engineer of Helium network and engage in manufacturing a secure indoor Helium Hotspots Miner.
+Our company is dedicated to exploring the practical applications of blockchain.  With the rapid development of the Internet of Things, the Helium team’s ingenious idea of combining digital currency, blockchain and IoT construction will push the Helium Network to be the forefront of the next generation of IoT. In our opinion, Helium blockchain is the best one that meets the real needs of our society. We want to be an engineer of Helium Network and engage in manufacturing a secure indoor Helium Hotspots Miner.
 ## Company Information (required)
 RedRock Technology LLC, established in Denver, Colorado in 2017, is an all-in-one IoT solutions company, our manufacturing factory is located in Chengdu, China. We conduct internal R&D, production, and QA, which provides warranty for quality assurance. Our products cover LoRaWAN gateways and modules, pet trackers, indoor tracking tag and more. 
 In the past few years, we established strong relationships with business partners in China with a complete supply chain, strong financial resources and mass production capabilities. 
@@ -20,16 +20,16 @@ In the past few years, we established strong relationships with business partner
 * **How many have you sold?** <br/>
   20k+ pcs
 * **What brought you to Helium?** <br/>
-  As loyal fans of cryptocurrency, we are always interested in blockchain projects and have a keen awareness of the hardware encryption market. We were excited when we heard about a new LoRaWAN network using blockchain technology, and Helium came to our attention. We are eager to be one of builders of the Helium network and look forward to contributing to the growth of the next generation of the global IoT market. 
+  As loyal fans of cryptocurrency, we are always interested in blockchain projects and have a keen awareness of the hardware encryption market. We were excited when we heard about a new LoRaWAN network using blockchain technology, and Helium came to our attention. We are eager to be one of builders of the Helium Network and look forward to contributing to the growth of the next generation of the global IoT market. 
 ## Product Information (required)
 * **What is this product's model name or model number?** <br/>
-  RTECH M100
+  RedRock HNT Miner M100(Model name:RedRock HNT Miner, Model number:M100)
 * **Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)** <br/>
   Full Hotspot
 * **Is it for indoor or outdoor?** <br/>
   Indoor
 * **Provide a brief description:** <br/>
-  RTECH M100 is a high-performing, ready-to-use LoRaWAN indoor gateway connected to the Helium LongFi Network. It is based on Raspberry Pi 4 and embedded with M302 module LoRaWAN concentrator.
+  M100 is a high-performing, ready-to-use LoRaWAN indoor gateway connected to the Helium LongFi Network. It is based on Raspberry Pi 4 and embedded with M302 module LoRaWAN concentrator.
 * **What is your approximate price point?** <br/>
   We will sell the first generation product at around $499.
 * **What is your expected production and delivery timeline?** <br/>
