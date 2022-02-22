@@ -18,20 +18,20 @@ BROWAN Communications, as a Gemtek Group’s Company, builds on the pioneering f
 ## Product Information
 
 Our main product areas are in WiFi, LoRaWAN gateways and IoT node devices. Please check https://www.browan.com/product/XP/VJ for the full list.
-We are building two versions of Light Miner (PicoNext) which use Ethernet and WiFi as the backhaul. The standard version comes with SX1302 and the advanced one comes with SX1303 plus GPS. 
+We are building MerryIoT Light Hotspot V2 which uses Ethernet or WiFi as the backhaul. The standard version comes with SX1302. 
 Please find the preliminary HW interfaces:
 
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117094000-22c4fe80-ad95-11eb-8694-53746782d98a.png)
 
-1. CPU: Nuvoton NUC980
-2. Memory: DDR2 128MB
-3. Storage: Flash 128M
-4. Power Supply: DC12V 1.5A
-5. LED x4
-6. Reset Button
-7. Ethernet
-8. WiFi
-9. GPS
+1. MPU: Nuvoton NUC980
+2. SX1302
+3. Memory: DDR2 64MB
+4. Storage: Flash 128M
+5. Power Supply: DC12V 1.5A
+6. LED x4
+7. Reset Button
+8. Ethernet
+9. WiFi
 10. LoRa 8 channles
 11. DC power supply
 12. POE power supply 
