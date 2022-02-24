@@ -17,9 +17,12 @@ We hope to become a major Helium hotspot provider and promoter, and will keep in
 
 
 ## Product Information (required)
+The Cranberries series are co-branded with EADTECH.
+
+The Cranberries-Dreams series are designed as Helium light-node hotspot for global market, support both indoor and outdoor deployment. 
+
 Model Name: Cranberries-Dreams 470/Dreams 915/Dreams 868
 
-The cranberries-dreams series are designed as Helium light-node hotspot for global market, support both indoor and outdoor deployment. 
 * 1GHz Quad core 64-bit ARM Cortex-A53 CPU
 * 512MB SDRAM
 * 32GB micro-SD Card
@@ -35,14 +38,17 @@ The cranberries-dreams series are designed as Helium light-node hotspot for glob
 * 1x Button for Gateway Configuration
 * 12V@1A DC Power In
 
+![](./Cranberries-full-RaspberryPi-logo1.jpg)
+![](./Cranberries-full-RaspberryPi-logo2.jpg)
+
 
 ## Production and delivery timeline
-After the official certification, we can deliver the goods within 30 days after customers’ order.
+After Helium's official certification, we can deliver the goods within 30 days after customers’ order.
 
 
 ## Previous shipments (required)
-We have experiences in shipping wireless products worldwide. Our tech and material provider is EDATECH, designer partners of the Raspberry Pi Foundation. Products they designed are sold all over the world, including IoT gateways.
-
+We have experiences in shipping wireless products worldwide. Our tech and material provider is EDATECH, one of the designer partners of the Raspberry Pi Foundation. The products they designed, including IoT gateways, are sold all over the world,.
+ 
 
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
@@ -79,7 +85,7 @@ We have experiences in shipping wireless products worldwide. Our tech and materi
 
 
 ## Manufacturing Information (required)
-We have secured sufficient amount of materials for the forecast of 1 year. And with the good relations with two major LoRa module vendors in Eastern China, we have ensured the supply chain in long term.
+We have secured sufficient amount of materials for the forecast of 1 year. And with the good relations with two major LoRa module vendors in Eastern China, we can ensure the supply chain in long term.
 
 
 
@@ -89,8 +95,8 @@ We'll submit the information to DeWi.
 
 
 ## Budget & Capital (required)
-* We secured materials for 2K gateways，including LoRaWan and the Raspberry Pi.
-* We reserved 1 millions USD cash to launch the product and run the business. 
+* We have secured materials for 2K gateways，including LoRaWan and the Raspberry Pi.
+* We reserved 1 millions USD cash to launch products and run the business. 
 * We expect to produce 10,000 gateways per month.
 * When we sell 1,000 machines, we will obtain positive cash flow.
 
