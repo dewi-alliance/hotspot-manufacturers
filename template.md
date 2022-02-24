@@ -12,7 +12,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 * What brought you to Helium? 
 
 ## Product Information (required)
-* What is this product's model name or model number? 
+* What is this product's model name? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two models, list them separately)
 * Provide a brief description:
