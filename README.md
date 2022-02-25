@@ -17,7 +17,7 @@ Also available at [this link.](https://docs.google.com/document/d/1_Z9In5uIrz-bC
 
 # Manufacturer Onboarding
 
-We recommend getting into the Helium community discord as soon as possible and joining the conversation in the #hip-19-third-party-manufacturers channel. Establishing a trusted reputation among the community is critical to your success. Manufacturers are encouraged to provide an introduction and direct interested parties to your own communication channels (e.g. company email or support). It is of the utmost importance to appropriately manage expectations on your product, the cost, and production timelines. This information should be included in your application. 
+We recommend getting into the Helium community discord as soon as possible and joining the conversations. Establishing a trusted reputation among the community is critical to your success. Manufacturers are encouraged to provide an introduction and direct interested parties to your own communication channels (e.g. company email or support). It is of the utmost importance to appropriately manage expectations on your product, the cost, and production timelines. This information should be included in your application. 
 
 Manufacturers who wish to participate in the Helium Network should complete the below steps (2-4 can be completed in parallel).
 

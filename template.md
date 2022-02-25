@@ -6,15 +6,15 @@ Application to become an approved third party manufacturer as per HIP19. All que
 
 ## Company Information (required)
 * What is your company name?
-* How long have you been in business? 
-* What kind of products have you created? 
+* How long has the company been in business? 
+* What kind of products have you created? (list specific products)
 * How many have you sold? 
 * What brought you to Helium? 
 
 ## Product Information (required)
-* What is this product's model name or model number? 
+* What is this product's model name? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-* Is it for indoor or outdoor?
+* Is this model for indoor, outdoor, or both? (If there are two models, list them separately)
 * Provide a brief description:
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
@@ -70,7 +70,7 @@ Contact details for this will be provided after your application is submitted on
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
-## Other information if you do not provide contact information we cannot review your proposal.
+## Other information if you do not provide contact information we cannot review your proposal
 ## Contact Info 
 * Contact Email (required) -
 * Website (required) -
