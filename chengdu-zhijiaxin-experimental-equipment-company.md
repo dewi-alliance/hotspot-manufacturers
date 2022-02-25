@@ -74,6 +74,6 @@ We think logistics will be the biggest problem, especially in the case of epidem
 * Other social profiles -
 
 
-## Payment methods available (required):
+## Payment methods available
 We support paying with USDT, USDC and other stable coins
 
