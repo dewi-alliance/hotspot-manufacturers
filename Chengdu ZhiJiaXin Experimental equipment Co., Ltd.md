@@ -33,8 +33,6 @@ United States
 
 
 ## Hardware Security Element (required)
-* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured.
-* The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
 * Are you using an ECC608. Yes or no? No.
 * Encrypted/locked-down firmware. Yes or no? Yes, we will lock the system firmware
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? Yes.
@@ -42,6 +40,8 @@ United States
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
+![WechatIMG6256](https://user-images.githubusercontent.com/37331181/155687940-bbb368fe-7352-4fa6-bdbc-27a20a462f63.jpeg)
+![WechatIMG6261](https://user-images.githubusercontent.com/37331181/155688006-e4f7f4c4-d95f-4e9f-8c53-577035b05f7c.jpeg)
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 * What are your plans for software setup and configuration for the devices? We will update the customer's system firmware through remote OTA update. 
 * Which LoRa chipset are you planning to use in your gateway? SX1302
@@ -69,7 +69,7 @@ We think logistics will be the biggest problem, especially in the case of epidem
 
 ## Other information if you do not provide contact information we cannot review your proposal.
 ## Contact Info 
-* Contact Email (required) 450791118@qq.com
+* Contact Email (required) li33114413@gmail.com
 * Website (required) http://www.cdzhijiaxin.cn/
 * Twitter profile -
 * Facebook profile -
