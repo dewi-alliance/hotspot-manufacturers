@@ -42,7 +42,6 @@ United States
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
 ![WechatIMG6256](https://user-images.githubusercontent.com/37331181/155687940-bbb368fe-7352-4fa6-bdbc-27a20a462f63.jpeg)
 ![WechatIMG6261](https://user-images.githubusercontent.com/37331181/155688006-e4f7f4c4-d95f-4e9f-8c53-577035b05f7c.jpeg)
-Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
 * What are your plans for software setup and configuration for the devices? We will update the customer's system firmware through remote OTA update. 
 * Which LoRa chipset are you planning to use in your gateway? SX1302
 * What is the CPU? Broadcom BCM2711
