@@ -55,8 +55,7 @@ We will support the official Helium application and we will develop our own make
 
 **What is your expected production and delivery timeline? Photos and videos welcome.**
 
-Timeline:
-Pre-sale: 31 January 2021
+Expected production time：March 2022
 
 # **Previous shipments**
 **Have you shipped anything in the past?**
