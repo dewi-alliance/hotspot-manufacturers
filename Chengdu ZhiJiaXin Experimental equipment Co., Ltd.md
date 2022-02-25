@@ -27,17 +27,17 @@ Chengdu zhijiaxin Experimental Equipment Co., Ltd., established on July 28, 2016
 * What is your approximate price point?
 * We will sell our product at around $600.
 * What is your expected production and delivery timeline? 
-* Production and delivery timeline: Booking - 2/15/2022 Batch production - 3/15/2021 First batch product delivery
+* Production and delivery timeline: Booking - 3/15/2022 Batch production - 4/15/2021 First batch product delivery
 
 ## Previous shipments (required)
 Startups welcomed!
 * Have you shipped anything in the past? What types of products have you shipped?
 * We have sent a large number of Ethereum mining machines and Chia mining machines, and have some transportation experience. Our main customers will be the United States and Europe. We have long-term cooperation with the transshipment company in Shenzhen, who will help us transport the goods to all parts of the world.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
-* U.S.A
+* CN
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-U.S.A
+United States
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
@@ -51,11 +51,11 @@ U.S.A
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured.
 * The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
-* Are you using an ECC608. Yes or no?
-* Encrypted/locked-down firmware. Yes or no? 
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+* Are you using an ECC608. Yes or no? no.
+* Encrypted/locked-down firmware. Yes or no? Yes, we will lock the system firmware
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? Yes.
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? Yes.We will turn off administrative privileges on the Linux system
+* * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
