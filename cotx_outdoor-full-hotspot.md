@@ -135,4 +135,4 @@ The greatest challenge in our opinion is that the supply chain of SX1302&SX1303 
 * T/T, AliPay, WechatPay
 
 ## Regions covered
-Shipped to - worldwide
+Shipped to - Europe, USA, China, Thailand, Philippines, Australia
