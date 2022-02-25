@@ -36,12 +36,13 @@ LTE connectivity (optional):
 
 Platform details:
 * Quad core 716 MHz CPU
+* 256MBytes RAM
 * 3x Gigabit Ethernet ports
 * Integrated GPS receiver
 * Integrated dual band simultaneous Wi-Fi 5 (antennas integrated)
 
 LoRaWAN:
-* Chipset: SX1302/3 chipset.
+* Chipset: SX1303 chipset.
 * LoRa Frequency Bands: EU868, IN865, RU864, US915, AU915, AS923, AS925, KR920
 * Channel Capacity: 8-channels (half-duplex)
 * Maximum Output Power: Up to +27 dBm
@@ -62,7 +63,7 @@ Power:
 Peplink has more than 15 years of experience in designing and shipping products to worldwide clients and partners.
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-Worldwide.
+US, Canada and European Union. Certification will include FCC, IC, CE, PTCRB and other carrier related certification for the LTE version.
 
 ## Customer Support
 Peplink has an issues reporting system for all of their clients. There is no limit for how long support issues can be reported. Replacement handling will be done as for any other Peplink RMA case (more details: https://www.peplink.com/support/policies/)
