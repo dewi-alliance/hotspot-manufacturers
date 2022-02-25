@@ -45,7 +45,7 @@ United States
 * What are your plans for software setup and configuration for the devices? We will update the customer's system firmware through remote OTA update. 
 * Which LoRa chipset are you planning to use in your gateway? SX1302
 * What is the CPU? Broadcom BCM2711
-* Other Hardware Specifications: POE fan expansion board
+* Other Hardware Specifications: In the figure, we use raspberry pie 4B as the main board，the memory capacity is 8g, and add POE power supply expansion board, Lora module expansion board, 128G memory card, fan and heat sink. The shell is completely waterproof, with a network cable interface outside the bottom and no opening anywhere.
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
