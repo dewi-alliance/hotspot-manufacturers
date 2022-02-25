@@ -40,8 +40,8 @@ United States
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
-![WechatIMG6256](https://user-images.githubusercontent.com/37331181/155687940-bbb368fe-7352-4fa6-bdbc-27a20a462f63.jpeg)
-![WechatIMG6261](https://user-images.githubusercontent.com/37331181/155688006-e4f7f4c4-d95f-4e9f-8c53-577035b05f7c.jpeg)
+![1](https://user-images.githubusercontent.com/37331181/155689913-b4a53eeb-1b10-4dc4-8069-0abc71d0bcaa.jpeg)
+![2](https://user-images.githubusercontent.com/37331181/155689936-8309c36b-6206-41ee-8310-39f292e9f285.jpeg)
 * What are your plans for software setup and configuration for the devices? We will update the customer's system firmware through remote OTA update. 
 * Which LoRa chipset are you planning to use in your gateway? SX1302
 * What is the CPU? Broadcom BCM2711
