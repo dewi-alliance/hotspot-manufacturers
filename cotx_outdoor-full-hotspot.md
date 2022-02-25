@@ -48,7 +48,7 @@ Like our Smart LoRa Gateways, Helium Hotspot X5 Miner features:
 
 * Powered by Raspberry Pi Compute Module 4B, 64GB SD Card storage
 
-* Comes with a LoRa gateway processor SX1302&SX1303
+* Comes with a LoRa gateway processor SX1302
 
 * Power Over Ethernet Connectivity
 
@@ -104,7 +104,7 @@ Currently we are planning the following:
 * We will be more than happy to submit prototypes for audit. For future products we are consistently evaluating more options including other security element chips.
 
 ## Hardware Information
-* The mainboard is Raspberry Pi Compute Module 4B and LoRa module processor is SX1302&SX1303.
+* The mainboard is Raspberry Pi Compute Module 4B and LoRa module processor is SX1302.
 * WE are using ECC608 (swarm) chip for security element.
 * We are using components of Semtech、Qualcomm、Skyworks、Microchip、AVAGO、TI、MTK、Winbond、Sliconlabs、ST、Muruta, and sourcing from franchised channels including Arrow Electronics，WT Microelectronics，Avnet，Cecport.
 *  We can procure from Semtech 200k-300k SX1302 chipset in 2021.
