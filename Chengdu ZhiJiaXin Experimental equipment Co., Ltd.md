@@ -1,6 +1,5 @@
 ## Chengdu ZhiJiaXin Experimental equipment Co., Ltd
 
-Application to become an approved third party manufacturer as per HIP19. All questions must be answered. Any missing information will result in delays.
 ## Summary
 Chengdu zhijiaxin Experimental Equipment Co., Ltd., established on July 28, 2016, is engaged in the development of network equipment. Team members have rich experience in router development and blockchain mining
 ## Company Information
