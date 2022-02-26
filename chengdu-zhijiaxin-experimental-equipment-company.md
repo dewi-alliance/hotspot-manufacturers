@@ -38,6 +38,7 @@ United States
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information
+![WechatIMG117](https://user-images.githubusercontent.com/37331181/155826423-b09c9e76-4c4a-4994-b7e4-117e53ad5d97.jpeg)
 ![1](https://user-images.githubusercontent.com/37331181/155689913-b4a53eeb-1b10-4dc4-8069-0abc71d0bcaa.jpeg)
 ![2](https://user-images.githubusercontent.com/37331181/155689936-8309c36b-6206-41ee-8310-39f292e9f285.jpeg)
 ![3](https://user-images.githubusercontent.com/37331181/155691003-6e5138e7-fedc-4e13-bb29-061288de9913.jpeg)
