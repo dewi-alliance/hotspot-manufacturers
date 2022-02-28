@@ -28,8 +28,9 @@ Hi, we come from china. We are a pure technology start-up company, committed to 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
   - Full Hotspot
 * Is it for indoor or outdoor?
-  - Both
+  - Both: This is one model that can be used both indoor and outdoor.
 * Provide a brief description:
+  - An extensible fully functional Lora Gateway
   - CPU: Raspberry Pi CM4
   - Radio: S90S (Based on SX1302)
   - Encryption: ATECC608
@@ -41,7 +42,15 @@ Hi, we come from china. We are a pure technology start-up company, committed to 
   - $ 320 ~ 550
   - ¥ 2000 ~ 3500
 * What is your expected production and delivery timeline?
-  - 2 ~ 4 weeks
+  - Preparation:
+    - 6 weeks
+  - Production:
+    - 1200pcs: 2 weeks
+    - 6000pcs: 4 weeks
+  - Delivery:
+    - China: 1 week
+    - Japan: 2 weeks
+    - Europe: 4 weeks
 
 ## Previous shipments (required)
 Startups welcomed!
@@ -55,12 +64,10 @@ Startups welcomed!
   - Japan
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-  - China
-  - Japan
-  - Singapore
-  - Malaysia
-  - England
-  - Spain
+  - CN470
+  - EU868
+  - AU915
+  - AS923
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products?
@@ -69,8 +76,8 @@ Startups welcomed!
   - E-Mail
   - Social software, such as wechat
 * For how long?
-  - Long term support
-* How are you planning to handle repairs and replacements? 
+  - 3 years
+* How are you planning to handle repairs and replacements?
   - Mail it back to our factory or technical support site
 
 ## Hardware Security Element (required)
