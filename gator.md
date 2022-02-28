@@ -90,7 +90,7 @@ Full hotspot is developed based on RockPi(see below pic), so can make it stable 
 * We discussed with Semtech, they will produce gateway chip 150k totally every month, it is a big challenges to produce hotspot if there are 10k or more quantity requirement per month.so need to place chip order few quarters in advance.  delivery timelines is also a challenges because of chip shortage, so need to notice customers precise delivery date and inform customer a few weeks in advance if there is any delay.
 
 ## Other information (required) if you do not provide contact information, we cannot review your proposal
-* Contact info (* required):support@gatorproiot.com
+* Contact info (* required):support@gatorproiot.com / joyce@gatorcn.com
 * Website -www.gatorproiot.com
 * Discord:https://discord.gg/K2RGg9cWhR
 
