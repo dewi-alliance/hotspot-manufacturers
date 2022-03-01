@@ -11,13 +11,13 @@ The technical team of the company is composed of experts in the fields of wirele
 
 ## Product Information (required)
 
-Midas-926 Gateway  
+Midas-926 Gateway Light  
 Model: Midas-926.GM470/GM915/GM868 - Helium Light Hotspot 
 * Semtech SX1302 based LoRa concentrator supporting CN/US/EU bands
 * MIPS processor @ 580MHz
 * 128MB DDR2 RAM
 * 16MB Flash
-* ATECC608A chip for swarm key
+* ATECC608 chip for swarm key
 * WiFi(2.4GHz) IEEE 802.11b/g/n/ac
 * Status indication LEDs
 * Voltage 5V
