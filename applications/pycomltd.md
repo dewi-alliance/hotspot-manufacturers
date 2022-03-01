@@ -28,11 +28,11 @@ Our Pygate Helium Gateway features the following:
 * Comes with a LoRa Concentrator based on SX1308 & 2x SX1257.
 * Power Over Ethernet using the 802.3af standard.
 * WiFi, Bluetooth and Ethernet connectivity.
-* Comes with Microchip Secure Element to securely store swarm keys.
+* Comes with Microchip Secure Element (ATECC608A) to securely store swarm keys.
 * Docker based software setup with optional balenaCloud integration for remote configuration & updates.
 
 * What is your expected production and delivery timeline?
-**Production is planned for October 2021**
+**Production is planned for May 2022 for delivery in May/June 2022**
 
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.
 **https://pycomiot-my.sharepoint.com/:f:/g/personal/cehlers_pycom_io/EgAfDu8IIqhJoaQDdigfH5ABvNBCoNtTZF0AAZadtYZTwA**
@@ -44,8 +44,13 @@ Our Pygate Helium Gateway features the following:
 **We have shipped IoT products with WiFi, Bluetooth, LoRa(WAN), Sigfox and LTE-M world-wide since 2015**
 * Which countries have you previously shipped regulatory FCC or CE approved products?
 **World-wide**
-* Which countries do you plan to ship to?
-**World-wide**
+* Which regions do you plan to ship to?
+First phase:
+**North America (NAM)**
+**South America (SAM)**
+**Europe (EU)**
+Second phase:
+**Asia (APAC)**
 
 ## Customer Support (required)
 

@@ -40,17 +40,21 @@ We are making available our technology to the Helium network by proposing multip
 *	**Antenna:** N-Type Antenna Connector
 *	**Dimensions:** Length: 240mm, Width: 160mm, Height: 90mm
 
-**EMB-Fem2GW Miner:**
+**EMB-Fem2GW Miner-I/O:**
+
+The EMB-Fem2GW Miner-O and EMB-Fem2GW Miner-I hotspots are based on the same hardware. The core of the host board is a Raspberry Pi Compute Module 4 (CM4) 2 GB and 32 GB Flash memory with Wifi and Bluetooth connectivity.
+
+**EMB-Fem2GW Miner-O:**
 
 ![immagine](https://user-images.githubusercontent.com/77483392/127845009-1fb233fc-7349-4b4b-a1d1-9c9719ebc453.png)
 
 *	**Outdoor (IP67)**
-*	**Processor:** Broadcom BCM2711 quad-core Cortex® A72 (ARM v8) 64-bit SoC @ 1.5GHz
-*	**RAM Memory:** up to 16 GB RAM LPDDR4-3200 SDRAM
-*	**Flash Memory:** up to 32 GB eMMC
-*	**LAN Connection:** Ethernet RJ 45 10/100/1000
+*	**Processor:** Broadcom BCM2711 quad-core Cortex® A72 (ARM v8) 64-bit SoC @ 1.5GHz (Raspberry Pi CM 4)
+*	**RAM Memory:** 2 GB RAM LPDDR4-3200 SDRAM
+*	**Flash Memory:** 32 GB eMMC
+*	**LAN Connection:** Ethernet RJ45 1000
 *	**LoRaWAN® connectivity:** EMB-LR1302/3-mPCIe both EU (863-870 MHz) and US (902-928) – 8 LoRaWAN® Channels
-*	**Backhaul connectivity:** 3G/LTE, Wi-Fi IEEE 802.11 b/g/n
+*	**Backhaul connectivity:** 3G/LTE, Wi-Fi IEEE 802.11 b/g/n/ac
 *	**Bluetooth:** Yes (Bluetooth 5.0)
 *	**GPS:** U-Blox Neo M8Q
 *	**OS:** RaspiOS 64 bit
@@ -59,22 +63,41 @@ We are making available our technology to the Helium network by proposing multip
 *	**Antenna:** N-Type Antenna Connector
 *	**Dimensions:** L:165mm W:165mm H:53mm
 
+**EMB-Fem2GW Miner-I:**
+
+![Emb-Fem2GW-Miner-I(1)](https://user-images.githubusercontent.com/77483392/152368607-2448b701-4f9e-4ae0-91d6-784b506075f4.jpg)
+
+*	**Indoor**
+*	**Processor:** Broadcom BCM2711 quad-core Cortex® A72 (ARM v8) 64-bit SoC @ 1.5GHz
+*	**RAM Memory:** 2 GB RAM LPDDR4-3200 SDRAM
+*	**Flash Memory:** 32 GB eMMC
+*	**LAN Connection:** Ethernet RJ45 1000
+*	**LoRaWAN® connectivity:** EMB-LR1302/3-mPCIe both EU (863-870 MHz) and US (902-928) – 8 LoRaWAN® Channels
+*	**Backhaul connectivity:** 3G/LTE, Wi-Fi IEEE 802.11 b/g/n/ac
+*	**Bluetooth:** Yes (Bluetooth 5.0)
+*	**GPS:** U-Blox Neo M8Q
+*	**OS:** RaspiOS 64 bit
+*	**Crypto Unit:** ECC608A
+*	**Power Supply:** POE IEEE 802.3af  or  +12 VDC
+*	**Antenna:** SMA Connector
+*	**Dimensions:** L:150mm W:150mm H:45mm
+
 **EMB-LR-PICOCELL Miner:**
 
-![immagine](https://user-images.githubusercontent.com/77483392/128351355-e6741405-72f1-436f-9532-3e708352e8c5.png)
+![Emb-PicoCellMiner MP](https://user-images.githubusercontent.com/77483392/152377252-0e35c9c5-095d-406f-9ee8-0385937e2654.jpg)
 
 *	**Indoor** 
-*	**Raspberry Pi 3 B+**
-*	**LAN Connection:** Gigabit Ethernet over USB 2.0 (maximum throughput 300 Mbps)
+*	**Raspberry Pi 4 Model B**
+*	**LAN Connection:** Gigabit Ethernet
 *	**LoRaWAN® connectivity:** EMB-LR1302/3-mPCIe both EU (863-870 MHz) and US (902-928) – 8 LoRaWAN® Channels
 *	**Backhaul connectivity:** Wi-Fi IEEE 802.11 b/g/n/ac
-*	**Bluetooth:** Yes (Bluetooth 4.2)
+*	**Bluetooth:** Yes (Bluetooth 5.0)
 *	**GPS:** U-Box Neo M8Q
 *	**OS:** RaspiOS 64 bit
 *	**Crypto Unit:** ECC608A
-*	**Power Supply:** 5V/2.5A DC supply via USB-Micro
+*	**Power Supply:** 5.1V/3.0A DC supply via USB-C
 *	**Antenna:** SMA Connector
-*	**Dimensions:** L:100mm W:70mm H:40mm
+*	**Dimensions:** L:100mm W:100mm H:35mm
 
 ## Previous shipments
 

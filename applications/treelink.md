@@ -25,7 +25,7 @@ Application to become an approved third party manufacturer as per HIP19.
 * Full Hotspot
 
 * Is it for indoor or outdoor?
-* Outdoor (indoor plan 2022-1Q)
+* Indoor
 
 * Provide a brief description of what you're making.
 * Our product is a stable and reliable complete indoor LoRaWAN hot spot device that supports Helium LongFi technology for fast access to the Helium network. The product is equipped with the Semtech high-performance 8-channel transceiver SX1302 chip, using raspberrypi CM4 module as processor and security encryption chips ATECC608, with efficient and reliable connection capability. 
@@ -36,9 +36,9 @@ Application to become an approved third party manufacturer as per HIP19.
 ## Please provide detailed hardware designs, including relevant parts (required)
 
     ·Based on Semtech SX1302 and sx1250 chip
-    ·NXP A53 quad-core processor (raspberrypi CM4 module)
+    ·Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz| (raspberrypi CM4 module)
     ·2 GB or 4 GB LPDDR4
-    ·32 GB on board EMMC chip (feature supprot 128 GB SSD with M.2 interface)
+    ·8/16/32 GB on board EMMC chip + 64/128 GB SSD with M.2 interface
     ·Built-in ATECC608 encryption chip
     ·Bluetooth 5.0
     ·Network connection to 2.4ghz and 5.0ghz IEEE 802.11AC wireless
@@ -48,11 +48,17 @@ Application to become an approved third party manufacturer as per HIP19.
     ·Coverage radius: 3 km in urban areas and 5 km in rural areas
 
 * Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
-<div align=center><img src="treelink/board-3d-top.png"/></div>
-<p align="center">Figure 1. Hotspot board 3D top</p>
+<div align=center><img src="treelink/board-top.png"/></div>
+<p align="center">Figure 1. Hotspot board top</p>
 
-<div align=center><img src="treelink/board-3d-buttom.png"/></div>
-<p align="center">Figure 2. Hotspot board 3D buttom</p>
+<div align=center><img src="treelink/board-buttom.png"/></div>
+<p align="center">Figure 2. Hotspot board buttom</p>
+
+<div align=center><img src="treelink/physical-photo.png"/></div>
+<p align="center">Figure 3. Hotspot physical photo</p>
+
+<div align=center><img src="treelink/physical-interface.png"/></div>
+<p align="center">Figure 4. Hotspot physical interface</p>
 
 * Your plan for software setup and configuration for the devices. This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 * We intend to fully integrate our hotspots with the helium app allowing users to use all the features the app offers and apply OTA updates. 

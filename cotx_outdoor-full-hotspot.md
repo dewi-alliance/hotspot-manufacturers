@@ -48,7 +48,7 @@ Like our Smart LoRa Gateways, Helium Hotspot X5 Miner features:
 
 * Powered by Raspberry Pi Compute Module 4B, 64GB SD Card storage
 
-* Comes with a LoRa gateway processor SX1302&SX1303
+* Comes with a LoRa gateway processor SX1302
 
 * Power Over Ethernet Connectivity
 
@@ -104,10 +104,10 @@ Currently we are planning the following:
 * We will be more than happy to submit prototypes for audit. For future products we are consistently evaluating more options including other security element chips.
 
 ## Hardware Information
-* The mainboard is Raspberry Pi Compute Module 4B and LoRa module processor is SX1302&SX1303.
+* The mainboard is Raspberry Pi Compute Module 4B and LoRa module processor is SX1302.
 * WE are using ECC608 (swarm) chip for security element.
 * We are using components of Semtech、Qualcomm、Skyworks、Microchip、AVAGO、TI、MTK、Winbond、Sliconlabs、ST、Muruta, and sourcing from franchised channels including Arrow Electronics，WT Microelectronics，Avnet，Cecport.
-*  We can procure from Semtech 200k-300k SX1302 chipset in 2021.
+*  We can procure from Semtech 200k-300k SX1302 chipset in 2022.
 
 ## Manufacturing Information
 COTX Networks invested significantly in R&D and launches numerous gateways each year for various projects including applications of smart street, smart computer room, national museum, smart greenhouse. Those include hardware of LoRaWAN indoor gateway, outdoor gateway, AIOT edge gateway, integrated gateway etc. We are the main hardware& platform supplier of TOPSEC, SHUZHI.AI, TST, well known brands in China. What is more, as an OEM/ODM manufacturer, we have already produced over 50,000 sets LoRa trackers to Petfon in high quality, and 10,000 EUR standard indoor full Hotspot has been finished and ready to ship by the end of September,2021.
@@ -119,7 +119,7 @@ To be submitted privately to DeWi. We have finished KYC by first time applicatio
 We aim to produce 5000-10000pcs X5 Miner hotspots as our first batch, then steadily provide 10000 units each month. COTX have sufficient funds to produce large volumes. For our existing indoor X3 model, our supply chain and production line have provided sufficient capacity and have large surplus. 
 
 ## Risks & Challenges 
-The greatest challenge in our opinion is that the supply chain of SX1302&SX1303 with price volatility currently. We will solve it with a rich running stock, extra 10000 pieces chipsets or even more will arrive for stable materials supply.
+The greatest challenge in our opinion is that the supply chain of SX1302 with price volatility currently. We will solve it with a rich running stock, extra 10000 pieces chipsets or even more will arrive for stable materials supply.
 
 ## Other information
 * Desired Discord support channel name - COTX Networks
@@ -135,4 +135,4 @@ The greatest challenge in our opinion is that the supply chain of SX1302&SX1303 
 * T/T, AliPay, WechatPay
 
 ## Regions covered
-Shipped to - worldwide
+Shipped to - Europe, USA, China, Thailand, Philippines, Australia
