@@ -41,7 +41,7 @@ Startups welcomed!
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
-Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
+Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 * What are your plans for software setup and configuration for the devices?
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
