@@ -44,6 +44,7 @@ United States
 ![3](https://user-images.githubusercontent.com/37331181/155691003-6e5138e7-fedc-4e13-bb29-061288de9913.jpeg)
 * What are your plans for software setup and configuration for the devices? We will update the customer's system firmware through remote OTA update. 
 * Which LoRa chipset are you planning to use in your gateway? SX1302
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using?we will using TPM2.0
 * What is the CPU? Broadcom BCM2711
 * Other Hardware Specifications: In the figure, we use raspberry pie 4B as the main board，the memory capacity is 8g, and add POE power supply expansion board, Lora module expansion board, 128G memory card, fan and heat sink. The shell is completely waterproof, with a network cable interface outside the bottom and no opening anywhere.
 
