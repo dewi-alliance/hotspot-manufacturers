@@ -1,6 +1,6 @@
 # **Name**
 
-E-sun Electronics Ltd/ Panther X2
+E-sun Electronics Ltd/ Panther X
 
  
 
@@ -9,10 +9,23 @@ E-sun Electronics Ltd/ Panther X2
 E-sun Electronics understands the importance of a paradigm shift for decentralized wireless infrastructure powered by the Helium Blockchain. Therefore, we are delighted to become a third-party manufacturer and build a high-efficiency regular hotspot (Panther X). Shortly, we aim to contribute to the connective grid for the helium network and develop and provide the tools and sensors to the business parties.
 
  
-
-We are submitting a new proposal for the Panther X2 hotspot, an enhanced model of Panther X hotspots. We hand many orders for the Panther X Hotspot now and have received solid supports from the community. With all that help, we can acquire better components for the Panther X Hotspots. 
-
  
+
+We are submitting a new proposal for the Panther X2 hotspot（SX1308 version）. 
+
+
+
+As the network expands and the market continues to grow, we decide to provide the Panther X2 gateway both in SX1302 chipset and SX1308 chipset.
+
+
+
+Three stable and compact gateway solutions：
+
+● Panther X1 for Helium Full hotspot (with SX1302 chipset inside)
+
+● Panther X2 for Helium Full hotspot (with SX1302 chipset inside)
+
+● Panther X2 for Helium Full hotspot (with SX1308 chipset inside)
 
 # **Company information**
 
@@ -22,9 +35,11 @@ E-sun Electronics Ltd, founded in 2014, is an intelligent manufacturing company 
 
 Panther X is committed to the perfect combination of blockchain technology and the Internet of Things, powering Helium to achieve global network coverage and application launch quickly.
 
- 
 
 # **Product information**
+**● Which security (swarm) element are you using?**
+
+Panther X2: $599
 
 **Detailed hardware designs, including relevant parts.**
 
@@ -33,10 +48,10 @@ Panther X is committed to the perfect combination of blockchain technology and t
 | CPU                    | ●Quad-core Cortex-A55 up to 1.8GHz                           |
 | Memory                 | ●DDR 4GB                                                     |
 | Storage                | ●eMMC 32GB+ TF Card 64GB                                     |
-| LoRa radio             | ●CN 470 SKU  <br />●External SMA antenna                     |
+| LoRa radio             | ●External SMA antenna                     |
 | Wi-Fi radio            | ●2.4GHz 1Tx/1Rx 802.11 b/g/n <br />●Built-in antenna         |
 | BLE radio              | ●2.4GHz BLE 5.2  <br />●Built-in antenna                     |
-| Crypto chip            | ●Microchip ATECC608A                                         |
+| Crypto chip            | ●Microchip ATECC608                                       |
 | LAN interface          | ●RJ45 1Gbps x 1                                              |
 | TF                     | ●External TF card slot    <br />●Supports SDXC or higher speed |
 | USB                    | ●External USB-A 2.0 connector   <br />●Reserved for future use |
@@ -47,12 +62,20 @@ Panther X is committed to the perfect combination of blockchain technology and t
 | Power                  | ●DC jack  <br />●DC12V 1~1.5A                                |
 
  
+ **Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better.**
+
+<img src="https://xxxpic.oss-cn-hongkong.aliyuncs.com/95L9HZ7040I5SWPKWTEIY0II78MOXVWL.png" width="300" height = "200" alt="218" align=center />
+
 
 **Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings via Helium's official app or otherwise.**
 
-We will support the official Helium application.
+We have developed our own maker application.
 
- 
+
+ **What is your expected production and delivery timeline? Photos and videos welcome.**
+
+We are continuing to produce and will steadily increase production capacity.
+
 
 # **Customer Support**
 
@@ -70,7 +93,7 @@ We have a team to provide customers with comprehensive pre-sales consultation an
 
 # **Hardware Security**
 
-We have adopted the ECC608 security element chip to increase the security of the swarm key.
+We have adopted the ATEECC608 security element chip to increase the security of the swarm key.
 
  
 
@@ -78,13 +101,14 @@ We have adopted the ECC608 security element chip to increase the security of the
 
 **● Which security (swarm) element are you using?**
 
-ATECC608A 
+ATECC608
 
  
 
 **● Which LoRa chipset are you planning to use in your gateway (i.e. SX1302/03 & SX1250s or SX1301/08 & SX1255/57)**
 
-SX1302&SX1250 
+SX1302&SX1250;
+SX1308&SX1257
 
  
 
@@ -97,7 +121,6 @@ Our components are sourced from all over the world, both online and offline. In 
 # **Manufacturing Information**
 
 BROWAN COMMUNICATIONS (referred to as Browan) is an essential partner of E-sun, responsible for the mass production of Panther X.
-
  
 
 Browan is a professional wireless equipment company founded in 1999. The company is one of the Gemtek Group's (Taiwan listed company, stock code 4906) companies that focus on leveraging the wireless technology Know-How accumulated over the years to address the emerging businesses of the Internet of Things. In addition, BROWAN focuses on integrating wireless technology such as WiFi, BLE, LTE, and LoRa.
@@ -112,7 +135,7 @@ We have submitted this information to Dewi via email in July.
 
 # **Budget & Capital**
 
-We have sufficient funding support to produce the hardware in large volumes. Therefore, we aim to build at least 10000 pcs every month.
+We have sufficient funding support to produce the hardware in large volumes. Therefore, we aim to build at least 20000 pcs every month.
 
  
 
