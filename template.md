@@ -1,21 +1,21 @@
-## Please copy this template.md (do not edit the template directly).
-## YOUR NAME
+## Please copy this template.md (do not edit the template directly)
+## COMPANY NAME
 
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered, any missing information will result in delays.
 ## Summary
 
 ## Company Information (required)
 * What is your company name?
-* How long have you been in business? 
-* What kind of products have you created? 
+* How long has the company been in business? 
+* What kind of products have you created? (list specific products)
 * How many have you sold? 
 * What brought you to Helium? 
 
 ## Product Information (required)
-* What is this product's model name or model number? 
+* What is this product's model name? 
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-* Is it for indoor or outdoor?
-* Provide a brief description:
+* Is this model for indoor, outdoor, or both? (If there are two models, list them separately)
+* Provide a brief description of the product:
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
 
@@ -41,11 +41,11 @@ Startups welcomed!
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
-Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. 
+Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 * What are your plans for software setup and configuration for the devices?
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
-* Which LoRa chipset are you planning to use in your gateway? (i.e. SX1302, SX1303, etc, only list one) 
+* Which LoRa chipset are you planning to use in your gateway?
 We recommend you don't use the SX1301 in new designs. 
 * What is the CPU?
 * Other Hardware Specifications: 
@@ -58,7 +58,7 @@ We recommend you don't use the SX1301 in new designs.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
-## Proof of Identity
+## Proof of Identity:
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
 Contact details for this will be provided after your application is submitted on GitHub. 
 
@@ -70,7 +70,7 @@ Contact details for this will be provided after your application is submitted on
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
-## Other information if you do not provide contact information we cannot review your proposal.
+## Other information if you do not provide contact information we cannot review your proposal
 ## Contact Info 
 * Contact Email (required) -
 * Website (required) -

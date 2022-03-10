@@ -11,13 +11,13 @@ The technical team of the company is composed of experts in the fields of wirele
 
 ## Product Information (required)
 
-Midas-926 Gateway  
+Midas-926 Gateway Light  
 Model: Midas-926.GM470/GM915/GM868 - Helium Light Hotspot 
 * Semtech SX1302 based LoRa concentrator supporting CN/US/EU bands
 * MIPS processor @ 580MHz
 * 128MB DDR2 RAM
 * 16MB Flash
-* ATECC608A chip for swarm key
+* ATECC608 chip for swarm key
 * WiFi(2.4GHz) IEEE 802.11b/g/n/ac
 * Status indication LEDs
 * Voltage 5V
@@ -42,7 +42,7 @@ The security is guaranteed by Helium light hotspot miner standard design using A
 
 ## Hardware Information (required)
 
-* We are using ATECC608A and planning to use RJGT102 as a backup
+* We are using ATECC608
 * We are using SX1302 in the gateway Midas926
 * We are sourcing from the two major LoRaWan module vendors in China
 * And we have solid supply chain and can procure more than 10K concentrators per year
@@ -71,5 +71,5 @@ The short-term risk is the shortage of chips currently happening in the world. W
 * Twitter profile -https://twitter.com/midaswireless
 * Website -www.midaswireless.com
 * Contact info -support@midaswireless.com
-* Payment methods available -
+* Payment methods available - We support Coinpayment platform for order placement; Supported tokens: ERC20-USDC, BSC-BUSD, ERC20-USDT and TRC20-USDT
 * Regions covered / shipped to - Worldwide

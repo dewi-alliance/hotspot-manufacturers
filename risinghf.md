@@ -24,7 +24,7 @@ Product Information (required)
 - Is it for indoor or outdoor?
   --Indoor
 - Provide a brief description of what you're making. 
-  --RHF2S027 is an industrial-grade LoRaWAN gateway series carefully built by RiSingHF with support for full-duplex mode. Embedded Linux operating system and the main control chip are the powerful Arm® Cortex®-A7 platform, with a main frequency of up to 800MHz. Built-in Semtech high-performance multi-channel LoRa transceiver SX1302. This gateway can be connected to the LoRaWAN cloud server through the Ethernet network. The internal GPS module can provide high-precision PPS signals for
+  --RHF2S027 is an industrial-grade LoRaWAN gateway series carefully built by RiSingHF with support for half-duplex mode. Embedded Linux operating system and the main control chip are the powerful STM32MP151A platform, with a main frequency of up to 650MHz. Built-in Semtech high-performance multi-channel LoRa transceiver SX1302. This gateway can be connected to the LoRaWAN cloud server through the Ethernet network. The internal GPS module can provide high-precision PPS signals for
   Device clock synchronization and geographic location acquisition.
   This gateway is embedded with a web configuration client, which can be connected to the gateway through wifi to realize rapid configuration and maintenance, which is convenient for on-site installation and fault diagnosis. This gateway supports USB adapter power supply, simple and convenient.
 
@@ -61,7 +61,7 @@ Startups welcome!
 
 Customer Support (required)
 - How will your customers be able to contact you for support for your products? 
-  --email, support@risinghf.com
+  --email: support@risinghf.com , Discord: https://discord.gg/5SzMWpsS
 - For how long? How are you planning to handle repairs and replacements? 
   --Our FAE team provide support 7x24h
 
