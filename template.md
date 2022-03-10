@@ -58,7 +58,7 @@ We recommend you don't use the SX1301 in new designs.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
-## Proof of Identity
+## Proof of Identity:
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
 Contact details for this will be provided after your application is submitted on GitHub. 
 
