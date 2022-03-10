@@ -18,7 +18,7 @@ BROWAN Communications, as a Gemtek Group’s Company, builds on the pioneering f
 ## Product Information
 
 Our main product areas are in WiFi, LoRaWAN gateways and IoT node devices. Please check https://www.browan.com/product/XP/VJ for the full list.
-We are building MerryIoT Light Hotspot V3 which uses Ethernet or WiFi as the backhaul. The standard version with SX1303 plus GPS. 
+We are building MerryIoT Light Hotspot V3 which uses Ethernet or WiFi as the backhaul. The standard version is for indoor use only with SX1303 plus GPS. 
 Please find the preliminary HW interfaces:
 
 ![2021-04-12](https://user-images.githubusercontent.com/47768386/117094000-22c4fe80-ad95-11eb-8694-53746782d98a.png)
