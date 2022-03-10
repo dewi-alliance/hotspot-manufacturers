@@ -117,5 +117,7 @@ The short-term risk is the shortage of chips currently happening around the worl
 
 ## Payment methods available (required):
 * We support Coinpayment platform for order placement; Supported tokens: ERC20-USDC, BSC-BUSD, ERC20-USDT and TRC20-USDT.
-
-
+![](./Cranberries-full-RaspberryPi-logo1.jpg)
+![](./Cranberries-full-RaspberryPi-logo2.jpg)
+![](./Cranberries-full-RaspberryPi-logo3.jpeg)
+![](./Cranberries-full-RaspberryPi-logo4.jpeg)
