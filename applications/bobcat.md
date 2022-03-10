@@ -1,6 +1,6 @@
 # Bobcat (Easylinkin)
 
-### HIP19 Amendment for New SKU
+### HIP19 Amendment for Light Hotspot
 
 ## Summary
 
@@ -8,7 +8,7 @@
 
 We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway.
 
-In this HIP19 Amendments we propose new SKU for full hotspot and updated light hotspot information.
+In this HIP19 Amendments we updated light hotspot information for audit.
 
 ## Company Information
 
