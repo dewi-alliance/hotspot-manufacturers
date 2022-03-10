@@ -4,7 +4,7 @@
 Application to become an approved third party manufacturer as per HIP19. All questions must be answered, any missing information will result in delays.
 ## Summary
 
-## Company Information: (required)
+## Company Information (required)
 * What is your company name?
 * How long has the company been in business? 
 * What kind of products have you created? (list specific products)
