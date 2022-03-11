@@ -4,7 +4,7 @@
 ## Summary
 
 With LoRaWAN becoming the de-facto wide area network of IoT world. It demands multiple options and players who can provide the backbone infrastructure for varied product needs.
-At ClodPi Labs, we have been exploring and pioneering this space over the last 5 years, serving our customer needs in India, Asia Pacific and Europe.
+At ClodPi Labs, we have been exploring and pioneering this space over the last 5+ years, serving our customer needs in India, Asia Pacific and Europe.
 
 We are proposing our expertise to manufacture light hotspots.
 
