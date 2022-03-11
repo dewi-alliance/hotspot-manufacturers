@@ -1,5 +1,5 @@
 # ClodPi Labs (India) Private Limited
-### Application to become an approved third party manufacturer as per [HIP19](https://github.com/clodpi/hotspot-manufacturers/blob/main/template.md)
+### Application to become an approved third party manufacturer as per [HIP19](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/template.md)
 
 ## Summary
 
@@ -8,7 +8,7 @@ At ClodPi Labs, we have been exploring and pioneering this space over the last 5
 
 We are proposing our expertise to manufacture light hotspots.
 
-[We are an existing approved manufacturer](https://github.com/clodpi/hotspot-manufacturers/blob/main/applications/clodpi.md) 
+[We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) 
 
 ## Company Information
 
