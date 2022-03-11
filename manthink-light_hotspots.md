@@ -2,9 +2,12 @@
 ## Summary
 We are dedicated to provide Light Hotspots,as well as quality services for customers.
 ## Company Information
-Beijing ManThink Technology Co., Ltd. has engaged in developing LoRaWAN products for 8 years since 2014. We were accepted as LoRa Alliance member early in 2015 when it was founded.For the past years,our company has deployed plenty of financial resources and manpower into invention and innovation,which makes we are leading the way in LPWAN applications,and our products distinguished from others.
+- Beijing ManThink Technology Co., Ltd. has engaged in developing LoRaWAN products for 8 years since 2014. We were accepted as LoRa Alliance member early in 2015 when it was founded.For the past years,our company has deployed plenty of financial resources and manpower into invention and innovation,which makes we are leading the way in LPWAN applications,and our products distinguished from others.
+- We have a variety of products covering from LoRaWAN network components(end-device,gateway,server) to application things(DTU,sensors,platform),as well as solutions(smart park,utilities,smart cities). For more details of our products,please refer to [http://www.manthink.cn/product.html](http://www.manthink.cn/product.html) .
+- For the past 7 years,we have supplied 2000,000 end-devices,15,000 gateways and 30+ servers to our customers.
+- We are very interested in the model of helium and hope to become one of the builders of helium, We hope to combine helium and our products to contribute to the development of the global Internet of things industry.
 ## Product Information
-We have a variety of products covering from LoRaWAN network components(end-device,gateway,server) to application things(DTU,sensors,platform),as well as solutions(smart park,utilities,smart cities). For more details of our products,please refer to [http://www.manthink.cn/product.html](http://www.manthink.cn/product.html) .
+
 We provide two stable and compact gateway prototypes.
 
 - GDO31x for outdoor light hotspots, Estimated Price: $499.99
@@ -34,8 +37,16 @@ Customers will be supported within 6 hours through our website, email, etc.
 We provide a one-year warranty period for our products, and the maintenance required after the warranty period can also be sent to our maintenance center in China.
 ## Hardware Security Element 
 
-- Manthink's Hotspots  use the ECC608  to save swarm key and other key informations.
-- We will to submit a prototype for audit, and sharing those audit results publicly
+- Are you using an ECC608. Yes or No?
+  yes
+- Encrypted/locked-down firmware. Yes or No?
+  yes
+- Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+  yes
+- Encrypted buses, potting and other anti-tampering measures. Yes or No?
+  yes，use ecc608
+- Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+  yes  
 ## Hardware Information 
 
 - We plan to provide configuration through WiFi, Bluetooth and web
@@ -47,8 +58,11 @@ We provide a one-year warranty period for our products, and the maintenance requ
 - Bluetooth: BT V4.1 EDR in GDO31x and GDI31x
 - GPS Module: Surpport BDS/GPS/GLONASS ,
 ## Manufacturing Information 
-We choose reliable and world famous electronic components suppliers and industry-leading pcb manufactures to guarantee the quality of our products.We also developed automated production and test to ensure our productivity. For the past 7 years,we have supplied 2000,000 end-devices,15,000 gateways and 30+ servers to our customers.
-     We have ability to produce more than 100k modules and 10k gateways per month
+- We have built and delivered radio hardware products before.
+- We have built gateways before.
+- We have make 15000 gateways.
+- We sourcing our components from local distributor.
+- We have ability to produce more than 100k modules and 10k gateways per month.
 ## Proof of Identity
 To be submitted privately to DeWi.
 ## Budget & Capital 
