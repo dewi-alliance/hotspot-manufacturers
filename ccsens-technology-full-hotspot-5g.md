@@ -37,7 +37,7 @@ CCSENS Technology was founded in August 2015 by experienced and senior electroni
   Indoor and outdoor
 
 - Provide a brief description:
-  The inherent hardware part of the product design is developed based on MCU of Broadcom Rockchip RK3399, mainly including LoRA and other functional modules. 5g communication module, which is rarely used in the market at present, has the characteristics of ultra-low delay and ultra-large capacity, making the connection between various hotspots stronger.
+  The inherent hardware part of the product design is developed based on MCU of Rockchip RK3399, mainly including LoRA and other functional modules. 5g communication module, which is rarely used in the market at present, has the characteristics of ultra-low delay and ultra-large capacity, making the connection between various hotspots stronger.
   A powerful anti-spam mechanism is put into the software function design, improves and optimizes the commonly used encryption methods, and carries out special internal encryption for the communication between hotspots, so as to meet the external anti-spam requirements.
   At the same time, our company has committed to large-scale apoplexy mapping, linking apoplexy centers at all levels, to form a wide area, high density hotspot network of apoplexy centers. The main parts should include: 
   1. Integrate the linkage between apoplexy center and primary apoplexy center to complete local networking for remote consultation, apoplexy training and education, etc;
