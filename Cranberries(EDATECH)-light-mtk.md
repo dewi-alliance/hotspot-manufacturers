@@ -40,8 +40,7 @@ Model Name: Cranberries-C3 470/C3 915/C3 868
 ![](./Cranberries-full-RaspberryPi-logo2.jpg)
 ![](./Cranberries-full-RaspberryPi-logo3.jpeg)
 ![](./Cranberries-full-RaspberryPi-logo4.jpeg)
-
-
+![](./Cranberries-full-RaspberryPi-logo5.jpeg)
 
 ## Production and delivery timeline
 After Helium's official certification, we can deliver the goods within 30 days after customers’ order.
