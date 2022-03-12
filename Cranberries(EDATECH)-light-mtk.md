@@ -8,7 +8,6 @@ The Cranberries Technology are very much in agreement with the idea of the heliu
 
 
 ## Company Information (required)
-![](./Cranberries-full-RaspberryPi-logo6.jpeg)
 
 The Cranberries Technology Co. LTD. founded in 2021, is a startup intelligent manufacturing company based in Shanghai. As one of the very first teams to understand and promote HELIUM in China, we appreciate the value of HELIUM and the idea of "The People's Network" . Now, we focused on cryptocurrencies and IoT, and the Cranberries series hotspots are our competitive products in the domain of IoT in the future decades.
 
