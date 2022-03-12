@@ -40,7 +40,7 @@ Model Name: Cranberries-C3 470/C3 915/C3 868
 ![](./Cranberries-full-RaspberryPi-logo1.jpg)
 ![](./Cranberries-full-RaspberryPi-logo2.jpg)
 ![](./Cranberries-full-RaspberryPi-logo3.jpeg)
-![](./Cranberries-full-RaspberryPi-logo4.jpeg)
+![](./Cranberries-full-RaspberryPi-logo(4).jpeg)
 ![](./Cranberries-full-RaspberryPi-logo5.jpeg)
 
 ## Production and delivery timeline
