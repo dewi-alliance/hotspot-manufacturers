@@ -86,7 +86,7 @@ We have experiences in shipping wireless products worldwide. Our tech and materi
 
 
 ## Manufacturing Information (required)
-The Cranberries are a start-up company, and The Cranberries series are co-branded with EDATECH. Our materials and basic data are supported by EDATECH, one of the designer partners of the Raspberry Pi Foundation. The products they designed, including IoT gateways, are sold all over the world. This will enable us to quickly deploy our first manufactured gateways to existing clients and to expand from this.
+The Cranberries are a start-up company, and The Cranberries series hotspot are co-branded with EDATECH. Our materials and basic data are supported by EDATECH, one of the designer partners of the Raspberry Pi Foundation. The products they designed, including IoT gateways, are sold all over the world. This will enable us to quickly deploy our first manufactured gateways to existing clients and to expand from this.
 
 We have secured sufficient amount of materials for the forecast of 1 year. And with the good relations with two major LoRa module vendors in Eastern China, we can ensure the supply chain in long term.
 
