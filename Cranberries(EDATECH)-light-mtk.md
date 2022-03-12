@@ -48,7 +48,7 @@ After Helium's official certification, we can deliver the goods within 30 days a
 
 
 ## Previous shipments (required)
-We have experiences in shipping wireless products worldwide. Our tech and material provider is EDATECH, one of the designer partners of the Raspberry Pi Foundation. The products they designed, including IoT gateways, are sold all over the world,.
+We have experiences in shipping wireless products worldwide. Our tech and material provider is EDATECH, one of the designer partners of the Raspberry Pi Foundation. The products they designed, including IoT gateways, are sold all over the world.
  
 
 
