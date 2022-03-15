@@ -6,9 +6,7 @@
 With LoRaWAN becoming the de-facto wide area network of IoT world. It demands multiple options and players who can provide the backbone infrastructure for varied product needs.
 At ClodPi Labs, we have been exploring and pioneering this space over the last 5+ years, serving our customer needs in India, Asia Pacific and Europe.
 
-We are proposing our expertise to manufacture light hotspots.
-
-[We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) 
+We are proposing our expertise to manufacture light hotspots(Outdoor).
 
 ## Company Information
 
@@ -30,6 +28,11 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 * POE
 * Lightning surge protection
 * Fiberglass LoRa Antenna
+
+## Previous shipments
+
+* [We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) , We are shipping out Full Hotspots in India
+* WPC for India, Radio Certification recently done for FCC, IC and RCM
 
 ## Customer Support
 
@@ -64,9 +67,10 @@ With our established network, we can supply 10000 units within 8 to 12 weeks of 
 
 
 ## Other information
+* Contact Email - sales@clodpi.io / support@clodpi.io
+* Website - https://clodpi.io/
 * Desired Discord channel - https://discord.gg/kP6u6pMGvT
 * Twitter profile - https://twitter.com/clodpilabs
 * Other social profiles - https://www.linkedin.com/company/clodpi-labs  /  https://www.youtube.com/channel/UCwvz3DAqbbXpYOY1laHBuUQ / https://t.me/ClodPiOfficial
-* Website - https://clodpi.io/
 * Payment methods available - Banks Transfer, Debit/Credit Card, Net Banking, UPI(Only for India)
 * Regions covered / shipped to - India, EU, US, AS, AU and Asia
