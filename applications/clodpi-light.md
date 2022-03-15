@@ -23,6 +23,7 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 ** ClodPi Light Hotspots ** 
 * LoRa Concentrator (SX1302)
 * MIPS24KEc (575/580 MHz) with 64 KB I-Cache and 32 KB D-Cache
+* 128MB RAM / 32 MB Storage
 * Ethernet Backhaul
 * 4G Backhaul(Optional)
 * POE
@@ -33,6 +34,7 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 
 * [We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) , We are shipping out Full Hotspots in India
 * WPC for India, Radio Certification recently done for FCC, IC and RCM
+* Regions covered / shipped to - India, EU, US,Canada, AS, AU and Asia
 
 ## Customer Support
 
@@ -45,8 +47,21 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 
 ## Hardware Security
 
-All the miner variants features a secure element, powered by ATECC608B from Microchip. And the key data to be secured (swarm keys, API tokens, etc) are kept in a separate partition which is encrypted and secured by using the secure element.
+All the hotspot variants features a secure element, powered by ATECC608B from Microchip. And the key data to be secured (swarm keys, API tokens, etc) are kept in a separate partition which is encrypted and secured by using the secure element.
 In addition to that, the firmware upgrade process is also secured with encryption over the wire and at rest. And the firmware updates applied after verification of the authenticity of the payload.
+
+* Are you using an ECC608. Yes
+* Encrypted/locked-down firmware. Yes
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes
+* Encrypted buses, potting and other anti-tampering measures. Yes
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes
+
+## Hardware Information
+* Evidence of a functioning prototype -Yes
+* What are your plans for software setup and configuration for the devices - We will be providing remote managament dashboard to users 
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using?  ECC608
+* Which LoRa chipset are you planning to use in your gateway - SX1302 / S1303
+* What is the CPU - MIPS24KEc (575/580 MHz) with 64 KB I-Cache and 32 KB D-Cache
 
 ## Manufacturing Information
 
