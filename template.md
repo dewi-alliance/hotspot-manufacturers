@@ -28,7 +28,7 @@ Startups welcomed!
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
-* For how long? 
+* How long will the company provide customer support? 
 * How are you planning to handle repairs and replacements? 
 
 
