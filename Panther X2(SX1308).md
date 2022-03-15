@@ -28,6 +28,14 @@ Panther X is committed to the perfect combination of blockchain technology and t
 
 Panther X2（1308 version）: $599
 
+**● Is this is Light Hotspot or Full Hotspot?**
+
+Full hotspot
+
+**● Is this model for indoor, outdoor, or both?**
+
+Indoor hotspot
+
 **Detailed hardware designs, including relevant parts.**
 
 | Hardware Specification |                                                              |
@@ -114,7 +122,6 @@ ATECC608
 
 **● Which LoRa chipset are you planning to use in your gateway (i.e. SX1302/03 & SX1250s or SX1301/08 & SX1255/57)**
 
-SX1302&SX1250;
 SX1308&SX1257
 
  
