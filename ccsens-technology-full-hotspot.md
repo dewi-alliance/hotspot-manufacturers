@@ -28,7 +28,7 @@ CCSENS Technology was founded in August 2015 by experienced and senior electroni
 ## Product Information (required)
 
 - What is this product's model name or model number?
-  anyring-full-5g
+  anyring-full
 
 - Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
   Full Hotspot
@@ -37,15 +37,15 @@ CCSENS Technology was founded in August 2015 by experienced and senior electroni
   Indoor and outdoor
 
 - Provide a brief description:
-  The inherent hardware part of the product design is developed based on MCU of Rockchip RK3399, mainly including LoRA and other functional modules. 5g communication module, which is rarely used in the market at present, has the characteristics of ultra-low delay and ultra-large capacity, making the connection between various hotspots stronger.
+  The inherent hardware part of the product design is developed based on MCU of Rockchip RK3399 Series, mainly including LoRA and other functional modules. has the characteristics of ultra-low delay and ultra-large capacity, making the connection between various hotspots stronger.
   A powerful anti-spam mechanism is put into the software function design, improves and optimizes the commonly used encryption methods, and carries out special internal encryption for the communication between hotspots, so as to meet the external anti-spam requirements.
   At the same time, our company has committed to large-scale apoplexy mapping, linking apoplexy centers at all levels, to form a wide area, high density hotspot network of apoplexy centers. The main parts should include: 
   1. Integrate the linkage between apoplexy center and primary apoplexy center to complete local networking for remote consultation, apoplexy training and education, etc;
   2. Link local apoplexy centers with central apoplexy centers. Summarize the data of various apoplexy hotspots at all levels. Realize the control of medical quality faster and better, fully understand apoplexy cases and treatment in the network.
 
 - What is your approximate price point?
-  Indoor,  5G version - $450
-  Outdoor, 5G version - $750
+  Indoor HotSpot,  $450
+  Outdoor HotSpot, $700
 
 - What is your expected production and delivery timeline?
   Book in advance - 05/25/2022
@@ -114,7 +114,6 @@ Evidence of a functioning prototype - photos, videos. Renderings are OK but phys
   Wireless network: B / g / N / AC dual band 2.4/5 GHz
   Bluetooth: 5.0
   LoRa: SX1302, directly connects with the transceiver Semtech
-  IOT module: 5G module
   SD Card：Kingston 32GB
 
 ## Manufacturing Information (required)
