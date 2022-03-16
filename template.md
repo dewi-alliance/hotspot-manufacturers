@@ -45,8 +45,7 @@ Evidence of a functioning prototype - photos/videos. Renderings are OK but physi
 * What are your plans for software setup and configuration for the devices?
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
-* Which LoRa chipset are you planning to use in your gateway?
-We recommend you don't use the SX1301 in new designs. 
+* Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.) 
 * What is the CPU?
 * Other Hardware Specifications: 
 
