@@ -6,9 +6,8 @@
 With LoRaWAN becoming the de-facto wide area network of IoT world. It demands multiple options and players who can provide the backbone infrastructure for varied product needs.
 At ClodPi Labs, we have been exploring and pioneering this space over the last 5+ years, serving our customer needs in India, Asia Pacific and Europe.
 
-We are proposing our expertise to manufacture light hotspots.
 
-[We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) 
+We are proposing our expertise to manufacture light hotspots(Outdoor).
 
 ## Company Information
 
@@ -25,11 +24,19 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 ** ClodPi Light Hotspots ** 
 * LoRa Concentrator (SX1302)
 * MIPS24KEc (575/580 MHz) with 64 KB I-Cache and 32 KB D-Cache
+* 128MB RAM / 32 MB Storage
 * Ethernet Backhaul
 * 4G Backhaul(Optional)
 * POE
 * Lightning surge protection
 * Fiberglass LoRa Antenna
+
+
+## Previous shipments
+
+* [We are an existing approved manufacturer](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/clodpi.md) , We are shipping out Full Hotspots in India
+* WPC for India, Radio Certification recently done for FCC, IC and RCM
+* Regions covered / shipped to - India, EU, US,Canada, AS, AU and Asia
 
 ## Customer Support
 
@@ -42,8 +49,21 @@ Applications : Energy Meter, Water Meter, Industrial IoT, Machine/Site condition
 
 ## Hardware Security
 
-All the miner variants features a secure element, powered by ATECC608B from Microchip. And the key data to be secured (swarm keys, API tokens, etc) are kept in a separate partition which is encrypted and secured by using the secure element.
+All the hotspot variants features a secure element, powered by ATECC608B from Microchip. And the key data to be secured (swarm keys, API tokens, etc) are kept in a separate partition which is encrypted and secured by using the secure element.
 In addition to that, the firmware upgrade process is also secured with encryption over the wire and at rest. And the firmware updates applied after verification of the authenticity of the payload.
+
+* Are you using an ECC608. Yes
+* Encrypted/locked-down firmware. Yes
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes
+* Encrypted buses, potting and other anti-tampering measures. Yes
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes
+
+## Hardware Information
+* Evidence of a functioning prototype -Yes
+* What are your plans for software setup and configuration for the devices - We will be providing remote managament dashboard to users 
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using?  ECC608
+* Which LoRa chipset are you planning to use in your gateway - SX1302 / S1303
+* What is the CPU - MIPS24KEc (575/580 MHz) with 64 KB I-Cache and 32 KB D-Cache
 
 ## Manufacturing Information
 
@@ -64,9 +84,9 @@ With our established network, we can supply 10000 units within 8 to 12 weeks of 
 
 
 ## Other information
+* Contact Email - sales@clodpi.io / support@clodpi.io
+* Website - https://clodpi.io/
 * Desired Discord channel - https://discord.gg/kP6u6pMGvT
 * Twitter profile - https://twitter.com/clodpilabs
 * Other social profiles - https://www.linkedin.com/company/clodpi-labs  /  https://www.youtube.com/channel/UCwvz3DAqbbXpYOY1laHBuUQ / https://t.me/ClodPiOfficial
-* Website - https://clodpi.io/
 * Payment methods available - Banks Transfer, Debit/Credit Card, Net Banking, UPI(Only for India)
-* Regions covered / shipped to - India, EU, US, AS, AU and Asia
