@@ -28,7 +28,7 @@ Startups welcomed!
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
-* For how long? 
+* How long will the company provide customer support? 
 * How are you planning to handle repairs and replacements? 
 
 
@@ -60,14 +60,14 @@ We recommend you don't use the SX1301 in new designs.
 
 ## Proof of Identity:
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
-Contact details for this will be provided after your application is submitted on GitHub. 
+Details for this will be provided after your application is submitted on GitHub. 
 
 ## Budget & Capital (required)
 * How many hotspots are you planning to manufacture and sell within the first six months of sales? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
-## Risks & Challenges (required)
+## Risks & Challenges: (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal
