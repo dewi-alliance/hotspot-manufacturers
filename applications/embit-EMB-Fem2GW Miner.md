@@ -1,4 +1,4 @@
-# EMBIT®
+# EMBIT®-EMB-Fem2GW Miner-I/O
 ### Application to become an approved third party manufacturer as per [HIP19](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 ## Summary
@@ -20,25 +20,6 @@ We are making available our technology to the Helium network by proposing multip
 
 
 ## Product Information
-
-![immagine](https://user-images.githubusercontent.com/77483392/127844931-2db4418c-761c-486d-bc12-a10dfb1a38b5.png)
-
-**EMB-GW1301-O Miner:**
-*	**Outdoor (IP67)**
-*	**Multiprotocol Base Station**
-*	**Processor**: Quad Core Arm® Cortex®-A53 @1.6 GHz and 1x Arm® Cortex-M4 @400 MHz, 2D GPU, 3D GPU
-*	**RAM Memory:** up to 4GB LPDDR4
-*	**Flash Memory:** 8GB eMMC
-*	**LAN Connection:** Ethernet RJ45 10/100/1000 Base-T
-*	**LoRaWAN connectivity:** LoRaWAN® Semtech SX1301 +27 dBm @868 MHz
-*	**Backhaul connectivity:** Wi-Fi IEEE 802.11 b/g/n, 3G/LTE
-*	**GPS:** U-Blox Neo M8Q
-*	**Optional protocols:** IEEE 802.15.4, ZigBee®, Wireless MBus etc
-*	**OS:** Embedded Linux
-*	**Crypto Unit:** ECC508A
-*	**Power Supply:**  POE IEEE 802.3af
-*	**Antenna:** N-Type Antenna Connector
-*	**Dimensions:** Length: 240mm, Width: 160mm, Height: 90mm
 
 **EMB-Fem2GW Miner-I/O:**
 
@@ -81,23 +62,6 @@ The EMB-Fem2GW Miner-O and EMB-Fem2GW Miner-I hotspots are based on the same har
 *	**Power Supply:** POE IEEE 802.3af  or  +12 VDC
 *	**Antenna:** SMA Connector
 *	**Dimensions:** L:150mm W:150mm H:45mm
-
-**EMB-LR-PICOCELL Miner:**
-
-![Emb-PicoCellMiner MP](https://user-images.githubusercontent.com/77483392/152377252-0e35c9c5-095d-406f-9ee8-0385937e2654.jpg)
-
-*	**Indoor** 
-*	**Raspberry Pi 4 Model B**
-*	**LAN Connection:** Gigabit Ethernet
-*	**LoRaWAN® connectivity:** EMB-LR1302/3-mPCIe both EU (863-870 MHz) and US (902-928) – 8 LoRaWAN® Channels
-*	**Backhaul connectivity:** Wi-Fi IEEE 802.11 b/g/n/ac
-*	**Bluetooth:** Yes (Bluetooth 5.0)
-*	**GPS:** U-Box Neo M8Q
-*	**OS:** RaspiOS 64 bit
-*	**Crypto Unit:** ECC608A
-*	**Power Supply:** 5.1V/3.0A DC supply via USB-C
-*	**Antenna:** SMA Connector
-*	**Dimensions:** L:100mm W:100mm H:35mm
 
 ## Previous shipments
 

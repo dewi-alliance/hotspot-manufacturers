@@ -28,7 +28,7 @@ Startups welcomed!
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
-* For how long? 
+* How long will the company provide customer support? 
 * How are you planning to handle repairs and replacements? 
 
 
@@ -67,7 +67,7 @@ Details for this will be provided after your application is submitted on GitHub.
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
-## Risks & Challenges (required)
+## Risks & Challenges: (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal
