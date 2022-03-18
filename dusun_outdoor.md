@@ -11,7 +11,7 @@ Roombanker is a subsidiary of DUSUN and mainly provides core smart hardware devi
 * Product Name: DSGW-010C outdoor LoRaWAN full hotspot
 * Expected Release Date: Q2 2022
 * LoRa Frequency band support: CN470, RU864, IN865, EU868, US915, AU915, KR920, AS923
-* DSGW-010C is a robust 8-channel outdoor LoraWAN® light hotspot, which is compatible with Helium LongFi technology. Adopting SX1302 LoRa chip and secure crypto chip, DSGW-010C provide high-efficiency and reliable connection. 
+* DSGW-010C is a robust 8-channel outdoor LoraWAN® full hotspot, which is compatible with Helium LongFi technology. Adopting SX1302 LoRa chip and secure crypto chip, DSGW-010C provide high-efficiency and reliable connection. 
 The hotspot can be configured by Dusun Maker APP, or by web dashboard.
 DSGW-010C has line of sight up to 15 km can cover about 2 km in urbanized environment, which can cover larger areas and provide connectivity to more than 2000 nodes. 
 
