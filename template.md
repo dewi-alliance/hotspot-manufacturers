@@ -9,7 +9,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 * How long has the company been in business? 
 * What kind of products have you created? (list specific products)
 * How many have you sold? 
-* What brought you to Helium? 
+* What brought you to the Helium Network? 
 
 ## Product Information (required)
 * What is this product's model name? 
