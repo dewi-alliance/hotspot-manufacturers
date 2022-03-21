@@ -1,10 +1,14 @@
 # Bobcat (Easylinkin)
 
+### HIP19 Amendment for Light Hotspot
+
 ## Summary
 
 [Easylinkin](www.easylinkin.net) is an Wide Area IoT solution provider with core competency in LoRaWAN Gateway Manufacturing and Module Design. 
 
 We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway.
+
+In this HIP19 Amendments we updated light hotspot information for audit.
 
 ## Company Information
 
@@ -33,20 +37,6 @@ We provide two stable and compact gateway solutions.
 
 * Concentrator based on the Semtech SX1301+SX1255/1257 with ADR
 * Quad-core Cortex-A35 CPU with 64G eMMC Flash and 1G DDR3 RAM
-* ATECC608 for swarm keys storage
-* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
-* Bluetooth: BT V4.1 EDR
-* Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-* Coverage radius: 3km in city, 5km in rural area
-* Voltage DC 12V 
-* Comes in IP30 case, size: 141 * 141 * 47mm
-
-As the network expands and the chain continues to grow in size, we releaize the demand for more RAM, and therefore we have the updated solution for you at the same price!
-
-**Bobcat Miner 300 New Features:** 
-
-* Concentrator based on the **Semtech SX1302+SX1250** with ADR
-* Quad-core **Cortex-A55** CPU with 64G eMMC Flash and **2G DDR4** RAM
 * ATECC608 for swarm keys storage
 * Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
 * Bluetooth: BT V4.1 EDR
