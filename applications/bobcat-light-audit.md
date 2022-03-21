@@ -45,7 +45,7 @@ We provide two stable and compact gateway solutions.
 * Voltage DC 12V 
 * Comes in IP30 case, size: 141 * 141 * 47mm
 
-**Bobcat Miner 200 Features:**
+**Bobber 200 Features:**
 
 * Concentrator based on the Semtech SX1302/1303+SX1250 with ADR
 * Quad-core Cortex-A35 CPU with 8G eMMC Flash and 256/512MB DDR4 RAM
