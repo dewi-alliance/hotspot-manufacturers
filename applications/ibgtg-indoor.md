@@ -31,6 +31,9 @@ IBGTG Hotspot is a Full Hotspot for PoC and Data Transfer, we used ARM Cortex A7
 * 12V DC input
 * Dimension: 110mm(L) x 110mm(W) * 29mm(H)
 
+![IBGTG Indoor Hotspot Sample 1](ibgtg/ibgtg-indoor-sample-1.jpg)
+![IBGTG Indoor Hotspot Sample 2](ibgtg/ibgtg-indoor-sample-2.jpg)
+
 ## What is your approximate price point?
 
 The approximate price point is arround 599 USD.

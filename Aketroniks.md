@@ -28,7 +28,7 @@ We are planning to produce Full Hotspot.
 * Is it for indoor or outdoor? \
 Both, we are going to offer two choices one for outdoor one for indoor.
 * Provide a brief description of what you're making. \
-We are going to produce 64-bit full hotspot. The board will have 1 GB ram and linux OS. We are planning to combine the customizable board with LORA SX1302. For the security option we are going to use ECC608 crypto chip and linux crypto options. 
+We are going to produce 64-bit full hotspot. The board will have 2 GB ram and linux OS. We are planning to combine the customizable board with LORA SX1302. For the security option we are going to use ECC608 crypto chip and linux crypto options. 
 
 ## price point
   indoor, Ethernet/Wifi — $450\
