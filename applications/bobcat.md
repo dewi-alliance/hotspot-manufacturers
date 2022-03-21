@@ -77,7 +77,7 @@ Bobcat can provide customer support via:
 * The hardware maintenance service will be one year free for labor cost, provided hardware replacement if the breakdown of hardware comes from itself.
 * The software issues could be solved by SSH remote access or OTA upgrade.
 
-## Hardware Security Amendment ##
+## Hardware Security ##
 
 Currently we use ATECC608 encryption chip for swarm key storage, and key is securely provisioned during manufacturing.
 
