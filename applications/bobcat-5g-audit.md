@@ -1,10 +1,14 @@
 # Bobcat (Easylinkin)
 
+### HIP19 Amendment for 5G Gateway
+
 ## Summary
 
 [Easylinkin](www.easylinkin.net) is an Wide Area IoT solution provider with core competency in LoRaWAN Gateway Manufacturing and Module Design. 
 
-We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway.
+We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway and 5G Gateway.
+
+In this HIP19 Amendments we updated 5G Gateway information for audit.
 
 ## Company Information
 
@@ -27,7 +31,7 @@ Further to expand company organization, EasyLinkin had finished C round capital 
 We provide two stable and compact gateway solutions.
 
 * Bobcat Miner 300 for Helium Full Hotspot, Retail Price: $429.00
-* Bobcat Miner 200 for Helium Light Hotspot, Retail Price TBD
+* Bobber 200 for Helium Light Hotspot, Retail Price TBD
 
 **Bobcat Miner 300 Original Features:** 
 
@@ -41,31 +45,16 @@ We provide two stable and compact gateway solutions.
 * Voltage DC 12V 
 * Comes in IP30 case, size: 141 * 141 * 47mm
 
-As the network expands and the chain continues to grow in size, we releaize the demand for more RAM, and therefore we have the updated solution for you at the same price!
+**Bobber 500 Features:**
 
-**Bobcat Miner 300 New Features:** 
-
-* Concentrator based on the **Semtech SX1302+SX1250** with ADR
-* Quad-core **Cortex-A55** CPU with 64G eMMC Flash and **2G DDR4** RAM
-* ATECC608 for swarm keys storage
-* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
-* Bluetooth: BT V4.1 EDR
-* Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-* Coverage radius: 3km in city, 5km in rural area
-* Voltage DC 12V 
-* Comes in IP30 case, size: 141 * 141 * 47mm
-
-**Bobber 200 Features:**
-
+* Quad-core Atom x6413e 3.0GHz CPU with 64GB SSD and 4GB DDR4 RAM
+* TPM 2.0 for swarm keys storage
 * Concentrator based on the Semtech SX1302/1303+SX1250 with ADR
-* Quad-core Cortex-A35 CPU with 8G eMMC Flash and 256/512MB DDR4 RAM
-* ATECC608 for swarm keys storage
-* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
-* Bluetooth: BT V4.1 EDR
 * Frequency band: 470MHz/868MHz/915MHz/923MHz and other
 * Coverage radius: 3km in city, 5km in rural area
+* Ethernet Connectivity
 * Voltage DC 12V
-* Comes in IP30 case, size: 141 * 141 * 47mm
+* Comes in IP30 case, size: 240 * 211 * 52mm, fanless
 
 ## Customer Support ##
 
@@ -79,7 +68,7 @@ Bobcat can provide customer support via:
 
 ## Hardware Security ##
 
-Currently we use ATECC608 encryption chip for swarm key storage, and key is securely provisioned during manufacturing.
+Currently we use ATECC608 encryption chip for swarm key storage in full hotspot and light hotspot, and TPM 2.0 in 5G gateway, and key is securely provisioned during manufacturing.
 
 ## Manufacturing Information ##
 
