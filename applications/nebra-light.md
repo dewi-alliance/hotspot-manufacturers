@@ -33,11 +33,11 @@ To date we have shipped in excess of 30k Helium Hotspot Miners with 12k currentl
 ### Nebra Helium Light Hotspot
 
 * **Product Status:** First batch of 100 units manufactured. Certification (CE/FCC etc) testing nearly completed.
-* **Estimated Price:** £150.00 ex VAT
+* **Estimated Price:** £475.00 ex VAT
 * **Image**: [See here](#summary)
 
 Our Helium Light Hotstpot has the following spec:
-* Powered By Raspberry Pi Zero W.
+* Powered By Raspberry Pi Zero W or Radxa Zero.
 * Comes with a LoRa Concentrator.
 * Power via 12v 1.5A power supply.
 * WiFi and Bluetooth connectivity.
