@@ -1,7 +1,7 @@
 ## Ingenious Technology LLC
 Application to become an approved third party manufacturer as per HIP19
 ## Summary
-Ingenious Technology is created in 2021 for Block Chain product development, and we intend to build Helium full gateway. We founded Enigma Micro in 2018 for crypto mining hardware business, and Dracaena Technology in 2020 for crypto Mining Software business. Business is selling products at website www.ospreyelectronics.io. For Helium product, we will create a new website and brand to sell.
+Ingenious Technology is created in 2021 for Block Chain product development, and we intend to build Helium full gateway. We founded Enigma Micro in 2018 for crypto mining hardware business, and Dracaena Technology in 2020 for crypto Mining Software business. Business is selling products at website www.ospreymining.io. For Helium product, we will create a new website and brand to sell.
 ## Company Information (required)
 * What is your company name?
 Ingenious Technology LLC
@@ -9,8 +9,8 @@ Ingenious Technology LLC
 We are in Crypto Mining business since 2018. Ingenious Technology LLC is a special entity for Helium Gateway Business to separate business risk.
 * What kind of products have you created? 
 Crypto Mining Product:
-ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
-ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
+ECU200 FPGA Mining Board (https://www.ospreymining.io/product-page/ECU200)
+ECU50 Ethereum Mining Product (https://www.ospreymining.io/product-page/ecu50)
 ECU800 Ethereum Mining product in development, will release in Oct.
 * How many have you sold? 
 We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
@@ -21,7 +21,8 @@ We are impressed by Helium concept and it’s business future.
 This is full hotspot.
 * Is it for indoor or outdoor?
 It is for indoor.
-* Please provide a brief description of what you're making? Version 1: Product will use Raspberry Pi 4 + Seeed Lora1302 (USB) module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 470M (China). We will use ATECC608 Chip to secure the system. Version 2: Product will use Raspberry Pi 4 + Lora1302 (SPI) module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 470M (China). ATECC608 Chip to secure the system.
+* Please provide a brief description of what you're making?
+Product will use Raspberry Pi 4 + Seeed Lora1302 module (with Raspberry Pi hat) + high gainer antenna for frequency 868M (EU), 915M(US), 925M(Japan), 490M (China). We will use ATECC608 Chip to secure the system.
 
 ## What is your approximate price point? (required)
 We will sell our first generation product at around $500, but will reduce the price under $300 after we optimized the hardware cost in second generation product.
@@ -49,13 +50,13 @@ Production and delivery timeline:
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No.
 Yes, we have shipped:
-- Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
-- ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
+- Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreymining.io/product-page/ECU200) 
+- ECU50 Ethereum Mining Product (https://www.ospreymining.io/product-page/ecu50) 
 - ECU800 Ethereum Mining product in development, will release in Oct.
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
-North America, Europe and China
+North America, Europe, Japan and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
@@ -127,12 +128,12 @@ jing@ingenioussafety.com
 * Twitter profile -
 * Facebook profile -
 * Other social profiles -
-- Discord channel: Osprey Electronics https://discord.gg/dyJf8DD
+- Discord channel: Dracaena Mining https://discord.gg/dyJf8DD
 - Subchannel at FPGA discord
 * Website -
-www.ospreyelectronics.io
+www.ospreymining.io
 
 ## Payment methods available 
 Crypto, credit card, paypal, check, wire
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-North America, Europe and China
+North America, Europe, Japan and China
