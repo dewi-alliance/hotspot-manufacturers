@@ -18,7 +18,7 @@ Helium Hotspot Indoor Miner Features<br>
 * Concentrator based on the Semtech SX1302<br>
 *	Broadcom BCM2711 quad-core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz<br>
 *	4 GB LPDDR4<br>
-*	ATECC508A compatible chip for swarm keys storage (e.g. ATECC108A, ATECC108, ATSHA204A, and ATSHA204)<br>
+*	ATECC608A for swarm keys storage<br>
 *	Bluetooth 5.0<br>
 *	2.4 GHz and 5.0 GHz WiFi<br>
 *	Gigabit Ethernet<br>
@@ -55,7 +55,7 @@ Customers can contact us via email, Discord, Twitter, Telegram, Instagram and of
 # Hardware Security
 In terms of hardware security, we implement three levels of protection measures. The higher the level, the safer the system will be.<br>
 
-Level 1: protect swarm_key with ATECC508A compatible ECC chips.<br>
+Level 1: protect swarm_key with ATECC608A.<br>
 
 Level 2: Based on Level 1, the SSH access of the hotspot adopts a password-free scheme, which is carried out entirely through the private key, but the private key is not stored on the hotspot.<br>
 
@@ -63,7 +63,7 @@ Level 3: Based on Level 2, we add firmware signature support, but do not support
 
 # Hardware Information
 *	Which security (swarm) element are you using?<br>
-ATECC508A compatible ECC chips<br>
+ATECC608A<br>
 
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)<br>
 SX1302&SX1250<br>
