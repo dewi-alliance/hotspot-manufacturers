@@ -9,7 +9,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 * How long has the company been in business? 
 * What kind of products have you created? (list specific products)
 * How many have you sold? 
-* What brought you to Helium? 
+* What brought you to the Helium Network? 
 
 ## Product Information (required)
 * What is this product's model name? 
@@ -66,11 +66,11 @@ Details for this will be provided after your application is submitted on GitHub.
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
-## Risks & Challenges: (required)
+## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal
-## Contact Info 
+## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -

@@ -17,8 +17,8 @@ Bullion Miner Limited are a UK based tech start-up company launched in early 202
 * What is this product's model name? The Bullion Miner
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots) Full Hotspot
 * Is this model for indoor, outdoor, or both? (If there are two models, list them separately) Indoor
-* Provide a brief description of the product: The Bullion Miner boasts an impressive, market leading hardware design with 64GB memory for lightning fast operation, an 8GB RAM Raspberry Pi 4B board with an ECC608 security chip & the SX1302 RF Module with built in Bluetooth & Wi-fi making our Helium HNT crypto mining device the most powerful, highest specification $HNT crypto mining device found anywhere on the planet. With this much power and space inside, The Bullion Miner offers excellent future proofing and sustainable reliability against the Helium blockchain's long-term growth potential.
-* What is your approximate price point? £600 (due to unforeseen global circumstances creating inflated prices)
+* Provide a brief description of the product: The Bullion Miner boasts an impressive, market leading hardware configuration design with 64GB of memory for lightning fast operation, an 8GB RAM Raspberry Pi 4B board with an ECC608 security chip & the SX1302 RF Module with built in Bluetooth & Wi-fi making our Helium HNT crypto mining device the most powerful, highest specification $HNT crypto mining device found anywhere on the planet. With this much power and space inside, The Bullion Miner offers excellent future proofing and sustainable reliability against the Helium blockchain's long-term growth potential.
+* What is your approximate price point? ~£600 (in line with another UK based established brand)
 * What is your expected production and delivery timeline? Hardware Prototype: 20/02/2022
 Software Development: 01/04/2022
 Radio Frequency Certification: 01/04/2022
@@ -28,13 +28,13 @@ First Batch Product Delivery: 01/06/2022
 
 ## Previous shipments (required)
 Startups welcomed!
-* Have you shipped anything in the past? What types of products have you shipped? As a new start-up company, Bullion Miner have not shipped products before. But our team involved in other business ventures have many years of experience in shipping various products with our logistics partners.
+* Have you shipped anything in the past? What types of products have you shipped? As a new start-up company, Bullion Miner Limited have not shipped products before. But our team involved in other business ventures have many years of experience in shipping various products with our logistics partners.
 * Which countries have you previously shipped regulatory FCC or CE approved products? EMEA and North America
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required) 
-North America, Europe, Australia, at first, but plan to sell and aquire worldwide certifications.
+North America, Europe and Australia at first, but we plan to sell globally once we aquire the region/country specific RF certifications.
 ## Customer Support (required)
-* How will your customers be able to contact you for support for your products? Official website support email address and social media channels.
+* How will your customers be able to contact you for support for your products? We have a dedicated support email address, and will be staffing social media channels. Customers will be able to contact us for support for the life of the product, no limits.
 * For how long? Permanently
 * How are you planning to handle repairs and replacements? Our OEM manufacturing plant will handle the repairs within warranty, and we can offer one year of standard warranty.
 
@@ -51,7 +51,12 @@ North America, Europe, Australia, at first, but plan to sell and aquire worldwid
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 
 - Raspberry Pi 4B (2G or above)
-- Lora SX1302 and SX1250
+- Broadcom BCM2711, Quad core Cortex-A72 (ARM v8) 64-bit SoC @ 1.5GHz 
+- dual-band 802.11ac\n wireless 2.4GHz/5GHz
+- Gigabit Ethernet
+- Bluetooth 5.0
+- Lora SX1302 LoRaWAN / SX1250
+- ECC608 Security 
 - Antenna 4dbi Enhanced to include 2dbi
 
 * What are your plans for software setup and configuration for the devices?
@@ -65,11 +70,11 @@ We recommend you don't use the SX1301 in new designs.
 
 
 ## Manufacturing Information (required)
-* Have you built and delivered radio hardware products before? Yes
-* Have you built gateways before? Yes, team had the extensive experience to handle the gateway product.
-* How many gateways did you make? Up to 8000 sets per month. 
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. 
-* Where are you sourcing your components from? Avnet, RS-online and other authorized supplier.
+* Have you built and delivered radio hardware products before? Bullion Miner Limited have not yet as we are a new start-up company.
+* Have you built gateways before? Our team have extensive experience with which to handle development and production of the product.
+* How many gateways did you make? None at present.
+* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. We have design ownership of the product and hold the manufacturing licence but we outsource the manufacturing to a 3rd party supplier with a great deal of experience, capability and capacity.
+* Where are you sourcing your components from? Avnet, RS-online and other authorized suppliers.
 * How many radio modules/ concentrators can you procure? It depends on the material availability of the SX1302 IC. We are able to secure a few hundred units per month, limited due to the material shortage, but capacity will be thousands of units per month.
 
 ## Proof of Identity
