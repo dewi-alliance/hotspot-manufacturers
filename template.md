@@ -22,7 +22,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 ## Previous shipments (required)
 Startups welcomed!
 * Have you shipped anything in the past? What types of products have you shipped?
-* Which countries have you previously shipped regulatory FCC or CE approved products? 
+* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
