@@ -82,7 +82,9 @@ To be submitted privately to DeWi.
 ## Budget & Capital
 
 How many hotspots are you planning to manufacture and sell within the first six months of sales? 20,000 units
-How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?-Renaissance sold a sub company to an investment group in 2021, and invest over USD $1 million for full and light helium hotspot
+
+How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?-Renaissance sold a sub company to an investment group in 2021, and invest over USD $1 million for full and light helium hotspot.
+
 What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.)--.We have other business which can earn money and will invest on this project. 
 
 ## Risks & Challenges
