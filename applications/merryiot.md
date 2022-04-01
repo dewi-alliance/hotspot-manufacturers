@@ -41,7 +41,7 @@ Please find the preliminary HW interfaces:
 8. TF card slot
 9. WiFi 802.11 b/g/n
 10. BLE 5.2
-11. SX1302 with SX1250
+11. SX1302 with SX1250/SX1308 with SX1257
 
 ## Customer Support
 
