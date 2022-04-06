@@ -37,7 +37,7 @@ Startups welcomed!
 * Are you using an ECC608. Yes or No?
 * Encrypted/locked-down firmware. Yes or No? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
