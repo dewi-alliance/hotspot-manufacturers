@@ -3,7 +3,7 @@ Renaissance Management LLC
 
 ## Summary
 
-Renaissance have plans to build a full hotspot and a light hotspot, With experience in customer service and tech support.Our CTO is working in IOT solution for many years and brought us to Helium.Our goal is to become the top Helium maker in the United States.
+Renaissance have plans to build two kinds of light hotspot, With experience in customer service and tech support.Our CTO is working in IOT solution for many years and brought us to Helium.Our goal is to become the top Helium maker in the United States.
 
 ## Company Information
 
