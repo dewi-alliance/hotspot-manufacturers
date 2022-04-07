@@ -49,7 +49,7 @@ As the manufacturer, the device’s miner utilities, Ubuntu system, kernel and u
 
 Chip | Specifications | Remarks
 --- | --- | ---
-8-channel LORAA module | `SX1302` | Vendor information: Lierda
+8-channel LORAA module | `SX1302+SX1303`| Vendor information: Semtech
 Mainboard | 4gb RAM+ 64gb EMMC |ARM 
 WIFI module | Yes | 
 GPS module | Yes | 
