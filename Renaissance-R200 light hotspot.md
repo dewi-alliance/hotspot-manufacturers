@@ -3,7 +3,7 @@ Renaissance Management LLC
 
 ## Summary
 
-Renaissance have plans to build a full hotspot and a light hotspot, With experience in customer service and tech support.Our CTO is working in IOT solution for many years and brought us to Helium.Our goal is to become the top Helium maker in the United States.
+Renaissance have plans to build two kinds of light hotspot, With experience in customer service and tech support.Our CTO is working in IOT solution for many years and brought us to Helium.Our goal is to become the top Helium maker in the United States.
 
 ## Company Information
 
@@ -11,22 +11,21 @@ Renaissance Management LLC established in 2018, manages multiple brands,we have 
 
 ## Product Information
 
-What is this product's model name?-Spotminer R100
+What is this product's model name?-Spotminer R200
 
-Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)-Full hotspot
+Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)-light hotspot
 Is this model for indoor, outdoor, or both? (If there are two models, list them separately)-indoor
 
 Provide a brief description of the product:
-1) Chipset:RK3399 with Cortex-A72 Dual-Core and Cortex-A53 Quad-Core
-2) 2GB RAM, 32GB Storage
+1) Chipset:RK3568 with Cortex-A55 Quad-Core
+2) 512MB RAM, 8GB Storage
 3) WiFi 2.4G 802.11b/g/n and bluetooth 4.2
 4) Lora module with 1302/1303
 2) Input power: 9VDC / 3A
 5) Security Crypto Authentication: ECC608
-6) LED*2
-7) one button for Ble connection
 
-Price around 399 USD.
+
+Price around 299 USD.
 Delivery time for first mass production in June 5th.
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
@@ -58,7 +57,7 @@ Which security implementation (ECC608, TPM, TrustZone, other) are you using? -EC
 
 Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.)-SX1302
 
-What is the CPU?-RK3399
+What is the CPU?-RK3568
 
 Other Hardware Specifications:WiFi 2.4G 802.11b/g/n and bluetooth 4.2
 
