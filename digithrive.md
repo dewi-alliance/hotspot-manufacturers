@@ -166,6 +166,7 @@ Supply chain is the immediate risk and we have already started negotiations thro
 * Twitter profile:-
 * Facebook profile:-
 * Other social profiles:-
+[digithrive.md](https://github.com/it-russ/hotspot-manufacturers/files/8455169/digithrive.md)
 
 ## Payment methods available (required):
 Credit Card, PayPal, BTC, ETH
