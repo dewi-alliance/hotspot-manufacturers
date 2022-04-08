@@ -108,9 +108,9 @@ Startups welcomed!
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 
-![board1](/blob/patch-2/1.jpg)
-![board2](/assets/images/1.jpg)
-![board3](/assets/images/1.jpg)
+![board1](hotspot-manufacturers/blob/patch-2/1.jpg)
+![board2](hotspot-manufacturers/blob/patch-2/2.jpg)
+![board3](hotspot-manufacturers/blob/patch-2/3.jpg)
 
 
 * What are your plans for software setup and configuration for the devices?
