@@ -108,7 +108,9 @@ Startups welcomed!
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 
-*********
+![board1](/assets/images/1.jpg)
+![board2](/assets/images/1.jpg)
+![board3](/assets/images/1.jpg)
 
 
 * What are your plans for software setup and configuration for the devices?
