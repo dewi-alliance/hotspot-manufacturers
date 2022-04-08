@@ -13,7 +13,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 
 ## Product Information (required)
 * What is this product's model name? 
-* Is this is Light Hotspot or Full Hotspot? (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
+* Is this is Light Hotspot? Y/N (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
 * Is this model for indoor, outdoor, or both? (If there are two models, list them separately)
 * Provide a brief description of the product:
 * What is your approximate price point? 
@@ -23,6 +23,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 Startups welcomed!
 * Have you shipped anything in the past? What types of products have you shipped?
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
+* If you are a startup, are you partnering with another company? What experience does your team have?
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
 
