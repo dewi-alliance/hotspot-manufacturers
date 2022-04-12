@@ -218,7 +218,7 @@ Details for this will be provided after your application is submitted on GitHub.
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
 
-  **Investment company and Maxpia ICT Co., Ltd. Production capital investment is ready.**
+  **Investment company and IOL Inc. Production capital investment is ready.**
 
 
 ## Risks & Challenges (required)
