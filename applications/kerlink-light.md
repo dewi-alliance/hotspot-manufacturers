@@ -46,6 +46,10 @@ Kerlink portfolio, compatible with Helium network, contains high quality and rad
 
 All gateways come in 868MHZ, 915MHz and 923MHz variants, and support US915, AU915, AS923-*, EU868, IN865, RU867, etc. LoRaWAN regional parameters.
 
+iZeptoCell use SX1302, other gateways use SX1301.
+
+CPU is ARMv7 SoloX from Freescale.
+
 ## Customer Support
 
 Kerlink has a worldwide 24/7 level 2 support teams based in France, USA (California), India, Singapore, and Japan.
@@ -68,6 +72,7 @@ Kerlink gateways can remotely self-configure using a provisioning server called 
 
 Kerlink is using this security to store the swarm_key, generated in production. WOA save the public key part of the swarm key and never store the private key. The gateway can authenticate on WOA during the onboarding procedure, to generate the add_gateway transaction and provide it to WOA. WOA then provide it to the phone wallet app once ownership of the gateway by the phone wallet app has been identified (like a QR code on the gateway). The wallet app signs the transaction. The onboarding procedure for light miner is the same as the full miner procedure. The onboarding server retrieve the swarm public key from WOA, the transaction from the blockchain and can sign the add_gateway transaction. The private swarm key never leaves the gateway, is never stored by Kerlink, and it cannot be recovered since it is stored ciphered in the hardware security memory.
 
+The security is implemented into the ARM TE.
 
 ## Manufacturing Information
 
