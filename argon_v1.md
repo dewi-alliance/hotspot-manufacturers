@@ -1,4 +1,4 @@
-## Argon (v1) Full Hotspot Miner
+## Argon (v1) Light Hotspot Miner
 
 Application to become an approved third party manufacturer as per HIP19
 ## Summary
@@ -11,27 +11,27 @@ This first revision of Argon follows a common design for simpler implementation.
 * What is your company name?
 Beijing BlockAtelier Information Technology Co., Ltd.
 
-* How long have you been in business? 
+* How long have you been in business?
 2 years
 
-* What kind of products have you created? 
+* What kind of products have you created?
 We have built a customized BlockChain network, but no hardware were producing.
 
-* How many have you sold? 
+* How many have you sold?
 None for hardware devices
 
-* What brought you to Helium etc? 
+* What brought you to Helium etc?
 We are thrilled to combine BlockChain technology and Internet of Things revolution
 
 ## Product Information (required)
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-Full Hotspot
+Light Hotspot
 
 * Is it for indoor or outdoor?
 Indoor
 
 * Provide a brief description of what you're making
-This is the first revision of our hardware, it has RK3399 + SX130x(SX1302/SX1303), with TrustZone technology as an alternative to ECC608 chip. 
+This is the first revision of our hardware, it has RK3399 + SX130x(SX1302/SX1303), with TrustZone technology as an alternative to ECC608 chip.
 
 ## What is your approximate price point? (required)
 $400
@@ -53,17 +53,17 @@ Starting from Feburary or March, 2022
 ## Previous shipments (required)
 None
 
-## Startups welcome! 
+## Startups welcome!
 * Have you shipped anything in the past? No.
 * Which countries have you previously shipped regulatory FCC or CE approved products? None
 
 * Which countries do you plan to ship to? None
 
 ## Customer Support (required)
-* How will your customers be able to contact you for support for your products? 
+* How will your customers be able to contact you for support for your products?
 Email, Discord
 
-* For how long? How are you planning to handle repairs and replacements? 
+* For how long? How are you planning to handle repairs and replacements?
 2 years
 
 ## Hardware Security Element (required)
@@ -79,7 +79,7 @@ Email, Discord
 
 * Which security (swarm) element are you using?  TrustZone Techonology
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57)  SX1302/SX1303
-We recommend you don't use the SX1301 in new designs 
+We recommend you don't use the SX1301 in new designs
 * Where are you sourcing your components from? SX1302/SX1303 from module provider. Rockchip RK3399 from RockPi 4 model B.
 * How many radio modules/ concentrators can you procure? 1000 at first
 
@@ -91,12 +91,12 @@ We recommend you don't use the SX1301 in new designs
 
 ## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
-Contact details for this will be provided after your application is submitted on GitHub. 
+Contact details for this will be provided after your application is submitted on GitHub.
 
 ## Budget & Capital (required)
 * How many of these are you hoping to make and sell? 1000
-* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
-* What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash. 
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?
+* What is your plan for additional financing if required? This is the second biggest risk in new hardware ventures -- getting almost over the line and then running out of cash.
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.
@@ -108,7 +108,7 @@ Please tell us about some of the challenges that would prevent these products fr
 * Other social profiles -
 * Website - https://cdot.network
 
-## Payment methods available 
+## Payment methods available
 Wechat, Alipay, Paypal, Credit Card
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
@@ -123,7 +123,7 @@ China, US
 
 3. What kind of non-volatile memory is used to store the private key?
    eMMC
- 
+
 4. Is the private key encrypted when it is stored in this memory?
    Yes. The private key is encrypted by TrustZone system.
 
@@ -147,7 +147,7 @@ China, US
     The Main Tech Lead and CEO
 
 11. Presumably your implementation has an ability to be updated. Will your code update mechanism prevent “downgrading” to a previously authorized version? If so, how?
-    
+
 
 12. What specific signing, encryption, decryption, or verification operations can an external entity ask the code to perform? (External entity means code outside the secure element, such as, say, the Helium “miner” process).
     Currently only ECDSA signing and ECDH Key exchange
@@ -164,11 +164,11 @@ China, US
 
 16. What fault-injection attacks does your implementation work to avoid, if any? (As a reminder, fault-injection attacks include power-glitching, laser pulses, strong EM fields, etc).
     Not considered. OPTEE is [reviewed](https://optee.readthedocs.io/en/latest/faq/faq.html#certification-and-security-reviews) by security team
-    
+
 
 17. Does the code have any entry point such that an external entity can ask for the private key directly?
     No.
-    
+
 18. What steps have you taken to audit the code for quality and ensure that it performs only as designed?
     I have some Automated Tests, and code reviewed by my college.
 
