@@ -18,7 +18,7 @@ Smart Mimic’s strategic partnership with Sagem Teknoloji allows it to move fro
 
 Smart Mimic, in partnership with Sagem Teknoloji, is introducing the Finestra Air and Finestra Mine, a highly secure, consumer friendly pair of gateways with a heart-warming design that conceals sophisticated engineering, secure tamper resistant electronics and high performance, behavior optimized settings. The Finestra gateway is meant to be a showcase design placed on a desk or a window sill.
 
-Finestra Air – Specification
+Finestra Air – Specifications:
 
 	● Processor	Raspberry Pi Zero W  
 	● LoRa® Frequency band support	RU864, IN865, EU868, US915, AU915, KR920, AS923.
@@ -44,6 +44,15 @@ Finestra Miner-E - Specifications:
 	● Device Connectivity	Bluetooth 5
 	● Based on LoRa Concentrator Engine: Semtech® SX1302
 	● Security	ECC608 Crypto Cell Authentication
+
+Mimiq HUB (Mimiq, Inc. Light Gateway) - Specifications:
+
+	● Processor:	Allwinner A133
+	● LoRa® Frequency band support:	RU864, IN865, EU868, US915, AU915, KR920, AS923.
+	● Network Connectivity:	WiFi 5, IEEE 802.11ac wireless, Ethernet
+	● Device Connectivity	Bluetooth 5
+	● Based on LoRa Concentrator Engine: Semtech® SX1302
+	● Security:	ECC608 Crypto Cell Authentication
 
 ## Device Management Cloud
 
