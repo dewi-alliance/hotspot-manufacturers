@@ -87,7 +87,7 @@ We recommend you don't use the SX1301 in new designs
 * Have you built and delivered radio hardware products before? No
 * Have you built gateways before? No
 * How many gateways did you make? None
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. Nanjing Rejeee as the initial LoRa module provider.
+* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. Shenzhen Naviecare as the initial LoRa module provider.
 
 ## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives, e.g. as GitHub comments.
