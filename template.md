@@ -54,7 +54,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Have you built and delivered radio hardware products before?
 * Have you built gateways before? 
 * How many gateways did you make? 
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+* If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
