@@ -18,7 +18,7 @@ BEC is Managing Millions of Connected Devices Worldwide, driving the global tran
  
 
 ## Product Information (required)
-The BEC Helium miner is full hotspot, intended for outdoor use.  Our Outdoor Hotpot will include LoRA, Wi-Fi, 
+The BEC Helium miner is Light Hotspot, intended for outdoor use.  Our Outdoor Hotpot will include LoRA, Wi-Fi, 
 Gigabit Ethernet and optional cellular connectivity over 4G LTE/5G CBRS shared spectrum. The solution is purpose-built 
 to deliver years of dependable operation in harsh environments.  The solution incorporates an IP68 enclosure for complete 
 protection again dust and water ingress,  GORE vents for pressure equalization, airflow, and seal failure prevention.  There is also built-in 6KV lightning and 15KV ESD protection, and all devices are wind tunnel tested for successful operation 
