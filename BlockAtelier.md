@@ -112,7 +112,7 @@ Please tell us about some of the challenges that would prevent these products fr
 Wechat, Alipay, Paypal, Credit Card
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required)
-China, US
+US
 
 ## TrustZone Proposals
 1. The code presumably performs several functions using a private key. How is the private key loaded on to the device? (Is it generated on-device or is it imported externally?)
