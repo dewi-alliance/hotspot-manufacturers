@@ -34,7 +34,7 @@ Startups welcomed!
 
 
 ## Hardware Security Element (required)
-* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
+* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@dewi.org).
 * Are you using an ECC608. Yes or No?
 * Encrypted/locked-down firmware. Yes or No? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
