@@ -53,7 +53,7 @@ The 1st batch shipment of 10K AURA Light Hotspot to be ready for shipping by lat
 | Antenna Port        | SMA x2 (SubGHz LoRa, 2.4GHz WiFi/BLE)                        |
 | Power Supply        | Type-C, DC-12V                                               |
 | LED                 | Colorful LED x2 for system status (power, bluetooth, etc.)   |
-| Size (mm)           | xxx * xxx * xx                                               |
+| Size (mm)           | 100 * 75 * 45                                                |
 
 **AURA Light Hotspot Block Diagram:**
 ![AURA block diagram](https://user-images.githubusercontent.com/3131758/163700311-8e6d4641-05ad-44a6-b984-5cc1f5af71ea.png)
