@@ -36,7 +36,7 @@ AURA is primary an indoor Light Hotspot LoRaWAN (LongFi) and WiFi gateway tailor
 Our base MSRP is USD$400 and will be depending on configuration and antenna options added.
 
 * What is your expected production and delivery timeline?   
-The 1st batch shipment of 10K AURA Light Hotspot to be ready for shipping by late June 2022. We've ordered enough LoRa modules, RockPi 4b+, and ECC608 from our provider. It is expected that we can get all these modules ready by early June. Then, it will take us around 10 days to get the whole AURA Light Hotspot ready.    
+The 1st batch shipment of 3-5K AURA Light Hotspot to be ready for shipping by late June 2022. We've ordered enough LoRa modules, RockPi 4b+, and ECC608 from our provider. It is expected that we can get all these modules ready by early June. Then, it will take us around 10 days to get the whole AURA Light Hotspot ready.    
 
 **AURA Light Hotspot Features**
 | Item                | Description                                                  |
