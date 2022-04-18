@@ -93,7 +93,7 @@ Yes, optional to support DDR data scrambling.
 Yes.
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
-Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
+Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better.  
 **Photos of AURA Light Hotspot Prototype**
 ![aura_prototype_figures](https://user-images.githubusercontent.com/3131758/163701901-e201b624-7f1f-414f-9da6-e13ab533d550.jpg)
 
