@@ -73,9 +73,9 @@ We recommend you don't use the SX1301 in new designs.
 * Have you built and delivered radio hardware products before? Bullion Miner Limited have not yet as we are a new start-up company.
 * Have you built gateways before? Our team have extensive experience with which to handle development and production of the product.
 * How many gateways did you make? None at present.
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. We have design ownership of the product and hold the manufacturing licence but we outsource the manufacturing to a 3rd party supplier with a great deal of experience, capability and capacity.
+* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain. We have design ownership of the product and hold the manufacturing licence but we outsource the manufacturing to a 3rd party supplier with a great deal of experience, capability and capacity. Our core components are to be supplied by EdaTec, who are a highly experienced LoraWAN gateway Helium hotspot manufacturer for multiple existing brands offering us excellent support, and with access to ongoing high volume supplies. We will also be utilising Melent, in order to build the devices, who's team are also extremely experienced with radio and electronic component design and manufacture. 
 * Where are you sourcing your components from? Avnet, RS-online and other authorized suppliers.
-* How many radio modules/ concentrators can you procure? It depends on the material availability of the SX1302 IC. We are able to secure a few hundred units per month, limited due to the material shortage, but capacity will be thousands of units per month.
+* How many radio modules/ concentrators can you procure? We have full confidence in our main supplier, with many tens of thousands in stock with a maximum two week lead time to our factory. Capacity will be thousands of units per month. We have back up suppliers also.
 
 ## Proof of Identity
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
@@ -100,4 +100,4 @@ Please tell us about some of the challenges that would prevent these products fr
 
 
 ## Payment methods available (required):
-Debit & Credit Card payments via Stripe
+Debit & Credit Card payments via Stripe, crypto USDT/C payment option also to be made available.

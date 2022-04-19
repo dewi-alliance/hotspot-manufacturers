@@ -13,8 +13,8 @@ Application to become an approved third party manufacturer as per HIP19. All que
 
 ## Product Information (required)
 * What is this product's model name? 
-* Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-* Is this model for indoor, outdoor, or both? (If there are two models, list them separately)
+* Is this is Light Hotspot? Y/N (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
+* Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately)
 * Provide a brief description of the product:
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
@@ -22,9 +22,10 @@ Application to become an approved third party manufacturer as per HIP19. All que
 ## Previous shipments (required)
 Startups welcomed!
 * Have you shipped anything in the past? What types of products have you shipped?
-* Which countries have you previously shipped regulatory FCC or CE approved products? 
+* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
+* If you are a startup, are you partnering with another company? What experience does your team have?
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required)
+## Which countries do you plan to ship to and get regulatory certifications for? (required) Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
@@ -33,11 +34,11 @@ Startups welcomed!
 
 
 ## Hardware Security Element (required)
-* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
+* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@helium.foundation).
 * Are you using an ECC608. Yes or No?
 * Encrypted/locked-down firmware. Yes or No? 
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-* Encrypted buses, potting and other anti-tampering measures. Yes or No?
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
@@ -53,12 +54,12 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Have you built and delivered radio hardware products before?
 * Have you built gateways before? 
 * How many gateways did you make? 
-* If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+* If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
-## Proof of Identity:
-Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
+## Proof of Identity
+Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or Helium Foundation board members. This will be attested and publicly confirmed by those representatives.
 Details for this will be provided after your application is submitted on GitHub. 
 
 ## Budget & Capital (required)
@@ -70,7 +71,7 @@ Details for this will be provided after your application is submitted on GitHub.
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal
-## Contact Info: 
+## Contact Info 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
