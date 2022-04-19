@@ -25,7 +25,7 @@ Startups welcomed!
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 * If you are a startup, are you partnering with another company? What experience does your team have?
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required)
+## Which countries do you plan to ship to and get regulatory certifications for? (required) Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
