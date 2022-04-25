@@ -90,7 +90,7 @@ For how long? How are you planning to handle repairs and replacements?
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures.
   * **Yes**, we use **ATECC608** crypto chip to increase the security of swam_key.
 * Encrypted buses, potting and other anti-tampering measures.
-  * **Yes**
+  * no
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail)
   * **Yes**
 

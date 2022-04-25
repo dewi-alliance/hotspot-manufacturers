@@ -31,7 +31,7 @@
 | Chip                        | Specifications          | Remarks            |
 | --------------------------- | ----------------------- | ------------------ |
 | 8-channel LORA module       | SX1302/Sx1303                  | SX1302/SX1303             |
-| ARM9    | 256MB/512MB + 2GB/4GB ROM       |                    |
+| ARM64(RockChip 3568)    | 1GB + 8GB       |                    |
 | WIFI module                 | No special requirements |                    |
 | GPS module                  | No special requirements |                    |
 | ATECC608 secret key storage | No special requirements |                    |
@@ -54,7 +54,7 @@ Our Indoor Hotspot price range is between 149$-299$ according to the order quant
 | Chip                        | Specifications          | Remarks            |
 | --------------------------- | ----------------------- | ------------------ |
 | 8-channel LORA module       | SX1302/Sx1303                  | SX1302/SX1303             |
-| ARM9    | 256MB/512MB + 2GB/4GB ROM       |                    |
+| ARM64(RockChip 3568)    | 1GB + 8GB      |                    |
 | WIFI module                 | No special requirements |                    |
 | GPS module                  | No special requirements |                    |
 | ATECC608 secret key storage | No special requirements |                    |

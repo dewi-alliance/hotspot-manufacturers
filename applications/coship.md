@@ -96,7 +96,7 @@ Please let us know:
 
 * Have you built gateways before? Yes
 
-* How many gateways did you make?  Routers, Wi-Fi mesh
+* How many gateways did you make? The total number of gateway products shipped was 1.2million pieces.
 
 * If you have not built gateways before, are you using a third party manufacturer? Yes and we also have selfowned manufacturing system to ensure the supply chain.
 This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
@@ -126,7 +126,7 @@ As this is the first attempt to cooperate with Helium, both Helium and we don’
 * Contact info (* required) - june.liu@waltonchain.org
 * Twitter profile - No
 * Facebook profile - No
-* Other social profiles - Telegram customer support: @doonalee
+* Other social profiles - No
 * Website -http://www.coship.com/
 
 * Payment methods available - Bank transfer, check

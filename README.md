@@ -17,24 +17,23 @@ Also available at [this link.](https://docs.google.com/document/d/1_Z9In5uIrz-bC
 
 # Manufacturer Onboarding
 
-We recommend getting into the Helium community discord as soon as possible and joining the conversation in the #hip-19-third-party-manufacturers channel. Establishing a trusted reputation among the community is critical to your success. Manufacturers are encouraged to provide an introduction and direct interested parties to your own communication channels (e.g. company email or support). It is of the utmost importance to appropriately manage expectations on your product, the cost, and production timelines. This information should be included in your application. 
+We recommend getting into the Helium community discord as soon as possible and joining the conversations. Establishing a trusted reputation among the community is critical to your success. Manufacturers are encouraged to provide an introduction and direct interested parties to your own communication channels (e.g. company email or support). It is of the utmost importance to appropriately manage expectations on your product, the cost, and production timelines. This information should be included in your application. 
 
 Manufacturers who wish to participate in the Helium Network should complete the below steps (2-4 can be completed in parallel).
 
 ## Submit an Application 
- Overview of HIP19 (Manufacturer Approvals)
- Reach out to christina@dewi.org for KYC requirements
+ [Overview of HIP19 (Manufacturer Approvals)](https://heliumfoundation.notion.site/HIP19-Program-a43eee37bf0e473981147ab1f64ec383)
  
 ## Fees in USD (updated December 2021)
  * HIP19 proposal (administrative costs for each application review): $500
- * DeWi KYC: $1500
+ * Helium Foundation KYC: $1500
  * Hardware Audit: if using ECC608 for security: $3000 
  * Hardware Audit: other security implementations: $4000
  * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with identical hardware layout: $500
  * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with different hardware layout will require a separate hardware audit: $3000
  * Radio Certifications: additional radio certificates submitted after the initial MOC vote: $2000
  
- Invoices will be emailed after you submit a HIP19 proposal and KYC documents, before the hardware audit. Email christina@dewi.org if you have additional questions.
+ Invoices will be emailed after you submit a HIP19 proposal and KYC documents, before the hardware audit. Email christina@helium.foundation if you have additional questions.
  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
@@ -43,7 +42,6 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in HIP7.
  
 ## Send Hotspot for Hardware Audit 
- * Until further notice Helium Inc is continuing to perform the audit on behalf of the DeWi Alliance.
  * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
  * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
  * The publicly available hardware audit procedure is available at [this link.](https://docs.google.com/document/d/15zOOsqLSjb1ETZKHpRoxpxjBjcFUu_c6CpFq3V2gby4) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
@@ -59,7 +57,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  Provide certification for the geography where you plan to take orders.
  
 ## Manufacturing Oversight Committee Approval
- This is the final step before DeWi provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
+ This is the final step before the Helium Foundation provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
  We complete this step for full transparency.
  If you’ve completed all the above steps and been available in the community discord chat to answer questions, you should have no concerns about receiving MOC approval. 
 
