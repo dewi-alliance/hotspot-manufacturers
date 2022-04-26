@@ -21,7 +21,8 @@ Application to become an approved third party manufacturer as per HIP19. The sub
 
 ## Previous shipments (required)
 Startups welcomed!
-* Have you shipped anything in the past? What types of products have you shipped?
+* Have you shipped anything in the past? 
+* What types of products have you shipped?
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 * If you are a startup, are you partnering with another company? What experience does your team have?
 
@@ -71,7 +72,7 @@ Details for this will be provided after your application is submitted on GitHub.
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
 ## Other information if you do not provide contact information we cannot review your proposal
-## Contact Info 
+## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
