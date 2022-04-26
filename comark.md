@@ -124,7 +124,7 @@ The biggest challenge facing the delivery schedule is supply-chain constraints. 
 
 ## Other information if you do not provide contact information we cannot review your proposal
 ## Contact Info 
-* Contact Email (required) - bbernard@comarkcorp.com
+* Contact Email (required) - IoTHotspot@comarkcorp.com
 * Website (required) - https://comarkcorp.com
 * Twitter profile -  https://twitter.com/comarkcorp
 * Facebook profile -https://www.facebook.com/comarkcorp
