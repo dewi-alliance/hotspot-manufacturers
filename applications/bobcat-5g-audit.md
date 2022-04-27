@@ -1,6 +1,6 @@
 # Bobcat (Easylinkin)
 
-### HIP19 Amendment for 5G Gateway
+### HIP19 Amendment for 5G Gateway and Alternate Security Implementations
 
 ## Summary
 
@@ -8,7 +8,7 @@
 
 We are currently one of the biggest manufaturers for Helium Hotspot Miner and provide gateway prototype for Helium Light Gateway and 5G Gateway.
 
-In this HIP19 Amendments we updated 5G Gateway information for audit.
+In this HIP19 Amendments we updated 5G Gateway information for audit and proposed alternative TMP security model.
 
 ## Company Information
 
@@ -27,23 +27,6 @@ Further to expand company organization, EasyLinkin had finished C round capital 
 **Member of ICA (IoT Connectivity Alliance LoRa Standard committee)**
 
 ## Product Information
-
-We provide two stable and compact gateway solutions.
-
-* Bobcat Miner 300 for Helium Full Hotspot, Retail Price: $429.00
-* Bobber 200 for Helium Light Hotspot, Retail Price TBD
-
-**Bobcat Miner 300 Original Features:** 
-
-* Concentrator based on the Semtech SX1301+SX1255/1257 with ADR
-* Quad-core Cortex-A35 CPU with 64G eMMC Flash and 1G DDR3 RAM
-* ATECC608 for swarm keys storage
-* Wi-Fi: BCM4339 IEEE802.11a/b/g/n/ac double frequency, Ethernet Connectivity
-* Bluetooth: BT V4.1 EDR
-* Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-* Coverage radius: 3km in city, 5km in rural area
-* Voltage DC 12V 
-* Comes in IP30 case, size: 141 * 141 * 47mm
 
 **Bobber 500 Features:**
 

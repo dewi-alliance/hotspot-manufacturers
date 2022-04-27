@@ -109,9 +109,9 @@ Evidence of a functioning prototype - photos/videos. Renderings are OK but physi
   580MHz MIPS Processor
 
 * Other Hardware Specifications: 
-CPU	580MHz MIPS Processor
-RAM	128MB SDRAM
-Storage	16MB Flash
+CPU	Quad core Cortex-A53 64-bit SoC @ 1.5GHz
+RAM	1GB LPDDR4-3200 DDR
+Storage	32GB micro-SD Card
 Secure Element	ATECC608
 LoRaWAN Concentrator Chipse	Semtech SX1302 + SX1250
 LoRaWAN Frequency Plan	EU868, US915

@@ -48,7 +48,6 @@ established process. For details about BEC’s Warranty & RMA policy please visi
 <B>Platform details:</B>
 * Qualcomm IPQ807X 2 GHz quad-core CPU
 * 256MB Parallel NAND Flash
-* 32GB eMMC FLASH
 * 2GB DDR4 RAM
 * 4G LTE/5G CBRS connectivity (Optional)
 * 2.5 Gigabits Ethernet x 2
