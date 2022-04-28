@@ -19,7 +19,7 @@ Application to become an approved third party manufacturer as per HIP19. All que
 * What is this product's model name? 
 * **Lanodo-L9** 
 * Is this is Light Hotspot? Y/N (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
-* **Both Full Hotspot/ Light Hotspot**
+* ** Light Hotspot**
 * Is this model for indoor, outdoor, or either? (If there are two models, list them separately)
 * **Outdoor version**
 * Provide a brief description of the product:
@@ -109,7 +109,6 @@ Please tell us about some of the challenges that would prevent these products fr
   - Hotspot with firmware encrypt still dangure with ports open
 - Risk of hotspot producting and selling
 
-## Other information if you do not provide contact information we cannot review your proposal
 ## Contact Info 
 * Contact Email (required) - steven@lanodoiot.com
 * Website (required) -
@@ -123,4 +122,5 @@ Please tell us about some of the challenges that would prevent these products fr
   <br>
   Crypto Only
 
-
+# Which countries do you plan to ship to and get regulatory certifications for? (required)
+We plan to ship to Europe, America and Australia 
