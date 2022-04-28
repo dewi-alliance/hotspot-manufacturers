@@ -20,7 +20,7 @@ Application to become an approved third party manufacturer as per HIP19. The sub
 * What is your expected production and delivery timeline? 
 
 ## Previous shipments (required)
-Startups welcomed!
+Startups welcomed! (If you're a startup, please include detailed information about your team's previous experience.)
 * Have you shipped anything in the past? 
 * What types of products have you shipped?
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
