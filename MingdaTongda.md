@@ -81,7 +81,6 @@ SX1302
 * What is the CPU?
 MIPS@580MHz
 * Other Hardware Specifications: 
-
 LoRaWAN concentrater，MiniPCIe SX1302；
 security，ATECC608A；
 Bluetooth optional
