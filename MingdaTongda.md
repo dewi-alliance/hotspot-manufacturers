@@ -70,6 +70,7 @@ No
 Yes.
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
+![](https://github.com/ftp2010/svm-de-CAPTCHA/raw/master/prototypeimage2.jpg)
 * What are your plans for software setup and configuration for the devices?
 This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
 We will develop our app .
