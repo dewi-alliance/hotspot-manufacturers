@@ -124,3 +124,19 @@ Please tell us about some of the challenges that would prevent these products fr
 
 # Which countries do you plan to ship to and get regulatory certifications for? (required)
 We plan to ship to Europe, America and Australia 
+
+# Additional Question
+
+- Have you shipped anything in the past?
+  - We manufacture more than 10k IoT gateway products every year and ship products to Europe and North America for use in traditional agriculture, education, transportation and other industries.  
+- What types of products have you shipped?
+  - IoT gateway, smart watch, smart water meter, smart electricity meter 
+- Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.)
+  - Our products have ce and fcc certification, if we pass the helium audit we will quickly pass the ce, fcc certification
+- How will your customers be able to contact you for support for your products?
+  - Our customers contact us by email, phone, discord. Provide 24 hours support
+- The entire section about Manufacturing Information is missing.
+  - Lanodo has long time provide professional ODM/OEM customized services for front-line equipment/system manufacturers to domestic and foreign, including a variety of mobile terminals, medical, power, transportation, logistics, police and other industries and ventilation mobile phone terminals, from ID design, motherboard design, structural open mold design, test verification, app design, manufacturing , quality assurance, such as one-stop design and development of production services. It can meet the various vertical industry complex application needs and has a wealth of research and development experience.
+- Website info is missing.
+  - Our product list:http://www.lanodo.com/enlang/application.asp 
+
