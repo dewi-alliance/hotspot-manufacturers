@@ -10,7 +10,7 @@ We are T.M.G INDUSTRIES we are a startup looking to build helium Gateways. We wi
 • What is your company name?  
 T.M.G INDUSTRIES INC  
 • How long have you been in business?  
-We have been officially operating for 1 month   
+We have been officially operating for 11 month   
 • What kind of products have you created?    
 We have not created products from scratch in the past  
 • How many have you sold?      
@@ -21,7 +21,7 @@ I was recently getting into everything crypto and trying to understand it and st
 # Product Information (required)
 * Your time to shine! What are you building? What’s so great about it?    
 • What is your approximate price point?  
-Currently the approximate price is around 550-600usd as components are more expensive. However once we are able to reduce the price for components we will reduce the price our goal is to get the price to 350-400usd
+Currently the approximate price is around 400-450usd as components are more expensive. However once we are able to reduce the price for components we will reduce the price our goal is to get the price to 350-400usd
 
 # Detailed hardware designs, including relevant parts.
  • CPU:  
@@ -44,7 +44,7 @@ Currently the approximate price is around 550-600usd as components are more expe
 We intend to fully integrate our hotspots with the helium app allowing users to use all the features the app offers and apply OTA updates. 
  
 # What is your expected production and delivery timeline? Photos and videos welcome.  
-Our aim will be to produce and ship 2500-3000 units a week. Currently sourcing the components have not been much of an issue and we think that would be more than reasonable. Once we have the components in stock it will not take long to program and assemble. 
+it will take us roughly 4-6 weeks to deliver our first 1000-2000 units. After our first batch of units we will start building inventory and will be able to ship units as orders come in deliver will be 3-5 business days.
 
 # Previous shipments (required)  
 Startups welcome! Answer No if that's the answer.
@@ -90,7 +90,7 @@ No
 * Have you built gateways before?  
 Yes for personal projects   
 * How many gateways did you make?  
-2  
+6  
 * If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.  
 We will be outsourcing the components and will be assembling and programming in house. We currently have a small team that is more than capable of assembling and programming the units and we will expand as the demand increases. Our goal is to have around 6 teams of around 4-6 people within 2-3 months and continue to expand to meet demand   
 
@@ -107,7 +107,8 @@ So far I have invested around 20000$ I am trying to fund this all personally whi
  
 # Risks & Challenges (required)
 * Please tell us about some of the challenges that would prevent these products from becoming a reality, and how you might address them.  
-Currently the biggest challenge has been getting our certification as the government has been very delayed in responding and this has slowed the application process down a lot however we will persevere besides that the only other challenges I see would be shipping however we are currently in talks with the major shipping companies in our area and are also looking into doing local deliveries as well. There will likely be other challenges along the way and we plan to overcome them and continue to move forward and continue to provide excellence we refuse to let our customers be affected by the challenges we may face.  
+Currently the biggest challenge has been passing the audit process as we are a smaller company we do not have all the same capabilities of the larger companies and thus have had a few quality control issues that have since been resolved  
+
 
 # Other information (required)
 * Contact info (* required) -
