@@ -45,13 +45,13 @@ Qingdao IotPi Information Technology Ltd. is a startup company focused on provid
 
 * Provide a brief description of the product:
 
-> IotPi Pico Cam R1 is a low-cost Helium Light Hotspot + IP Camera Hybrid solution, with industrial grade option (all industrial grade elements on board, mainly for Outdoor model). It has a Rockchip RK1109 SoC as its main CPU, with SX1303 as its LoRa concentrator, with either Microchip ATECC608 or RANiX RS2332 as security element , powered by a PoE interface, with a 5M pixels digital camera. This device can be installed in room (Indoor version), or outside (Outdoor version), not only provide LoRa connectivity, but also remote IP Camera monitoring capabiliies.
+> IotPi Pico Cam R1 is a low-cost Helium Light Hotspot + IP Camera Hybrid solution, with industrial grade option (all industrial grade elements on board, mainly for Outdoor model). It has a Rockchip RK1109 SoC as its main CPU, with SX1303 as its LoRa concentrator, with either Microchip ATECC608 or RANiX RS2332 as security element , powered by a PoE interface, with a 5M pixels digital camera. This device can be installed in room (Indoor version), or outside (Outdoor version), not only provide LoRa connectivity, but also remote IP Camera monitoring capabiliies. Our LoRa Module will have an optional GPS chip onboard.
 
 * What is your approximate price point? 
 
 > * Indoor version: $200 - $300
-> * Outdoor version (commercial grade): $300 - $400
-> * Outdoor version (industrial grade): $500 - $700
+> * Outdoor version (commercial grade, w/ or w/o GPS): $300 - $400
+> * Outdoor version (industrial grade, w/ or w/o GPS): $500 - $700
 
 * What is your expected production and delivery timeline? 
 
