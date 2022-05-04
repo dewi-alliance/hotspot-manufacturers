@@ -13,7 +13,7 @@ For a detailed walkthrough of how to submit your own application, please see [Ho
 The status of manufacturers in progress can be [viewed here.](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
 
 # Step by step how-to 
-Also available at [this link.](https://docs.google.com/document/d/1_Z9In5uIrz-bCxIntVoWdSt-ve-5RUT-P2AkscgWq7M) 
+Also available at [this link.](https://heliumfoundation.notion.site/HIP19-Program-a43eee37bf0e473981147ab1f64ec383) 
 
 # Manufacturer Onboarding
 
@@ -44,13 +44,11 @@ Manufacturers who wish to participate in the Helium Network should complete the 
 ## Send Hotspot for Hardware Audit 
  * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
  * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
- * The publicly available hardware audit procedure is available at [this link.](https://docs.google.com/document/d/15zOOsqLSjb1ETZKHpRoxpxjBjcFUu_c6CpFq3V2gby4) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
+ * The publicly available hardware audit procedure is available at [this link.](https://heliumfoundation.notion.site/Light-Hotspot-Hardware-Audit-Procedure-22e345b9a4524946b4e624cbee2a0dd8) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
  
 ## Complete Onboarding Integration 
  The onboarding integration ensures your hotspot will be recognized by the blockchain and Hotspot owners are able to appropriately provide proof of coverage and mine HNT.
- Instructions to add your hotspot to the Helium app and integrate with the onboarding server. 
- Please reach out to coco@helium.com to add a test hotspot to the onboarding server.
- Once you’ve successfully hit the API endpoint, you’ve completed this task.
+ Instructions for this step will be provided during the HIP19 application process.
  
 ## Complete Radio Certification
  FCC/CE/WPC or other applicable radio certification.
