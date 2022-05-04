@@ -1,6 +1,6 @@
 # Hotspot Manufacturers
 
-Hub for Helium hotspot manufacturer applications and the Manufacturer Oversight Committee (MOC).
+Hub for Helium hotspot manufacturer applications and the Manufacturer Compliance Committee (MCC).
 
 For details on the manufacturer approval process, please see [HIP19: Approval Process For Third-Party Manufacturers.](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
@@ -31,7 +31,7 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  * Hardware Audit: other security implementations: $4000
  * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with identical hardware layout: $500
  * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with different hardware layout will require a separate hardware audit: $3000
- * Radio Certifications: additional radio certificates submitted after the initial MOC vote: $2000
+ * Radio Certifications: additional radio certificates submitted after the initial MCC vote: $2000
  
  Invoices will be emailed after you submit a HIP19 proposal and KYC documents, before the hardware audit. Email christina@helium.foundation if you have additional questions.
  
@@ -56,12 +56,12 @@ Manufacturers who wish to participate in the Helium Network should complete the 
  FCC/CE/WPC or other applicable radio certification.
  Provide certification for the geography where you plan to take orders.
  
-## Manufacturing Oversight Committee Approval
+## Manufacturing Compliance Committee Approval
  This is the final step before the Helium Foundation provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
  We complete this step for full transparency.
- If you’ve completed all the above steps and been available in the community discord chat to answer questions, you should have no concerns about receiving MOC approval. 
+ If you’ve completed all the above steps and been available in the community discord chat to answer questions, you should have no concerns about receiving MCC approval. 
 
 ## Pre-Orders
- At this point, after MOC approval, you are in the best position to take pre-orders as you see fit.
+ At this point, after MCC approval, you are in the best position to take pre-orders as you see fit.
  A wait-list is permitted if you are not collecting payments.
 
