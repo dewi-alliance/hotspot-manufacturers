@@ -70,7 +70,7 @@ Startups welcomed! (If you're a startup, please include detailed information abo
 ## Which countries do you plan to ship to and get regulatory certifications for? (required) 
 Please list specific countries, "worldwide" or "global" are not acceptable.
 
-> US, Taiwan, Japan, Europe, Tailand, India
+> US, Taiwan, Japan, Europe, Tailand, India, Korea
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products?
