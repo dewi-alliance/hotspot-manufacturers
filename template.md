@@ -61,8 +61,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * How many radio modules/ concentrators can you procure? 
 
 ## Proof of Identity:
-Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives.
-Details for this will be provided after your application has been submitted on GitHub. 
+Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
 
 ## Budget & Capital (required)
 * How many hotspots are you planning to manufacture and sell within the first six months of sales? 
@@ -72,7 +71,7 @@ Details for this will be provided after your application has been submitted on G
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
-## Other information if you do not provide contact information we cannot review your proposal
+## Other information (if you do not provide contact information we cannot review your proposal)
 ## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
@@ -81,6 +80,4 @@ Please tell us about some of the challenges that would prevent these products fr
 * Discord - 
 * Other social profiles -
 
-
 ## Payment methods available (required):
-
