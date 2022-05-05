@@ -87,11 +87,25 @@ Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@helium.foundation).
-* Are you using an ECC608. Yes or No? `Yes for ECC608`
-* Encrypted/locked-down firmware. Yes or No? `No.( Firmware includes GPLv3 software, we cannot fully encrypt and lock down the whole system. But we have encrypt and lock / verify core software with TrustZone Technology embedded in SoC)`
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? `Yes, inside ECC608`
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.) `No for ECC608.`
-* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? `Yes.`
+* Are you using an ECC608. Yes or No?
+
+> `Yes`
+
+* Encrypted/locked-down firmware. Yes or No?
+
+> No.( Firmware includes GPLv3 software, we cannot fully encrypt and lock down the whole system. But we have encrypt and lock / verify core software with TrustZone Technology embedded in SoC)
+
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+
+> Yes, inside ECC608
+
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
+
+> No for ECC608.
+
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+
+> Yes.
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
