@@ -18,11 +18,11 @@ DSGW-010C has line of sight up to 15 km can cover about 2 km in urbanized enviro
 |  Item   | details  |
 |  ----   | ----  |
 | CPU     | ARM Quad-core Cortex-A35 1.5GHz  |
-| RAM     | 2GB |
-| eMMC    | 16GB |
-| Wifi    | 802.11ac Wi-Fi module | 
+| RAM     | 1GB |
+| eMMC    | 8GB |
+| Wifi    | 802.11ac Wi-Fi module, BLE module | 
 | LoRa    | Lora SX1302 module |
-| Others  | BLE module, ECC crypto chip, GPS module |
+| Others  | ECC crypto chip, GPS module |
 
 
 ## Previous shipments (required)
