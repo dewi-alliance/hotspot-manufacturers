@@ -13,19 +13,21 @@ Application to become an approved third party manufacturer as per HIP19. The sub
 
 ## Product Information (required)
 * What is this product's model name? 
-* Is this is Light Hotspot? Y/N (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
+* Is this is a Light Hotspot or a 5G Hotspot? (Due to the time required for the HIP19 process, new applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately)
 * Provide a brief description of the product:
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
 
 ## Previous shipments (required)
-Startups welcomed!
-* Have you shipped anything in the past? What types of products have you shipped?
+Startups welcomed! (If you're a startup, please include detailed information about your team's previous experience.)
+* Have you shipped anything in the past? 
+* What types of products have you shipped?
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
 * If you are a startup, are you partnering with another company? What experience does your team have?
 
-## Which countries do you plan to ship to and get regulatory certifications for? (required) Please list specific countries, "worldwide" or "global" are not acceptable.
+## Which countries do you plan to ship to and get regulatory certifications for? (required) 
+Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
@@ -58,9 +60,8 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
-## Proof of Identity
-Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or Helium Foundation board members. This will be attested and publicly confirmed by those representatives.
-Details for this will be provided after your application is submitted on GitHub. 
+## Proof of Identity:
+Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
 
 ## Budget & Capital (required)
 * How many hotspots are you planning to manufacture and sell within the first six months of sales? 
@@ -70,8 +71,8 @@ Details for this will be provided after your application is submitted on GitHub.
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
-## Other information if you do not provide contact information we cannot review your proposal
-## Contact Info 
+## Other information (if you do not provide contact information we cannot review your proposal)
+## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
@@ -79,6 +80,4 @@ Please tell us about some of the challenges that would prevent these products fr
 * Discord - 
 * Other social profiles -
 
-
 ## Payment methods available (required):
-
