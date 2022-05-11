@@ -6,7 +6,7 @@
 With LoRaWAN becoming the de-facto wide area network of IoT world. It demands multiple options and players who can provide the backbone infrastructure for varied product needs.
 At ClodPi Labs, we have been exploring and pioneering this space over the last 5+ years, serving our customer needs in India, Asia Pacific and Europe.
 
-We are proposing the add another verson of full hotspot (Outdoor) with change in processor.
+We are proposing the add another verson of full hotspot (**Outdoor**) with change in processor.
 
 ## Company Information
 
@@ -51,9 +51,9 @@ All the miner variants features a secure element, powered by ATECC608B from Micr
 In addition to that, the firmware upgrade process is also secured with encryption over the wire and at rest. And the firmware updates applied after verification of the authenticity of the payload.
 
 * Are you using an ECC608. Yes
-* Encrypted/locked-down firmware. Yes
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes
-* Encrypted buses, potting and other anti-tampering measures. Yes
+* Encrypted/locked-down firmware. No
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes, The keys are secured using ecc608. And all the communication from the hotspot to our server for configuration updates and firmware updates are also secured with ecc608 derived keys.
+* Encrypted buses, potting and other anti-tampering measures. No
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes
 
 ## Hardware Information
