@@ -2,7 +2,7 @@
 
 <img src="https://www.linxdot.com/images/logo-linxdot.png" alt="Linxdot logo" width=250 />
   
-Application for versions of the Linxdot light hotspots LD-500, LD-505, LD-555 as per HIP19
+Application for versions of the Linxdot light hotspots LD-500, LD-550, LD-555 as per HIP19
   
 
 ## Summary
