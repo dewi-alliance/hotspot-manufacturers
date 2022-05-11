@@ -1,7 +1,7 @@
-## Please copy this template.md (do not edit the template directly)
 ## COMPANY NAME
+### PLNetworks Co., Ltd.
+<img src = "github.com/hyesonfather/hotspot-manufacturers/blob/main/img/plnetworks_logo.png">
 
-Application to become an approved third party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
 ## Summary
 
 ## Company Information (required)
