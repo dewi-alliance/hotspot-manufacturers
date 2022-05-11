@@ -50,7 +50,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
 * Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.) 
 * What is the CPU?
-* Other Hardware Specifications: 
+* Additional Hardware Specifications: 
 
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
