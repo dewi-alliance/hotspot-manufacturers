@@ -1,5 +1,6 @@
 ## COMPANY NAME
-### PLNetworks Co., Ltd.
+### PLNetworks Co., Ltd.  
+
 <img src = "https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_logo.png">
 
 ## Summary
