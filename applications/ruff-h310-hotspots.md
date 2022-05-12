@@ -15,6 +15,8 @@ Shanghai NanChao Information Technology Co., Ltd. (**RUFF** for short), a high-t
 
 ## Product Information
 
+**Light Indoor Version**
+
 **Hummingbird H310 for Helium light Hotspot Miner, Black Box, Estimated Price: $299.00**
 
 -   Concentrator based on the Semtech SX1302/SX1303 with ADR

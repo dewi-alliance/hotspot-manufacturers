@@ -15,7 +15,9 @@ Shanghai NanChao Information Technology Co., Ltd. (**RUFF** for short), a high-t
 
 ## Product Information
 
-**HummingBird H300 Light hotspots features, Estimated Price: $259.00 ** 
+**Light Indoor Version**
+
+**HummingBird H300 Indoor Light hotspots features, Estimated Price: $259.00** 
 
 -   Concentrator based on the Semtech SX1302/3 with ADR, GPS integrated(optional)
 -   CPU: MT7628/MT7688 (MIPS24KEc@580MHz, DDR2 128MB, Flash 32MB) 
