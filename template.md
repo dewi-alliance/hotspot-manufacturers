@@ -71,8 +71,10 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
 
+## Payment methods available (required):
+
 ## Other information (if you do not provide contact information we cannot review your proposal)
-## Contact Info: 
+## Contact Info 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
@@ -80,4 +82,3 @@ Please tell us about some of the challenges that would prevent these products fr
 * Discord - 
 * Other social profiles -
 
-## Payment methods available (required):
