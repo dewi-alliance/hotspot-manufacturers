@@ -13,11 +13,25 @@ Naminic has been designing electronics board based on stm32 since 2013 and desig
 ## Product Information (required)
 * What is this product's model name or model number? Naminic Helium Stand alone Miner
 * Is this is Light Hotspot or Full Hotspot? (please submit two separate applications for Full and Light hotspots)
-First we will start with to build full hotspot then we will develop light hotspot if needed.
-* Is it for indoor or outdoor?  indoor
-* Provide a brief description: We use RaspBerry Pi zeroW or Pi4B as the calculation and control  module of the mining machine.
+Light hotspot
+* Is it for indoor or outdoor?  Indoor hotspot
+**Detailed hardware designs, including relevant parts.**
+
+| Hardware Specification |                                                              |
+| ---------------------- | ------------------------------------------------------------ |
+| CPU                    | ●Quad-core Cortex-A35 up to 1.3GHz                           |
+| Memory                 | ●DDR3 512GB                                                     |
+| Storage                | ●eMMC 4GB                                    |
+| LoRa radio             | ●External SMA antenna                     |
+| Wi-Fi radio            | ●2.4GHz 1Tx/1Rx 802.11 b/g/n <br />●Built-in antenna         |
+| BLE radio              | ●2.4GHz BLE 5.2  <br />●Built-in antenna                     |
+| Crypto chip            | ●Microchip ATECC608                                    |
+| LAN interface          | ●RJ45 1Gbps x 1                                              |
+| USB                    | ●External USB-A 2.0 connector   <br />●Reserved for future use |
+| LED                    | ●Single-colored LED indicator                                |
+| Power                  | ●Micro usb type c                             |
  We use sx 1302 LoRa Gatwaye Module High Speed for communication gateway. 
-* What is your approximate price point? 600$- 700$
+* What is your approximate price point? 300$- 400$
 * What is your expected production and delivery timeline? Our mvp will be complete in a mounth 
 
 ## Previous shipments (required)
@@ -77,10 +91,10 @@ The main risk is marketing the product and opening new market because the produc
 ## Other information if you do not provide contact information we cannot review your proposal.
 ## Contact Info 
 * Contact Email (required) -  naminics@gmail.com
-* Website (required) – naminic.com
+* Website (required) – dorj.io
 * Twitter profile – 
 * Facebook profile -
-* Other social profiles – instagram @naminics
+* Other social profiles – instagram @dorjwa
 
 
 ## Payment methods available (required): CRYPTOCURRENCY 
