@@ -30,17 +30,6 @@ Indoor
 https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/aitek/AML300.pdf
 
 
-#### AML-350: indoor Light Hotspot Version with GPS
-
-* What is this product's model name or model number?  
-AML-350
-* Is this a Light Hotspot or Full Hotspot?  
-Light hotspot
-* Is it for indoor or outdoor use?  
-Indoor
-* hardware Specs Link. 
-to be updated
-
 
 ## What is your expected production and delivery timeline?
 Upon approval, the first batch of delivery will be available in about 1 months.
