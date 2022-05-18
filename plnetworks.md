@@ -15,33 +15,59 @@ PLNetworks is a IoT company of wireless network and its solutions based on LoRa 
 * What kind of products have you created? (list specific products)
     1. LoRa Module for devices
 		+ PLM100 - basic LoRa function module with AT command interface
-			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plm100.png">   
+
+			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plm100.png"> 
+
 		+ PLM100S - BLE + LoRa Module
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plm100s.png"> 
+
 		+ PLM120 - 2.4GHz LoRa Transceiver Module
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plm120.png"> 			
+
 		+ PLM150 - minimized LoRa module for wearable devices
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plm150.png"> 
+
     2. LoRa Device
 		+ PLS100 - LoRa modem with several IO such as GPIO, RS232/485, ADC, I2C.
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls100.png"> 
+
 		+ PLS110 - LoRa Tracker with GPS, BLE, button, buzzer and Gyro Sensor
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls110.png"> 
+
 		+ PLS210 - Industrial LoRa Tracker for automobile
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls210.png">   
+
 		+ PLS400 - Outdoor LoRa modem
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls400.png"> 
+
 		+ PLS500 - BLE Beacon Scanner for indoor positioning
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls500.png"> 
+
 		+ PLS800 - BLE-LoRa Scanner for indoor positioning
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_pls800.png"> 
+
     3. LoRa Gateway 
 		+ PLG100M - Multi channel LoRa Gateway for outdoor based on SX1301
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plg100m.png"> 
+
 		+ PLG400 - Advanced Multi channel LoRa Gateway for outdoor
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_plg400.png"> 
+
 		+ CG100 - Indoor LoRa Gateway based on SX1301
+
 			<img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_cg100.png"> 
+
 		+ PLG420(scheduled) - Indoor LoRa Gateway based on SX1302 and Raspberry Pi Compute Module 4
     4. LoRa Network Server
 	    + PLNS100 - Enterprise LoRaWAN Network Server for local private LoRa network 
