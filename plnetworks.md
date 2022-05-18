@@ -72,10 +72,10 @@ PLNetworks is a IoT company of wireless network and its solutions based on LoRa 
     4. LoRa Network Server
 	    + PLNS100 - Enterprise LoRaWAN Network Server for local private LoRa network 
 * How many have you sold?    
-**LoRa Module - over 100,000/year**
-**LoRa Device - over 20,000/year**
-**LoRa Gateway - over 2,000/year**
-**LoRa NW Server - over 50/year**
+**LoRa Module - over 100,000/year**   
+**LoRa Device - over 20,000/year**    
+**LoRa Gateway - over 2,000/year**    
+**LoRa NW Server - over 50/year**    
 * What brought you to the Helium Network?    
 	From starting LoRa RF transceiver without LoRaWAN standard, we thought that this kind of RF feature is innovative and another part of RF solutions which is not existed in the world so that traditional building a network is not suitable to LoRa network construction and the business way of Helium network is innovative like LoRa RF transceiver. 
 
@@ -111,9 +111,9 @@ PLNetworks is a IoT company of wireless network and its solutions based on LoRa 
 * What types of products have you shipped?    
 	**LoRa Module(PLM100, PLM150), LoRa Device(PLS110, PLS400), LoRa Gateway(PLG100M, PLG400)**
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.)     
-	**LoRa Module - FCC, TELEC(Japan), KC(Korea)**
-	**LoRa Device - FCC, TELEC(Japan), KC(Korea)**
-	**LoRa Gateway - FCC, TELEC(Japan), KC(Korea), RCMA(Australia), Indonesia**
+	**LoRa Module - FCC, TELEC(Japan), KC(Korea)**    
+	**LoRa Device - FCC, TELEC(Japan), KC(Korea)**    
+	**LoRa Gateway - FCC, TELEC(Japan), KC(Korea), RCMA(Australia), Indonesia**    
 
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required) 
@@ -143,8 +143,8 @@ Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better.     
-  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_shape_diagram.png">
-  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plnetworks_block_diagram.png">
+  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/pls420_shape_diagram.png" width="70%">
+  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/pls420_block_diagram.png" width="70%">
 
 1.  **CPU Part: RPI Compute Module 4 with Wifi**
 2. **Estimated size: 130 x 130 mm**
