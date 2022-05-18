@@ -143,8 +143,8 @@ Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better.     
-  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/pls420_shape_diagram.png" width="70%">
-  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/pls420_block_diagram.png" width="70%">
+  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plg420_shape_diagram.png" width="70%">
+  <img src="https://github.com/hyeonsfather/hotspot-manufacturers/blob/main/img/plg420_block_diagram.png" width="70%">
 
 1.  **CPU Part: RPI Compute Module 4 with Wifi**
 2. **Estimated size: 130 x 130 mm**
