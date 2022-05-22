@@ -263,7 +263,7 @@ Please tell us about some of the challenges that would prevent these products fr
 
 \* Contact Email (required) - steven@lanodoiot.com
 
-\* Website (required) -
+\* Website (required)  - http://www.lanodo.com/
 
 \* Twitter profile -
 
