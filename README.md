@@ -30,7 +30,7 @@ We recommend getting into the Helium community discord as soon as possible and j
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
  Fill it out; if you have questions or concerns about a particular question, ask on GitHub or on Discord. Many questions are required, and leaving blank will delay your application.
  Submit a pull request.
- Discussion and approval would follow the same "rough consensus” process used by HIPs generally, as outlined in HIP7.
+ There is a step-by-step guide [here](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/).
  
 ## Send Hotspot for Hardware Audit 
  * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
