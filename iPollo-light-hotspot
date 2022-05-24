@@ -1,0 +1,181 @@
+
+## iPollo
+
+Application to become an approved third party manufacturer as per HIP19. 
+
+## Summary
+  iPollo has been providing services in embedded systems since 2019. Using this experience, we develop IoT devices with wifi, bluetooth, ethernet capacity. We want to enter the blockchain field by using this capacity. The Helium project draws our attention both with its field of interest and with the technology it has developed.
+  
+  
+## Company Information (required)
+  iPollo is a leading fabless IC design company, dedicated to the development of HTC (High Throughput Computing) chips, HPC (High Performance Computing) chips, distributed computing storage and other solutions. iPollo's self-defined FPU architecture maintains the reusability and iterability of IP cores which is able to meet the needs of high-performance and high-throughput computing. Also, it is a new basic framework for the design of HTC and HPC chips. In June 2021, iPollo established a wholly-owned subsidiary with the brand of IPOLLO in Singapore to accelerate the expansion in global IC market.
+
+* What is your company name?
+  iPollo
+
+* How long has the company been in business? 
+  3 years
+
+* What kind of products have you created? (list specific products)
+  iPollo V mini Classic Plus ETC Miner
+  iPollo V mini Classic ETC Miner
+  iPollo V ETH Miner
+  iPollo V mini ETH Miner
+  iPollo B1L BTC Miner
+  iPollo B1 BTC Miner
+  Cuckoo Chip
+  UBM3D
+  Memory chip
+  iPollo G1 Grin Miner
+  iPollo G1 mini Grin Miner
+  iPollo Dark Steel Distributed Storage Server
+  
+  These products are from our Wholly owned subsidiary company
+  Website:https://ipollo.com/zh-TW/product
+
+* How many have you sold? 
+  Preorder amount over 20,000
+
+* What brought you to the Helium Network? 
+  Official website
+
+
+## Product Information (required)
+* What is this product's model name? 
+  Model name:iPollo H series Model number: iPollo H
+
+* Is this is Light Hotspot? Y/N (Due to the time required for the HIP19 process, new applications should be for Light Hotspots only)
+  Both,we are going to produce Light Hotspot and Full Hotspot.
+  
+* Is this model for indoor, outdoor, or either? (If there are two models, list them separately)
+  Both, we are going to offer two choices one for outdoor one for indoor.
+  
+* Provide a brief description of the product:
+  We are going to produce 64-bit full hotspot. The board will have 2 GB ram and linux OS. We are planning to combine the customizable board with LORA SX1302. For the security option we are going to use ECC608 crypto chip and linux crypto options.
+  
+* What is your approximate price point? 
+  USD $799
+  
+* What is your expected production and delivery timeline? 
+  In Third season it will be ready for drop-ship globally.
+  
+## Previous shipments (required)
+Startups welcomed!
+* Have you shipped anything in the past? What types of products have you shipped?
+  Yes.We produced 20k products and provided the transportation of these products. We also have our own e-commerce website. You can access it from this site: https://ipollo.com/zh-TW/product
+  
+* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
+  More than 50 countries globally.
+  
+## Which countries do you plan to ship to and get regulatory certifications for? (required)
+  North America, EU, China,SouthEast ASIA
+
+## Customer Support (required)
+* How will your customers be able to contact you for support for your products? 
+  Official website,and offices in Singapore and HK. Nano labs already has a customer support line, online support desk, and support email.
+
+* How long will the company provide customer support? 
+  More than a year
+  
+## Hardware Security Element (required)
+* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
+* Are you using an ECC608. Yes or No?
+  Yes
+  
+* Encrypted/locked-down firmware. Yes or No? 
+  Yes
+  
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+  Yes
+  
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
+  No
+  
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+  Yes
+  
+## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
+Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
+* What are your plans for software setup and configuration for the devices?
+  We are using ECC608
+
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
+  ECC608
+  
+* Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.) 
+  SX1302 & SX1250s
+
+* What is the CPU?
+  580MHz MIPS Processor
+
+* Other Hardware Specifications: 
+CPU	Quad core Cortex-A53 64-bit SoC @ 1.5GHz
+RAM	1GB LPDDR4-3200 DDR
+Storage	32GB micro-SD Card
+Secure Element	ATECC608
+LoRaWAN Concentrator Chipse	Semtech SX1302 + SX1250
+LoRaWAN Frequency Plan	EU868, US915
+LoRaWAN Sensitivity	- 125dBm @125KHz/SF7
+- 139dBm @125KHz/SF12
+LoRaWAN TX Power	Up to 25 dBm
+LoRaWAN Antenna	- Standard 2 .5dBi antenna
+- Optional 3dBi, 5dBi, 8dBi antenna
+Wired Network	10 / 100Mbps Ethernet
+Wireless LAN Network	2.4GHz 802.11 b/g/n wireless LAN with external antenna
+Indicator	1x RGB LED
+Button	1x Button for Gateway Configuration
+Power In	12V@1A DC Power In
+Dimension	100mm(L) x 100mm(W) x 24mm(H)
+Operating Temperature	0℃ ~ 50℃
+Relative Humidity	0% ~ 90%
+Indoor or Outdoor	Indoor
+OS	Linux Kernel
+Update	OTA updates
+Certification	CE / FCC
+
+
+## Manufacturing Information (required)
+* Have you built and delivered radio hardware products before?
+  Yes,V1 mini  ETC wifi
+  
+* Have you built gateways before? 
+  Yes
+  
+* How many gateways did you make? 
+  >10,000
+
+* Where are you sourcing your components from? 
+  We have many suppliers in China and we can purchase from European and Asian countries.We have not had any problems with supply so far.
+  
+* How many radio modules/ concentrators can you procure? 
+  50,000 annually
+
+## Proof of Identity
+Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from Helium Inc or DeWi board members. This will be attested and publicly confirmed by those representatives.
+Details for this will be provided after your application is submitted on GitHub. 
+
+## Budget & Capital (required)
+* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
+  We forecast to make and sell 50,000 hotspots in the year of 2022.
+  
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+  $2M for product development and cash flow $15M
+  
+* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
+  We have full anticipation on this project and we have confidence on this industry.
+
+## Risks & Challenges (required)
+  Chip crisis is most powerful risk and challenge for us but we are going to solve this problem with alternative suppliers and producers.
+
+## Other information if you do not provide contact information we cannot review your proposal
+## Contact Info 
+* Contact Email (required) - ccr_2002@163.com
+* Website (required) - https://ipollo.com/zh-TW/product
+* Twitter profile -
+* Facebook profile -
+* Discord - 
+* Other social profiles -
+
+
+## Payment methods available (required):
+  Credit Card, Paypal, BTC, ETH

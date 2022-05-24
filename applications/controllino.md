@@ -97,14 +97,20 @@ As requested by DeWi, we disclose that we are planning to purchase HNT needed fo
 
 The current chip sourcing crisis is affecting almost every company that uses electronics in their products. Furthermore, increasing demand for LoRa chips will probably have a negative effect in terms of sourcing speed and prices. We are mitigating this risk by already reserving and buying critical components with our most trusted suppliers and planning orders and production months in advance. This is the only way to ensure quick and customer-friendly responses to market surges.
 
+# Updates
+
 ## Updates on Device Hardware
 
 As per DeWi guidelines and discussed with DeWi itself, we'd like to announce an update to our Controllino Hotspot:
 The device will receive an update as of April 2022 (called Hotspot V2), with an added LCD display on top of the housing, as well as additional LTE and WiFi options. The housing and other core features of the device remain the same.
 
-## Update #2 on Device Hardware
+## Update 2 on Device Hardware
 
 As per DeWi guidelines, we'd like to announce a version of our Controllino Hotspot that will have an outdoor-proof, IP certified housing. Other core features of the device remain the same. As discussed with DeWi, besides the housing, nothing else will change hardware- or software-wise.
+
+## Update 3 on Device Hardware
+
+As per DeWi guidelines and to kick off the approval process with DeWi, we'd like to announce that we are planning to add a variation of our Controllino Hotspot that uses 2GB and 4GB RAM versions of Raspberry Pi 4 instead of 8GB RAM. This gives us increased sourcing flexibility.
 
 ## Other information
 

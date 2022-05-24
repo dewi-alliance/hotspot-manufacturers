@@ -49,7 +49,7 @@ As the manufacturer, the device’s miner utilities, Ubuntu system, kernel and u
 
 Chip | Specifications | Remarks
 --- | --- | ---
-8-channel LORAA module | `SX1302` | Vendor information: Lierda
+8-channel LORAA module | `SX1302+SX1303`| Vendor information: Semtech
 Mainboard | 4gb RAM+ 64gb EMMC |ARM 
 WIFI module | Yes | 
 GPS module | Yes | 
@@ -79,11 +79,10 @@ Any challenges that could be foreseen mainly comes from our factories and HQ bas
 * Contact email (europe) - nick.chen@polyhex.net 
 * Contact email (North America) - kevin@polyhex.net 
 * Twitter profile - [Polyhex support](https://twitter.com/PolyhexSupport) (soon to open product dedicated profile) 
-* Discord  - [click here](https://discord.gg/Xx32dUy377)
+* Discord  - (available soon)
 * Website - [Polyhex Technology](http://www.polyhex.net/)
 
 # Payment methods available 
 Currently available: Paypal, wire transfer, cryptocurrency 
 # Which countries do you plan to ship to and get regulatory certifications for? (required)
 We plan to ship to all of Europe, North America, Australia and New Zealand
-

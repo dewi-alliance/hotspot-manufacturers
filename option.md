@@ -30,7 +30,7 @@ OPTION partners with system integrators, value added resellers, application plat
 - Outdoor can be powered via PoE
 - OTA available via www.cloudgateuniverse.com provisioning server
 - Worldwide shipment
-![CloudGate](https://www.option.com/wp-content/uploads/2021/11/Cloudgate-LTE-LoRa_WiFi_LR.jpg "CloudGate")
+![CloudGate](https://www.option.com/wp-content/uploads/2022/03/CG-Helium-Slim_edited.png "CloudGate")
 
 ## Customer Support
 Support will be provided over [Discord](https://discord.gg/RhAKM4FVpw) and general troubleshooting will be available on our [CloudGateUniverse](https://www.cloudgateuniverse.com). We aim to respond to questions within 1 business-day.
