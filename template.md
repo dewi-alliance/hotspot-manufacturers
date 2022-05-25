@@ -31,7 +31,7 @@ Startups welcomed! (If you're a startup, please include detailed information abo
 Please list specific countries, "worldwide" or "global" are not acceptable.
 
 ## Customer Support (required)
-* How will your customers be able to contact you for support for your products? 
+* How will your customers be able to contact you for support for this products? 
 * How long will the company provide customer support? 
 * How are you planning to handle repairs and replacements? 
 
@@ -75,7 +75,7 @@ Please tell us about some of the challenges that would prevent these products fr
 ## Payment methods available (required):
 
 ## Other information (if you do not provide contact information we cannot review your proposal)
-## Contact Info 
+## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
 * Twitter profile -
