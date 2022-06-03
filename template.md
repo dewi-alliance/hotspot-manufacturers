@@ -78,8 +78,8 @@ Please tell us about some of the challenges that would prevent these products fr
 ## Contact Info: 
 * Contact Email (required) -
 * Website (required) -
-* Twitter profile -
-* Facebook profile -
+* Twitter -
+* Facebook -
 * Discord - 
 * Other social profiles -
 
