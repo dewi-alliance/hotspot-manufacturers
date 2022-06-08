@@ -11,17 +11,15 @@ We are dedicated to provide Light Hotspots,as well as quality services for custo
 We provide two stable and compact gateway prototypes.
 
 - GDO31x for outdoor light hotspots, Estimated Price: $499.99
-- GDI31x for  indoor light hotspots,Estimated Price: $199.99
 
 **Main Features:**
 
 - Concentrator based on the Semtech SX1302
-- Cortex-A53 CPU with 8G eMMC Flash and 512M DDR3 RAM in GDO31x and GDI31x
-- ECC608 encryption chip for storage of swarm keys and other important informations in GDO31x and GDI31x
-- Wi-Fi:  IEEE802.11a/b/g/n/ac , Ethernet Connectivity in GDO31x and GDI31x
-- Bluetooth: BT V4.1 EDR in GDO31x and GDI31x
-- Frequency band: 470MHz/868MHz/915MHz/923MHz and other in GDO31x and GDI31x
-- GDI31x comes in IP30 case, size:149 * 99 * 36mm
+- Cortex-A53 CPU with 8G eMMC Flash and 512M DDR3 RAM in GDO31x
+- ECC608 encryption chip for storage of swarm keys and other important informations in GDO31x
+- Wi-Fi:  IEEE802.11a/b/g/n/ac , Ethernet Connectivity in GDO31x
+- Bluetooth: BT V4.1 EDR in GDO31x
+- Frequency band: 470MHz/868MHz/915MHz/923MHz and other in GDO31x
 - GDO31x comes in IP67 case,size:221*182*75mm
 ## Previous shipments
 
@@ -52,11 +50,11 @@ We provide a one-year warranty period for our products, and the maintenance requ
 - We plan to provide configuration through WiFi, Bluetooth and web
 - We plan to provide OTA service platform to complete the update of hotspots software.
 - Concentrator based on the Semtech SX1302
-- Cortex-A53 CPU with 4G eMMC Flash and 512M DDR3 RAM in GDO31x and GDI31x
-- ECC608 encryption chip for storage of swarm keys and other important informations in GDO31x and GDI31x
-- Wi-Fi: RTL8821 IEEE802.11a/b/g/n/ac , Ethernet Connectivity in GDO31x and GDI31x
-- Bluetooth: BT V4.1 EDR in GDO31x and GDI31x
-- GPS Module: Surpport BDS/GPS/GLONASS ,
+- Cortex-A53 CPU with 4G eMMC Flash and 512M DDR3 RAM in GDO31x
+- ECC608 encryption chip for storage of swarm keys and other important informations in GDO31x
+- Wi-Fi: RTL8821 IEEE802.11a/b/g/n/ac , Ethernet Connectivity in GDO31x
+- Bluetooth: BT V4.1 EDR in GDO31x
+- GPS Module: Surpport BDS/GPS/GLONASS
 ## Manufacturing Information 
 - We have built and delivered radio hardware products before.
 - We have built gateways before.
