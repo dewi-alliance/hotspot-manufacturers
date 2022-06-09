@@ -1,21 +1,38 @@
-## COMPANY NAME
+## COMPANY 
 ![RadonTech Logo PNG-02](https://user-images.githubusercontent.com/1870084/172786288-61657078-2625-445a-9bad-43a7825559a9.png)
 
 ## Summary
 
-Radon Tech LLC is an iOT company with scope in LATAM and a global vision that identifies and understands the problems and needs of companies that rollout and deploy iOT to the field.
+Radon Tech LLC is an iOT company with scope in LATAM and a global vision that identifies and understands the problems and needs of companies that rollout and deploy iOT to the field. https://radon.tech/
 
 With a management vision, the company focuses on the creation of new functional, practical and -above all- innovative proposals that tackles the changing difficulties suffered by users to install, monitor and preserve iOT networks including Helium. Opens a new concept of highly customizable hotspots tailored to each user and industry.
 
-That is why on this occasion we present our good looking Hepox hotspot (helium-proof-of-coverage-survivor) for interiors and exteriors that offers facilities for its installation, applicable to all kinds of conditions, with a modular base and high design value that exhibits an innovative lighting system. The lightning system, including a protocol, the SAI Protocol (Status Activity Interface) aims to indicate activity and status of the hotspot at a glance from everywhere (even from and apps), allowing a friendly and practical monitoring of one or more hotspots. Lead to a manageable fleet of hotspots and nodes.   
 
-The company looks forward to meeting the demands of the alliance as well as those of the market, adding value towards a future of rapid impact in which it wants to be a part of. A presentation of the hotspot can be viewed in this [Powerpoint](https://docs.google.com/presentation/d/1PGD2hBF06nq39PM4XmMRUgcxdXaXyfJ8GPqEnIt6MMk/edit?usp=sharing) and illustrates such vision. 
+|  ![nnuevo render indoor 23 5 2022 5 1](https://user-images.githubusercontent.com/1870084/172808931-ec0c1944-1c2b-4201-bf20-958a31b04719.png)
+  |  ![render ciudad 2 25 5](https://user-images.githubusercontent.com/1870084/172811330-f3596086-c425-4aba-9f4a-8e474e1ba46a.png)
+  |
+  
+  Introducing our good looking **Hepox** hotspot (helium-proof-of-coverage-survivor) 
+
+
+For interiors and exteriors that offers facilities for its installation, applicable to all kinds of conditions, with a modular base and high design value that exhibits an innovative lighting system. The lightning system, including a protocol, the SAI Protocol (Status Activity Interface) aims to indicate activity and status of the hotspot at a glance from everywhere (even from and apps), allowing a friendly and practical monitoring of one or more hotspots. Leading to a manageable fleet of hotspots and nodes.   
+
+The company looks forward to meeting the demands of the alliance as well as those of the market, adding value towards a future of rapid impact in which it wants to be a part of. A [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQQVE71tqPRzlCLNVBvupa0GmCMbhp0_yZnhIwdgTNOtWRj_sBmHxv4vGZtpnnPqRicD8TKMfjKKKLP/pub?start=false&loop=false&delayms=3000&slide=id.g1279b8eb8d4_0_0) of the hotspot can illustrate such vision. 
 
 ## Company Information 
 
-Radon Tech was founded in 2021 by a network of partners with strong profiles in the industry who made their mining experiences with a Radon Network project. Like a heavy gas that falls to earth at every vertical iOT, Radon aims to work on the ground.
+Radon Tech was founded in 2021 by a network of partners with strong profiles in the industry who made their mining experiences with a 
+project. Like a heavy gas that falls to earth at every vertical iOT, Radon aims to work on the ground.
 
-Radon Tech's core team has a strong design, communications and hardware component, associated for this adventure with companies that make up the proposal such as Arsulta (satellite), Emwicon (production) and Elsys (sales channel) starting sales operations in Brazil, Argentina and LATAM. Conforming a robust R&D team capable of designing and manufacturing custom hardware from state-of-the-art electronics to futuristic and good-looking casing.
+
+
+Radon Tech's core team has a strong design, communications and hardware component, associated for this adventure with companies that make up the proposal such as  Emwicon https://www.emwicon.com/ (manufacturing Taiwan), Arsulta http://www.arsultra.com/ (satellites Argentina) and Elsys https://www.elsys.com.br/ (channel Brazil) starting sales operations in LATAM (Brazil and Argentina). Conforming a robust R&D team capable of designing and manufacturing custom hardware from state-of-the-art electronics to futuristic and good-looking casing.
+
+![elsys](https://user-images.githubusercontent.com/1870084/172818832-8814f9ed-7687-4ef5-ad3a-170a8832b8f2.png)
+
+|   ![cropped-emwicon-logo](https://user-images.githubusercontent.com/1870084/172818058-a3514648-7638-4181-b03e-372ada73caad.png)
+                     |![logo](https://user-images.githubusercontent.com/1870084/172818070-cfb71753-49f0-47a3-b81c-e90272094248.png) 
+  |   ![350a95271111f9ee0ca7fbff04b89915-1024x408](https://user-images.githubusercontent.com/1870084/172818048-8f1b2353-97f7-4d7f-98b3-8d05bd46a5f8.png)    | 
 
 Radon Tech LLC is a new venture with a senior and experienced team and partners that we co-develop including Emwicon company with 5 years of experience manufacturing iOT, LoraWan and Wifi products among others including: 
 
@@ -28,16 +45,27 @@ Radon Tech LLC is a new venture with a senior and experienced team and partners 
 
 An ATM network in the US from the financial sector brought us to Helium. 
 
-The intent of mining inside ATM’s led to the creation of the Radon Network project, our initial venture with mining. Oriented to B2B, it has served us as a massive laboratory for learning Helium goods and bads. Main reason why Radon Tech strategy is and will always be user based. The mining project's spearhead is a software program called Console that handles rewards for associates and users, allowing a true business environment.   
+The intent of mining inside ATM’s led to the creation of the Radon Network project https://radon.network, our initial venture with mining. Oriented to B2B, it has served us as a massive laboratory for learning Helium goods and bads. Main reason why Radon Tech strategy is and will always be user based. The mining project's spearhead is a software program called Console that handles rewards for associates and users, allowing a true business environment.   
+
+![RadonLogoCurvas](https://user-images.githubusercontent.com/1870084/172821412-4dc7dcf6-e9db-4cb4-96c4-cf6c2209fd5c.png)
 
 ## Product Information 
 
 Model: **HEPOX** (helium-proof-of-coverage-survivor), is an indoor/outdoor light hotspot designed to last. 
 
+![perfil con luces mas distiguidas](https://user-images.githubusercontent.com/1870084/172816503-20455509-9b4b-40ee-9c6d-df1604fe15a7.png)
+![ht perspectiva atras con base luces 25 5 1](https://user-images.githubusercontent.com/1870084/172824017-920c03f1-c715-41b2-a0dd-74c1c69f928c.png)
+
+
 Long-life, robust hotspot aimed for the community and professional sector and set it apart from other products for making life easier for those who work in the iOT industry and need to keep their services active and running 360 days a year. An outside of the box hotspot that can cope with all scenarios.  From setup, control to management our roadmap is focused on providing them infrastructure and services so that they can improve the quality of the service they provide.
 
 Approximate price point: **$400**  
 Expected production and delivery timeline: 100K in 12 months.
+
+![vistas nuevas luches para presentacion con soporte](https://user-images.githubusercontent.com/1870084/172812868-e0dfdc56-382e-4c75-9a43-275419ae8579.png)
+
+
+
 
 ## Previous shipments 
 
@@ -62,19 +90,18 @@ For at least 5 years, customer support will be handled via Discord, email, socia
 
 RMA (1% overproduction) level 1. Our repair center is located in Miami. Failure replacement via carrier. The customer sends it to us and we return it to them, in and out of warranty. Out of warranty we repair them and return them at the customer's cost.
 
-## Hardware Security Element (required)
+## Hardware Security Element
 
 * Are you using an ECC608. Yes or No? Yes
 * Encrypted/locked-down firmware. Yes or No? Yes
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No? Yes
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? Stacking & Coating
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? Yes
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No? Yes
 
 
-## Hardware Information
+## Hardware Information 
 
-* What are your plans for software setup and configuration for the devices?  
-
+* What are your plans for software setup and configuration for the devices? 
 Remote configuration takes place via the Maker App. Contemplates the standard configuration plus external lights and settings customization. Firmware updates will be done via the Maker app.
 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using? ECC608
@@ -148,11 +175,11 @@ USB ports The USB controller block provides high performance USB functionality t
 
 ## Manufacturing Information 
 
-Our partner manufacturer company Emwicon in Taiwan built and delivered radio hardware products as well as gateways, over 10 models.
+Our partner manufacturer company Emwicon https://www.emwicon.com/ in Taiwan built and delivered radio hardware products as well as gateways, over 10 models.
 
 * WiFi Gateway
 * BT Gateway
-* LTE Gateway
+* LTE Gateway 
 * WiSUN Gateway
 * RF(433) Gateway
 
@@ -206,4 +233,6 @@ https://discord.com/invite/swyCYxUzhg
 Linkedin: https://www.linkedin.com/company/radontech  
 Instagram: https://www.instagram.com/radon.technologies  
 Youtube: https://www.youtube.com/channel/UCG9mik51I5Q0th8ZTxL0c4w  
+
+
 
