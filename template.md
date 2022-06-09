@@ -7,12 +7,13 @@ Radon Tech LLC is an iOT company with scope in LATAM and a global vision that id
 
 With a management vision, the company focuses on the creation of new functional, practical and -above all- innovative proposals that tackles the changing difficulties suffered by users to install, monitor and preserve iOT networks including Helium. Opens a new concept of highly customizable hotspots tailored to each user and industry.
 
+  ### Introducing our good looking **Hepox** hotspot (helium-proof-of-coverage-survivor) 
 
 |  ![nnuevo render indoor 23 5 2022 5 1](https://user-images.githubusercontent.com/1870084/172808931-ec0c1944-1c2b-4201-bf20-958a31b04719.png)
   |  ![render ciudad 2 25 5](https://user-images.githubusercontent.com/1870084/172811330-f3596086-c425-4aba-9f4a-8e474e1ba46a.png)
   |
   
-  Introducing our good looking **Hepox** hotspot (helium-proof-of-coverage-survivor) 
+
 
 
 For interiors and exteriors that offers facilities for its installation, applicable to all kinds of conditions, with a modular base and high design value that exhibits an innovative lighting system. The lightning system, including a protocol, the SAI Protocol (Status Activity Interface) aims to indicate activity and status of the hotspot at a glance from everywhere (even from and apps), allowing a friendly and practical monitoring of one or more hotspots. Leading to a manageable fleet of hotspots and nodes.   
@@ -22,7 +23,7 @@ The company looks forward to meeting the demands of the alliance as well as thos
 ## Company Information 
 
 Radon Tech was founded in 2021 by a network of partners with strong profiles in the industry who made their mining experiences with a 
-project. Like a heavy gas that falls to earth at every vertical iOT, Radon aims to work on the ground.
+project. Like a heavy gas that falls to earth at every vertical IoT, Radon aims to work on the ground.
 
 
 
@@ -30,9 +31,7 @@ Radon Tech's core team has a strong design, communications and hardware componen
 
 ![elsys](https://user-images.githubusercontent.com/1870084/172818832-8814f9ed-7687-4ef5-ad3a-170a8832b8f2.png)
 
-|   ![cropped-emwicon-logo](https://user-images.githubusercontent.com/1870084/172818058-a3514648-7638-4181-b03e-372ada73caad.png)
-                     |![logo](https://user-images.githubusercontent.com/1870084/172818070-cfb71753-49f0-47a3-b81c-e90272094248.png) 
-  |   ![350a95271111f9ee0ca7fbff04b89915-1024x408](https://user-images.githubusercontent.com/1870084/172818048-8f1b2353-97f7-4d7f-98b3-8d05bd46a5f8.png)    | 
+| [![cropped-emwicon-logo](https://user-images.githubusercontent.com/1870084/172818058-a3514648-7638-4181-b03e-372ada73caad.png)]( https://www.emwicon.com)|[![logo](https://user-images.githubusercontent.com/1870084/172818070-cfb71753-49f0-47a3-b81c-e90272094248.png)](http://www.arsultra.com)|[![350a95271111f9ee0ca7fbff04b89915-1024x408](https://user-images.githubusercontent.com/1870084/172818048-8f1b2353-97f7-4d7f-98b3-8d05bd46a5f8.png)](https://www.elsys.com.br)| 
 
 Radon Tech LLC is a new venture with a senior and experienced team and partners that we co-develop including Emwicon company with 5 years of experience manufacturing iOT, LoraWan and Wifi products among others including: 
 
@@ -45,9 +44,10 @@ Radon Tech LLC is a new venture with a senior and experienced team and partners 
 
 An ATM network in the US from the financial sector brought us to Helium. 
 
-The intent of mining inside ATM’s led to the creation of the Radon Network project https://radon.network, our initial venture with mining. Oriented to B2B, it has served us as a massive laboratory for learning Helium goods and bads. Main reason why Radon Tech strategy is and will always be user based. The mining project's spearhead is a software program called Console that handles rewards for associates and users, allowing a true business environment.   
+The intent of mining inside ATM’s led to the creation of the Radon Network project https://radon.network, our initial venture with mining. Oriented to B2B, it has served us as a massive laboratory for learning Helium goods and bads. Main reason why Radon Tech strategy is and will always be user based. The mining project's spearhead is a software program called Console that handles rewards for associates and users, allowing a true business environment.  
 
-![RadonLogoCurvas](https://user-images.githubusercontent.com/1870084/172821412-4dc7dcf6-e9db-4cb4-96c4-cf6c2209fd5c.png)
+[![RadonLogoCurvas](https://user-images.githubusercontent.com/1870084/172821412-4dc7dcf6-e9db-4cb4-96c4-cf6c2209fd5c.png)](https://radon.network)
+
 
 ## Product Information 
 
@@ -64,7 +64,20 @@ Expected production and delivery timeline: 100K in 12 months.
 
 ![vistas nuevas luches para presentacion con soporte](https://user-images.githubusercontent.com/1870084/172812868-e0dfdc56-382e-4c75-9a43-275419ae8579.png)
 
+### Modular design
 
+Hepox is designed to be modular in several ways. From the point of view of the installation, it can be placed in various contexts and scenarios. Its base makes it versatile, it can be applied to a square or round spout, by or on a wall and with the absence of the base for an indoor state.
+
+![base sola persp 1 25 5 1](https://user-images.githubusercontent.com/1870084/172923736-88926393-61ee-4db6-b85c-30e5beef7816.png)
+![render montaña 2](https://user-images.githubusercontent.com/1870084/172924162-092e1158-55a9-4da4-8714-fb0b0395a4e5.png)
+![render ciudad 3 25 5](https://user-images.githubusercontent.com/1870084/172924315-95a99660-3e3d-472e-830c-234069898e15.png)
+
+Likewise, the connector panel for buttons, SIM and cable is also modular, being able to expand or modify the number of connectors. The carrier plate can also be modified in case of expanding the connectors.
+
+![ht dtella placa atras 1 25 5 1](https://user-images.githubusercontent.com/1870084/172927467-42d6cf24-5717-4bc4-82b5-ca55ceb5db87.png)
+![perspectiva con luces mas definidas](https://user-images.githubusercontent.com/1870084/172927702-272423ff-cf0e-4e1d-8c76-6e0697c60312.png)
+
+In terms of design the modularity also respects the faceted lines that are linked to technology, satellital, spacial. Samwise the lights are linked to crypto. All the aesthetics and beauty of the hotspot is designed to be desirable, attractive and to transmit values to robustness, confidence and power. Aimed at a user who consumes state of the art products and who is in love with their devices.
 
 
 ## Previous shipments 
@@ -183,7 +196,7 @@ Our partner manufacturer company Emwicon https://www.emwicon.com/ in Taiwan buil
 * WiSUN Gateway
 * RF(433) Gateway
 
-Besides, also built iOT and communication devices like wifi, sensors for Industrial and commercial applications.
+Besides, also built IoT and communication devices like wifi, sensors for Industrial and commercial applications.
 Emwicon is located in Taiwan that has become a strategic place for manufacturing due due to the situation that the post-pandemic world is going through and the Ukraine-Russia war, the importance of alignment with a supply chain that is aligned with the interests of the US and its allies, Taiwan plays an important role in the technological part, that is why the decision to manufacture it in Taiwan or Southeast Asia tomorrow. Therefore, the company is sourcing components from Taiwan and American accounts for 80%.
 
 Emwicon has self-development capabilities of radio module, cooperative chip manufacturers: Realtek , Atheros , Qualcomm , WiSun , NXP, etc. Customer requests like Raspberry Pi , ESP, etc.
