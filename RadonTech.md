@@ -10,12 +10,8 @@ With a management vision, the company focuses on the creation of new functional,
   ### Introducing our good looking **Hepox** hotspot (helium-proof-of-coverage-survivor) 
 
 |  ![nnuevo render indoor 23 5 2022 5 1](https://user-images.githubusercontent.com/1870084/172808931-ec0c1944-1c2b-4201-bf20-958a31b04719.png)
-  |  ![render ciudad 2 25 5](https://user-images.githubusercontent.com/1870084/172811330-f3596086-c425-4aba-9f4a-8e474e1ba46a.png)
-  |
+  |  ![render ciudad 2 25 5](https://user-images.githubusercontent.com/1870084/172811330-f3596086-c425-4aba-9f4a-8e474e1ba46a.png)|
   
-
-
-
 For interiors and exteriors that offers facilities for its installation, applicable to all kinds of conditions, with a modular base and high design value that exhibits an innovative lighting system. The lightning system, including a protocol, the SAI Protocol (Status Activity Interface) aims to indicate activity and status of the hotspot at a glance from everywhere (even from and apps), allowing a friendly and practical monitoring of one or more hotspots. Leading to a manageable fleet of hotspots and nodes.   
 
 The company looks forward to meeting the demands of the alliance as well as those of the market, adding value towards a future of rapid impact in which it wants to be a part of. A [presentation](https://docs.google.com/presentation/d/e/2PACX-1vQQVE71tqPRzlCLNVBvupa0GmCMbhp0_yZnhIwdgTNOtWRj_sBmHxv4vGZtpnnPqRicD8TKMfjKKKLP/pub?start=false&loop=false&delayms=3000&slide=id.g1279b8eb8d4_0_0) of the hotspot can illustrate such vision. 
