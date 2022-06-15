@@ -63,6 +63,9 @@ We will handle customer service requests via Email and Discord vendor channels, 
 * Encrypted buses, potting and other anti-tampering measures. - Yes
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) - Yes 
 
+We will protect the data by encrypt and store the swarm_key on ECC608 chips. 
+Additionally, the gateway's OTA activity can only take place over secured SSL communication.
+
 ## Hardware Information (required)
 
 * Which security implementation (ECC608, TPM, TrustZone, other) are you using?  -  ECC608
