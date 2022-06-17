@@ -2,7 +2,7 @@
 
 <!-- ![image](https://akecloud.com/akelogo.png) -->
 <img src="https://akecloud.com/akelogo.png" width="300">
-
+<img src="https://akecloud.com/assets/images/helium_logo.png" width="300">
 
 Application to become an approved third party manufacturer as per HIP19.
 ## Summary
@@ -19,16 +19,15 @@ We want to concentrate our productions on the blockchain field. We think that th
 our experience.
 
 ## Product Information
-We are planning to use 64-bit A64 allwinner processor based board on product. The board is our custom design and amenable to changes. 
-Besides this board has wifi, BT and ethernet capacity. We are using Linux OS for development and we are developing our custom kernel.
+We are planning to use 64-bit H6 allwinner processor based board on product. Besides this board has wifi, BT and ethernet capacity. We are using Linux OS for development and we are developing our custom kernel.
 We have our custom server for updating and controlling. We able to provide CMS-1 (customer manager system) and CMS-2 (content manager system) so the customers can change their product settings online.
 
 * Is this is Light Hotspot or Full Hotspot? \
-We are planning to produce Full Hotspot.
+We are planning to produce Light Hotspot.
 * Is it for indoor or outdoor? \
 Both, we are going to offer two choices one for outdoor one for indoor.
 * Provide a brief description of what you're making. \
-We are going to produce 64-bit full hotspot. The board will have 2 GB ram and linux OS. We are planning to combine the customizable board with LORA SX1302. For the security option we are going to use ECC608 crypto chip and linux crypto options. 
+We are going to produce 64-bit light hotspot. The board will have 2 GB ram and linux OS. We are planning to combine the customizable board with LORA SX1302. For the security option we are going to use ECC608 crypto chip and linux crypto options. 
 
 ## price point
   indoor, Ethernet/Wifi — $450\
@@ -40,9 +39,9 @@ project and desired product professionally so we are open to contact for talk ab
 
 <table>
   <tr>
-    <td valign="top"><img src="https://akecloud.com/assets/images/modem1.jpg"/></td>
-    <td valign="top"><img src="https://akecloud.com/assets/images/img1.jpg"/></td>
-    <td valign="top"><img src="https://akecloud.com/assets/images/img2.jpg"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v14.png"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v15.png"/></td>
+    <td valign="top"><img src="https://akecloud.com/assets/images/Montaj v16.png"/></td>
   </tr>
 </table>
 
@@ -72,14 +71,13 @@ We will use the warranty tag for the material.
 Yes.
 
 ## Hardware Information
-<img src="https://akecloud.com/Ake_lora_rak.jpg" width="300">
 * Please let us know:
 
 * Which security (swarm) element are you using? \
 We are going to use ECC608 crypto chip. For security we open any offer and suggestions. Any changes can be made at any time. We develop all our products in every field. These areas are electronics, web software, android/ios applications or embedded systems. In other words, we are open to developing together by communicating.
 * Which LoRa chipset are you planning to use in your gateway (ie SX1302/03 & SX1250s or SX1301/08 & SX1255/57) 
 We recommend you don't use the SX1301 in new designs \
-We are planing to use SX1302  
+We are planing to use SX1302.  
 * Where are you sourcing your components from? \
 We have many suppliers in China and we can purchase from European and Asian countries. We have not had any problems with supply so far.
 * How many radio modules/ concentrators can you procure? \
@@ -124,6 +122,7 @@ Chip crisis is most powerful risk and challenge for us but we are going to solve
 * Facebook profile - https://www.facebook.com/aketroniks/
 * Other social profiles - https://tr.linkedin.com/company/aketroniks-electronic-systems
 * Website - https://aketroniks.com.tr/en
+* Hotspot website - http://www.helloheliumminer.com/index.html
 
 ## Payment methods available 
 https://otomasyoncum.com.tr/ - PayTR
