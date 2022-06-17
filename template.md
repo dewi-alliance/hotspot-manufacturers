@@ -75,11 +75,11 @@ Please tell us about some of the challenges that would prevent these products fr
 ## Payment methods available (required):
 
 ## Other information (if you do not provide contact information we cannot review your proposal)
-## Contact Info: 
+## Contact Information 
 * Contact Email (required) -
 * Website (required) -
 * Twitter -
 * Facebook -
 * Discord - 
-* Other social profiles -
+* Other social profiles / websites -
 
