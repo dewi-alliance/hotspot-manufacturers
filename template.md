@@ -1,11 +1,11 @@
 ## Please copy this template.md (do not edit the template directly)
 ## COMPANY NAME
 
-Application to become an approved third party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
+Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
 ## Summary
 
 ## Company Information (required)
-* What is your company name?
+* What is the company name?
 * How long has the company been in business? 
 * What kind of products have you created? (list specific products, include links if possible)
 * How many have you sold? 
@@ -13,7 +13,7 @@ Application to become an approved third party manufacturer as per HIP19. The sub
 
 ## Product Information (required)
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
-* Is this is a Light Hotspot or a 5G Hotspot? (Due to the time required for the HIP19 process, new applications should be for Light Hotspots or 5G Hotspots)
+* Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
 * Provide a brief description of the product:
 * 
