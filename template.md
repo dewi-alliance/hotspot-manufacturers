@@ -2,7 +2,7 @@
 ## COMPANY NAME
 
 Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
-## Summary
+## Summary:
 
 ## Company Information (required)
 * What is the company name?
