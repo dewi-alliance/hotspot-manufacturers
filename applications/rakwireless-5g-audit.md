@@ -145,4 +145,39 @@ More than 400k
 
 NA
 
- 
+## Budget & Capital
+
+##### How many hotspots are you planning to manufacture and sell within the first six months of sales?  
+
+We are planning to upgrade the existing MNTD & RAk Hotspot Miner V2 hotspots to support 5G. Users only need to purchase an upgrade kit and 5G radios. We plan to produce 10k radios and 20k upgrade kits in the first six months.
+
+##### How much money will be required up-front? How much money do you have on-hand, and how much do you have access to?
+
+We estimated we need around 10 million USD up-front. We have enough capital in hand.
+
+##### What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.)
+
+We are backed by a leading venture company: Shunwei Capital and Cero Capital. We also are the leading IoT tech company in China and we have a strong finance system to manage the cash flow and supply chain.
+
+## Risks & Challenges
+
+The risks are:
+
+1. How long the certification will take. Marketing requires to have an upgrade solution available as soon as possible.
+2. Since HIP 53 is not approved, we are still waiting for implementation guidance to support 5G-related Oracle and service settlement.
+
+## Payment methods available
+
+Most credit cards including Visa, Mastercard, AMEX, Apple Pay, JCB, AliPay, UnionPay, Wechat Pay
+
+## Contact Information 
+
+* Contact Email (required) - reagan.he@rakwireless.com
+* Website (required) - [RAKwireless](https://www.rakwireless.com) and [MNTD.](https://www.getmntd.com)
+* Twitter - [RAKwireless](https://twitter.com/RAKwireless) and [MNTD.](https://twitter.com/getmntd_)
+* Facebook - [RAKwirelessIoT](https://www.facebook.com/RAKwirelessIoT) and [GetMNTD](https://www.facebook.com/GetMNTD)
+* Discord - [RAKstars Discord](https://discord.com/invite/GXEsyv2fkR) and [MNTD. Goldspot Discord](https://discord.com/invite/vk85Y7Qp3c)
+* LinkedIn: [RAKwireless](https://www.linkedin.com/company/rakwireless/) and [MNTD.](https://www.linkedin.com/company/getmntd/)
+* Instagram: [RAKwireless](https://www.instagram.com/rak_wireless/) and [MNTD.](https://www.instagram.com/getmntd_/)
+* Other social profiles / websites -  [Pinterest](https://www.pinterest.com/rakwireless/), [YouTube](https://www.youtube.com/c/RAKwireless)
+
