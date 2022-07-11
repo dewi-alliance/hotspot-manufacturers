@@ -12,7 +12,7 @@ Radair Services Inc.
 In Business since 2021
 4G LTE mPCI Smart Communications Module, Currently in Production of Gateways.
 None, used for enterprise deployments, will be selling retail.
-Radair Has been partnered with Helium since inception.  We have purchased over 1,600 Helium gateways and work closely with Helium partners such as Calchip, Semtech, and Microchip Technologies.   Our product solutions are extremely complementary to the Helium network.   We intend to leverage the Helium network that we help to build to deliver enterprise level IoT solutions in the commercial space.
+Radair Has been partnered with Helium since inception.  We have purchased over 1,600 Helium gateways and work closely with Helium partners such as Calchip, Semtech, Seeed, and Microchip Technologies.   Our product solutions are extremely complementary to the Helium network.   We intend to leverage the Helium network that we help to build to deliver enterprise level IoT solutions in the commercial space.
  
 ## Product Information
  
@@ -41,7 +41,7 @@ Radair has an in-house engineering team, and plans to inventory 10% of its stock
  
 ## Hardware Security Element
  
-We are using ATECC608B Security Element.
+We are using ATECC608B Security Element embedded on the circuit board and non-removable
 Yes, Encrypted/locked-down firmware with available OTA security updates via Radair, using a proprietary onboard multi-factor communication mechanism.
 Yes, Encrypted storage of the miner swarm_key either via disk encryption or hardware measures.
 Yes, Encrypted buses, potting and other anti-tampering measures.  Our solution adds an extra layer through multi-factor authentication.
@@ -56,9 +56,9 @@ Devices have a level of pre-provisioning with software setup and configuration f
  
 Using ECC608B TPM Used along with Multi-Factor Authentication
 Semtech SX1302/3 with SX1250 (2) and SX1262.
-Quad Core A53 1.6Ghz 64Bit
-1 to 4GB of LPDDR4 Memory.
-WiFi, BLE 5.3 , GPS / GNSS.
+Quad Core ARM64 A55 1.6Ghz 64Bit
+4GB-16GB of LPDDR4 / EMMC Memory.
+WiFi, BLE 5.0+ , GPS / GNSS.
 4 in 1 Sensor on Board.
 Skyworks FEM SKY66423-11
  
