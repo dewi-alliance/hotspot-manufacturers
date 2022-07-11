@@ -57,7 +57,7 @@ Using balenaCloud ensures that the devices have frequent updates while ensuring 
 
 The units will also interact with the [Nebra Dashboard](https://dashboard.nebra.com) for remote management.
 
-5G capability will come via a firmware update currently planned for Q3 2022.
+5G capability will come via a firmware update currently planned for Q3 2022, in partnership with FreedomFi.
 
 ## Customer Support
 
