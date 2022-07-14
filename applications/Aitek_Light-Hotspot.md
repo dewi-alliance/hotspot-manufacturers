@@ -9,19 +9,13 @@ Aitek Inc, founded in Dedham, Massachusetts, is a company with a compound busine
 
 ## Product Information
 
-This document are for light Hotspots which Aitek is going to make.
-
 Aitek Miner Light hotspot is a LoRa gateway device for the Helium network. We make both Full hotspot and Light hotspot gateway(under R&D), and this is the application and specification of Aitek Miner Light hotspot:
 
 For software applications, we have developed a customized Linux system for this project to ensure that the application can run stably, and as an added customized security strategy. The system integrates with a mature online upgrade program, which can ensure system upgrading while operating stably.
 
 ### What is this product's model name or model number?
-Aitek Hardware Specs for Helium Audit for Aitek light spot application
-
-#### AML-300: indoor Light Hotspot Version
-
-* What is this product's model name or model number?  
 AML-300
+
 * Is this a Light Hotspot or Full Hotspot?  
 Light hotspot
 * Is it for indoor or outdoor use?  
@@ -35,13 +29,13 @@ https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/applications/ai
 Upon approval, the first batch of delivery will be available in about 1 months.
 
 ## Previous shipments
-* Have you shipped anything in the past?  
-No.
-* Which countries have you previously shipped regulatory FCC or CE approved products?  
-Fully hotspot FCC certified, CE certification WIP
+* Have you shipped anything in the past?  Yes,our Helium Fullspots.
+* Which countries have you previously shipped regulatory FCC or CE approved products?
+  FCC and CE for Full Hotspots.
 
-* Which countries do you plan to ship to?  
-* We plan to ship this model through our global distribute channels. It covers every country.
+## Which countries do you plan to ship to and get regulatory certifications for?
+
+* The radio certificates we are getting is FCC/CE/IC/Nemko/UKCA/WPC.
 
 ## Customer Support
 
@@ -57,29 +51,41 @@ The community is concerned about devices that can be easily hacked, specifically
 * Are you using an ECC608  
 Yes
 * Encrypted/locked-down firmware. Yes or no?  
-Yes
+Yes we use encrypted chip of ECC608.
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?  
-Yes
+Yes.
 * Encrypted buses, potting and other anti-tampering measures.  
-Yes
+Yes, ECC608 act as encrypted buses with anti-tampering function. We use a customized Linux system as the gateway system, and Linux itself is very secure. Except with ECC608, we also added some additional protections to the system, such as system application encryption, system anti-backflow, and other measurements.
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?  
 Yes
 
 
-## Hardware Information
+## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 
+* Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better.
 
-* Which security (swarm) element are you using?  
-ECC508/ECC608
+* What are your plans for software setup and configuration for the devices? This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
 
-* Which LoRa chipset are you planning to use in your gateway.  
-SX1302 & SX1250
+  All OTA updates are automatic and require no manual action by the host. The host is able to change wifi settings.
 
-* Where are you sourcing your components from?  
-We source components from Semtech distributors in China.
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
 
-* How many radio modules/ concentrators can you procure?  
-US915/EU868/AU915/AS923/CN470
+  We use ECC608.
+
+* Which LoRa chipset are you planning to use in your gateway?
+
+  We use SX1302 & SX1250 for the LoRa Modules.
+
+* What is the CPU? 
+
+  Our CPU is Quad-core Cortex-A55.
+
+* Additional Hardware Specifications:
+
+![CPU](https://user-images.githubusercontent.com/93962690/178642618-5c12f11b-bd99-47c6-a591-9247e840f2bb.jpg)
+
+![Screenshot 2022-07-12 231118](https://user-images.githubusercontent.com/93962690/178642731-9b3c1e0d-7b13-4245-b519-7ae29123d054.jpg)
+
 
 
 ## Manufacturing Information
@@ -98,16 +104,11 @@ In order to continue our production with our robust supply chain for Helium mine
 
 *  Contact Email  - info@aiteks.com
 *  Website (required) - www.aiteks.com
-*  Twitter profile - https://twitter.com/AitekInc
 *  Linkedin profile - https://www.linkedin.com/company/aitekinc
 *  Twitter: https://twitter.com/AitekInc
 *  Discord channel: https://discord.gg/nrVjTE9vBp
 
 * Payment methods available. 
-Most credit cards including Visa, Mastercard, AMEX and Disscover, Paypal
+Coinbase and Paypal
 * Regions covered / shipped to. 
-USA, Canada (Distribution to other regions will follow after USA supply is met)
-
-## Which countries do you plan to ship to and get regulatory certifications for?
-
-We plan to ship this model to most countries.
+USA, EU (Distribution to other regions will follow after USA supply is met)
