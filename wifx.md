@@ -2,7 +2,7 @@
 
 ## Summary
 
-Wifx is a Swiss network services provider. Active in the IoT and LoRaWAN market since 2017 with the LORIX One gateway, it wants to extend the usage of its new WIfx L1 gateway to the Helium network.
+Wifx is a Swiss network services provider. Active in the IoT and LoRaWAN market since 2017 with the LORIX One gateway, it wants to extend the usage of its new Wifx L1 gateway to the Helium network.
 
 ## Company Information
 
