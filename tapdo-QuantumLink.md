@@ -1,7 +1,8 @@
 ## tapdo technologies GmbH
 
 
-Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
+Application to become an approved third-party manufacturer as per HIP19. 
+
 ## Summary:
 The QuantumLink is a LoRaWAN Helium hotspot developed bei tapdo technologies.  
 
@@ -33,12 +34,8 @@ For this reason, we have hired a professional store manager with several years o
 At the beginning, we plan to sell in the European market starting with Germany, Austria and Switzerland. The mandatory CE marking for this is intended. An opening for further markets is being planned, but is not quite concrete yet.
 
 ## Customer Support (required)
-Support is available via Discord, email, website and telephone (8h/day). 
-
-* How will your customers be able to contact you for support for this products? 
-* How long will the company provide customer support? 
-* How are you planning to handle repairs and replacements? 
-
+Support is available via Discord, email, website and telephone (8h/day). There are no plans to end the support to a certain time. We offer repairs within the scope of the legal warranty of 2 years. 
+Even if the hotspot is once no longer supported by us, it should be easily repairable by the user in most cases. In terms of sustainability, all parts in the hotspot are easily accessible. The modular design with the Raspberry Pi Compute Module and the Concentrator Card allow a simple replacement of defective components.  
 
 ## Hardware Security Element (required)
 
@@ -122,7 +119,7 @@ Risks lie in the availability of individual components (chip crisis). Supply is 
 
 ## Contact Information 
 * Contact Email: [info@tapdo.io](mailto:info@tapdo.io)
-* Website: (https://tapdo.io/)
+* Website: https://tapdo.io/
 
 
 
