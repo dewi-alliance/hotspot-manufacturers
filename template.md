@@ -16,7 +16,6 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
 * Provide a brief description of the product:
-* 
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
 
@@ -56,13 +55,13 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
 * Have you built gateways before? 
-* How many gateways did you make? 
+* How many gateway units did you make? 
 * If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
 
 ## Proof of Identity
-Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
+Per typical KYC/AML procedures, proof of identity for major shareholders ($\geq 25\,\%$ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
 
 ## Budget & Capital (required)
 * How many hotspots are you planning to manufacture and sell within the first six months of sales? 
