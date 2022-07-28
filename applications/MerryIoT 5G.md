@@ -35,6 +35,22 @@ Additionally our engineers and technicians span the globe, thus we can cover mul
 ## Hardware Security Element
 Currently we use TPM 2.0 in 5G gateway, and key is securely provisioned during manufacturing. TPM is the common, broadly used standard for storing security keys in x86 based hardware, and we'd like to extend security options for Helium ecosystem.
 
+What is the key's security model?
+
+We are using SLB9665 from infineon, datasheet available in merryiot folder.
+
+How/where is the key generated?
+
+Key is generated inside the TPM chip using CreateKey command. Then it's encrypted with Primary TPM key which is unique for each TMP and is regenerated each time you reset the TPM chip. Then this encrypted blob is stored on external media. It is then possible to use generated key only inside this TPM module. Prior to use TPM loads it inside itself and decrypts. Decrypted key never leaves TPM chip.
+
+What guarantees do we have about the key being extracted?
+
+Primary key is unique for each TPM module, making it impossible to use blob with key on any other TPM module. The very purpose of TPM chip is to provide hardware based mechanism for securely storing the keys inside of the chip without the possibility of extraction. Impossibility of extraction is guaranteed by TPM spec. However user can either reset the whole TPM chip effectively erasing all the keys or remove individual keys using TPM commands directly.
+
+What are your plans for software integration with Full Hotspot (miner) and Light Hotspot (gateway-rs) codebases?
+
+MerryIoT HotSpot is curretnly running as a full hotspot. We'll update the light hotspot image according to Helium's plan.
+
 ## Hardware Information Please provide detailed hardware designs, including relevant parts.
 
 1. CPU: ATOM E3950
