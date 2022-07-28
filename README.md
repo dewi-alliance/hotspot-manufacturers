@@ -55,5 +55,5 @@ We recommend getting into the Helium community discord as soon as possible and j
  If you’ve completed all the above steps and been available in the community discord chat to answer questions, you should have no concerns about receiving MCC approval. 
 
 ## Pre-Orders
- At this point, after MCC approval, you are in the best position to take pre-orders as you see fit.
+ Once the HIP19 application has been MCC approved, you are in the best position to take pre-orders as you see fit. <b>Pre-orders before MCC approval will result in a minimum 6-month suspension, and may result in your HIP19 application being denied.</b>
  A wait-list is permitted if you are not collecting payments.
