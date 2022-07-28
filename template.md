@@ -77,7 +77,7 @@ Please tell us about some of the challenges that would prevent these products fr
 
 ## Contact Information 
 <b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 will be automatically denied.</b>
-* Contact Email (required) -
+* Contact Email (a company email is required) -
 * Website (required) -
 * Twitter -
 * Facebook -
