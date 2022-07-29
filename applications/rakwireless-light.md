@@ -34,6 +34,10 @@ We are an industry-leading full stack infrastructure and solution provider for w
 
   For this new product RAK leverages its experience in producing commercial gateways to design both indoor and outdoor Light Hotspots. 
 
+  Indoor Light Hotspot: RAK7268V2H,RAK7268CV2H.
+
+  Outdoor Light Hotspot: RAK7289V2H,RAK7289CV2H.
+
 - Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 
   Light Hotspot.
@@ -52,7 +56,7 @@ We are an industry-leading full stack infrastructure and solution provider for w
 
 - What is your approximate price point?
 
-  The Light Hotspot price will arrive ate lower price point than the current Full Hotspot due to lower processing (CPU) and storage requirements.
+  The Light Hotspot price will arrive at lower price point than the current Full Hotspot due to lower processing (CPU) and storage requirements.
 
   We expect the Indoor Light Hotspot will retail for US$199 and the Outdoor Light Hotspot will retail about US$599.
 
@@ -193,7 +197,7 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Risks & Challenges 
 
-We want to simple the payment process after user install the Light Hotspot exntensio, it need UX test and feedback for solution optimization, but we have two payment solution for it, we can adopt one after collection more feedback. 
+We want to simple the payment process, it needs UX test and feedback for solution optimization, but we have two payment solution for it, we can adopt one after collection more feedback. 
 
 ## Payment methods available:
 
