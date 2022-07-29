@@ -2,7 +2,7 @@
 
 <img src="https://www.linxdot.com/images/logo-linxdot.png" alt="Linxdot logo" width=250 />
   
-Application for versions of the Linxdot light hotspots LD-500, LD-550, LD-555 as per HIP19
+Application for versions of the Linxdot light hotspots LD-500, LD-550 as per HIP19
   
 
 ## Summary
@@ -54,27 +54,6 @@ Estimated price point of Linxdot outdoor light hotspot is £430 / $600 (ex VAT)
 The device is updated automatically over the air, and it is simple to deploy and manage using the Linxdot Android & iOS app.
 
 <img src="https://www.linxdot.com/wp-content/uploads/2022/05/B97A5607.jpg" alt="Linxdot Light Hotspot Outdoor" width=222 /> <img src="https://www.linxdot.com/wp-content/uploads/2022/05/B97A5609.jpg" alt="Linxdot Light Hotspot Outdoor 2" width=500 />
-
-
-## Linxdot Helium Miner LD-555 (Outdoor) Specifications:
-
-  *   Mediatek Chipset
-  *   1GB RAM
-  *   8GB eMMC Storage
-  *   Concentrator based on SX1302
-  *   Supported Bands: RU864, IN865, EU868, US915, AU915, KR920, AS923
-  *   Bluetooth 5.0, BLE
-  *   802.11 b/g/n/ac WiFi
-  *   1Gbps Ethernet 
-  *   Powered by 12V DC or optional POE components included
-  *   Enterprise designed & IP67 rated
-  *   4G sim-card based modem 
-
-Estimated price point of Linxdot outdoor light hotspot is £430 / $600 (ex VAT)
-
-The device is updated automatically over the air, and it is simple to deploy and manage using the Helium Android & iOS app.
-
-<img src="https://www.linxdot.com/wp-content/uploads/2022/05/B97A5610.jpg" alt="Linxdot Light Hotspot Outdoor - Mediatek Board" width=500 />
 
 
 ## Timelines
