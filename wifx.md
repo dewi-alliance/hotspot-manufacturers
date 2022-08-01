@@ -2,7 +2,7 @@
 
 ## Summary
 
-Wifx is a Swiss network services provider. Active in the IoT and LoRaWAN market since 2017 with the LORIX One gateway, it wants to extend the usage of its new Wifx L1 gateway to the Helium network.
+Wifx is a Swiss network services provider. Active in the IoT and LoRaWAN market since 2017 with the LORIX One gateway, it wants to extend the usage of its new Wifx L1 gateway to the Helium network as existing and new custommers have increasing interrest in it.
 
 ## Company Information
 
@@ -12,7 +12,36 @@ Details available on https://iot.wifx.net/.
 
 ## Product Information
 
-The Wifx L1 is intended to work as a light hotspot for indoor and especially outdoor use. The product is declined in two hardware variants : 8XX version for 863-870 MHz band and 9XX version for 902-928 MHz band.
+The Wifx L1 is intended to work as a light hotspot for indoor and especially outdoor use. The product is declined in two hardware variants : 8XX variant  and 9XX variant.
+
+### 8XX version for 863-870 MHz band
+
+Compatible with LoRaWAN® regions:
+
+- EU868
+- IN865
+- RU864
+
+RF specification:
+
+- SX1302 with SF5-SF6 support
+- RX sensitivity: -136 dBm (SF12BW125)
+- TX power: 27 dBm
+
+### 9XX version for 902-928 MHz band
+
+Compatible with LoRaWAN® regions:
+
+- AS920
+- AS923
+- AU915 (Subband 1-8)
+- US915 (Subband 1-8)
+
+RF specification:
+
+- SX1302 with SF5-SF6 support
+- RX sensitivity: -136 dBm (SF12BW125)
+- TX power: 27 dBm
 
 With more features and a lower power consumption than the LORIX One, this compact and robust LoRaWAN® base station (gateway) is ideal for all your deployment projects, simple or complex. Its practical size makes it easy to install anywhere, and its thoughtful design and quality materials make it robust and resistant to the most aggressive environments. The embedded software is reliable, secure and intuitive to use via its modern and clear web interface.
 
