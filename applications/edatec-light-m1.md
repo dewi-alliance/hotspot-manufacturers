@@ -32,7 +32,7 @@ Thanks to more than 4 years' experience in developing IoT market and intensive e
 
 **Product Type:** Light Hotspot
 
-**Expected Release Date:** Q2 2022
+**Expected Release Date:** Q3 2022
 
 EDA-IoT Light Hotspot M1 is a new Indoor Light Hotspot. It is based on 580MHz MIPS processor and Semtech SX1302 LoRa concentrator chip-set. The LoRaWAN frequencies we are planning to support are EU868 and US915. The product will be certified by FCC & CE and other regulation in specific countries.
 
@@ -42,14 +42,15 @@ It is a highly reliable, easy to use, indoor light hotspot for the Helium networ
 
 * Concentrator based on the Semtech SX1302, Support EU868 and US915 LoRaWAN frequencies
 * 580MHz MIPS processor
-* 128MB DDR
-* 16MB Flash
+* 128MB or 256MB DDR
+* 16MB or 32MB Flash
 * Fast Ethernet and 2.4G Wi-Fi networks
-* Bluetooth 4.1 for Gateway configuration with Andorid / iOS App
+* Bluetooth 5.1 for Gateway configuration with Andorid / iOS App
 * Built-in ATECC608 security chip
 * OTA support
 * 12V DC Power in
-* Dimension: 110mm(L) x 90mm(W) * 25mm(H)
+* Support Powered over PoE
+* Dimension: 117mm(L) x 107mm(W) * 26mm(H)
 * CE, FCC Certified
 
 ## What is your approximate price point?
@@ -58,7 +59,7 @@ The approximate price point is arround 199 USD.
 
 ## What is your expected production and delivery timeline?
 
-We expected to start the production in Q2-2022 and start to deliver the frist batch in May-2021
+We expected to start the production in Q3-2022 and start to deliver the frist batch in Sep-2022
 
 ## Previous shipments
 
