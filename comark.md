@@ -61,9 +61,9 @@ Since this is pilot run for internal use, we expect the support requirement will
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email Dewi (christina@dewi.org).
 * Are you using an ECC608. Yes or no?  Yes
-* Encrypted/locked-down firmware. Yes or no?  Yes
-* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?  Yes
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? * Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.) Yes
+* Encrypted/locked-down firmware. Yes or no?  No
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?  Yes - Encrypted using ECC608
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? * Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.) Yes - Encrypted Busses using Helium Library
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?  Yes
 
 ## Hardware Information (required). Please provide detailed hardware designs, including relevant parts.
