@@ -51,7 +51,7 @@ Production and delivery timeline:
 Yes, we have shipped:
 - Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
 - ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
-- ECU800 Ethereum Mining product in development, will release in Oct.
+- E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
