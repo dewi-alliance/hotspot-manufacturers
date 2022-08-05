@@ -59,12 +59,11 @@ North America, Europe and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
-
   Discord channel: https://discord.gg/FnhSy5mqEf
-  
-  Twitter : @OspreyElectron
-  
+  Twitter : https://twitter.com/OspreyElectron
   Telephone suport number: +1 (925) 558-0308
+  Email support address: notifications@ospreyelectronics.io
+  
 * For how long? How are you planning to handle repairs and replacements? 
 We plan to provide 1 year warranty to our product. We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
@@ -130,13 +129,11 @@ We will pre-order the most critical components in advance (Lora SX1302 and other
 Jing Zeng
 +19258582818
 jing@ingenioussafety.com
-* Twitter profile -
+* Twitter profile - https://twitter.com/OspreyElectron
 * Facebook profile -
 * Other social profiles -
 - Discord channel: Osprey Electronics https://discord.gg/dyJf8DD
-- Subchannel at FPGA discord
-* Website -
-www.ospreyelectronics.io
+* Website - www.ospreyelectronics.io
 
 ## Payment methods available 
 Crypto, credit card, paypal, check, wire
