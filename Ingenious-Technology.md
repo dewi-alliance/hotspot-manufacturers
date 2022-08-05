@@ -80,9 +80,9 @@ We plan to provide 1 year warranty to our product. We will stock products in US 
 
 * Encrypted/locked-down firmware. Yes or no? No
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-No
+  Yes, we are using ECC608 to generate encrypt miner swarm_key
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
-No
+  Yes
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 Yes, we are willing to submit a prototype for audit and share results publicly.
 
