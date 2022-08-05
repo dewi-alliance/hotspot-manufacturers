@@ -64,7 +64,7 @@ Client will be able to reach us through telephone, online store chat, email, and
   
   Twitter : https://twitter.com/OspreyElectron
   
-  Telephone suport number: +1 (925) 558-0308
+  Telephone support number: +1 (925) 558-0308
   
   Email support address: notifications@ospreyelectronics.io
   
