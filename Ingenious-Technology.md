@@ -11,7 +11,7 @@ We are in Crypto Mining business since 2018. Ingenious Technology LLC is a speci
 Crypto Mining Product:
 ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
 ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
-ECU800 Ethereum Mining product in development, will release in Oct.
+E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
 * How many have you sold? 
 We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
 * What brought you to Helium etc? 
@@ -49,9 +49,13 @@ Production and delivery timeline:
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No.
 Yes, we have shipped:
-- Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
-- ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
-- ECU800 Ethereum Mining product in development, will release in Oct.
+
+  Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
+ 
+  ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
+ 
+  E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
+ 
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
@@ -59,18 +63,26 @@ North America, Europe and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
+
+  Discord channel: https://discord.gg/FnhSy5mqEf
+  
+  Twitter : https://twitter.com/OspreyElectron
+  
+  Telephone support number: +1 (925) 558-0308
+  
+  Email support address: notifications@ospreyelectronics.io
+  
 * For how long? How are you planning to handle repairs and replacements? 
 We plan to provide 1 year warranty to our product. We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
-* Encrypted/locked-down firmware. Yes or no? 
-Yes, We will encrypt firmware
+* Encrypted/locked-down firmware. Yes or no? No
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-Yes, We will encrypt storage of miner swarm_key through disk encryption
+  Yes, we are using ECC608 to generate encrypt miner swarm_key
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
-Yes, We will encrypt buses, potting and other anti-tampering measures.
+  Yes, we are using ECC608 as a anti-tampering measure.
 * Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 Yes, we are willing to submit a prototype for audit and share results publicly.
 
@@ -124,13 +136,11 @@ We will pre-order the most critical components in advance (Lora SX1302 and other
 Jing Zeng
 +19258582818
 jing@ingenioussafety.com
-* Twitter profile -
+* Twitter profile - https://twitter.com/OspreyElectron
 * Facebook profile -
 * Other social profiles -
 - Discord channel: Osprey Electronics https://discord.gg/dyJf8DD
-- Subchannel at FPGA discord
-* Website -
-www.ospreyelectronics.io
+* Website - www.ospreyelectronics.io
 
 ## Payment methods available 
 Crypto, credit card, paypal, check, wire
