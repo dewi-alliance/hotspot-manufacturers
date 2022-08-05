@@ -59,9 +59,13 @@ North America, Europe and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
+
   Discord channel: https://discord.gg/FnhSy5mqEf
+  
   Twitter : https://twitter.com/OspreyElectron
+  
   Telephone suport number: +1 (925) 558-0308
+  
   Email support address: notifications@ospreyelectronics.io
   
 * For how long? How are you planning to handle repairs and replacements? 
