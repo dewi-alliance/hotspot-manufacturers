@@ -59,6 +59,7 @@ North America, Europe and China
 ## Customer Support (required)
 * How will your customers be able to contact you for support for your products? 
 Client will be able to reach us through telephone, online store chat, email, and discord. Most of our clients uses discord to contact us.
+- discord channel: https://discord.gg/FnhSy5mqEf
 * For how long? How are you planning to handle repairs and replacements? 
 We plan to provide 1 year warranty to our product. We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
