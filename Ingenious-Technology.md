@@ -11,7 +11,7 @@ We are in Crypto Mining business since 2018. Ingenious Technology LLC is a speci
 Crypto Mining Product:
 ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200)
 ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50)
-ECU800 Ethereum Mining product in development, will release in Oct.
+E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
 * How many have you sold? 
 We sold about 1k ECU200, 8k ECU50, and estimate 7k ECU800 by end of this year.
 * What brought you to Helium etc? 
