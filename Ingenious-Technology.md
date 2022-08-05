@@ -49,9 +49,12 @@ Production and delivery timeline:
 ## Startups welcome! 
 * Have you shipped anything in the past? Yes or No.
 Yes, we have shipped:
-- Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
-- ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
-- E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
+ Crypto Mining Product: ECU200 FPGA Mining Board (https://www.ospreyelectronics.io/product-page/ECU200) 
+ 
+ ECU50 Ethereum Mining Product (https://www.ospreyelectronics.io/product-page/ecu50) 
+ 
+ E300 Ethereum Mining product (https://www.ospreyelectronics.io/product-page/e300-180m-eth-hash-rate)
+ 
 * Which countries have you previously shipped regulatory FCC or CE approved products? 
 We didn’t ship the FCC or CE but UL certified products to following countries: US, Canada, Europe and China
 * Which countries do you plan to ship to? 
@@ -74,8 +77,7 @@ We plan to provide 1 year warranty to our product. We will stock products in US 
 ## Hardware Security Element (required)
 * The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 
-* Encrypted/locked-down firmware. Yes or no? 
-Yes, We will encrypt firmware
+* Encrypted/locked-down firmware. Yes or no? No
 * Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
 No
 * Encrypted buses, potting and other anti-tampering measures. Yes or No?
