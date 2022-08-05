@@ -77,7 +77,7 @@ We are also accessible via Discord, Twitter, Facebook Messenger, and Instagram.
 
 The Linxdot Miner is built through our comprehensive experience in creating mobile devices compliant with banking applications, storing sensitive user data, and providing enterprise support. Our Helium hotspot adopts the same security standards applied to hardware, software, and user systems.
 
-A secure ECC chip has been integrated for storing the swarm-key used by the miner as per the requirements.
+ECC608A has been integrated in both LD-500 and LD-550 for storing the swarm-key used by the miner as per the requirements.
 
 
 ## Manufacturing Information
