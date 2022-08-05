@@ -63,6 +63,8 @@ Client will be able to reach us through telephone, online store chat, email, and
   Discord channel: https://discord.gg/FnhSy5mqEf
   
   Twitter : @OspreyElectron
+  
+  Telephone suport number: +1 (925) 558-0308
 * For how long? How are you planning to handle repairs and replacements? 
 We plan to provide 1 year warranty to our product. We will stock products in US and Germany for replacement. Products will be repaired in Shenzhen China.
 
