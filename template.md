@@ -1,4 +1,4 @@
-## Please copy this template.md (do not edit the template directly)
+## Please copy this template (do not edit the template.md directly)
 ## COMPANY NAME
 
 Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays. Your HIP19 application <b>must</b> be approved by the MCC in order to take pre-orders, selling pre-orders without MCC approval will  result in a minimum 6-month suspension, and may result in your HIP19 application being denied. A wait-list is permitted if you are not collecting payments.
