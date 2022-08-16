@@ -9,7 +9,7 @@
 - <b>ResIOT<sup>®</sup> ASIoT</b>: Application Server / IoT Platform
 - <b>ResIOT<sup>®</sup> LNS</b>: LoRaWAN<sup>®</sup> Network Server 
 
-ResIOT<sup>®</sup> manufactures SoHo, Business and Carrier grade, indoor and outdoor LoRaWAN gateways. Our main gateway models are:
+ResIOT<sup>®</sup> manufactures SoHo, Business and Carrier grade, indoor and outdoor LoRaWAN gateways. All ResIOT<sup>®</sup> products are <b>made in Italy!</b> Our main gateway models are:
 
 <b>ResIOT<sup>®</sup> X1 - Built exclusively as Helium Hotspot Full-Miner, avaliable in two versions: Ethernet,WiFi/BLE and Ethernet,WiFi/BLE + 2G/3G/4G Modem, it's the perfect compact Wall-mounting or Desktop device</b>
 <br><i>All product information can be found in the 'product information' section below</i>
@@ -64,7 +64,7 @@ The Helium network can bring enormous benefits in the implementation of global I
 * Ram: <b>2Gb LPDDR4</b>
 * Flash: <b>32Gb eMMC</b>
 * LoRa® baseband processor: <b>Chipset Semtech SX1303 able to receive up to 8 LoRa® modulated packets simultaneously. Max TX Power +27 dBm, Receiving Sensitivity -142.5dBm</b>
-* Secure Elements: <b>Microchip ECC608B for supporting Helium network, Infineon Optiga Trust X used by ResIOT for high security remote access</b>
+* Secure Element: <b>Microchip ECC608B</b>
 * Power supply/Consumption: <b>12/24v </b>
 * Consumption: <b>for the Ethernet versions, the average power consumption is 12V/0.3A (4W) and the annual power consumption is about 35 kWh </b>
 * Modem & SIM: <b>Only for LTE version, Modem Quectel 4G, LTE, 3G, 2G, EMEA EDGE GSM/GPRS. Chip SIM MFF2 included and ready to be activated (worldwide connectivity! See sim.resiot.io for more details). MicroSIM 3FF slot available. You can use your own SIM Card (ChipSIM will be automatically deactivated)</b>
@@ -91,9 +91,9 @@ After that, depending on marketing and components availability, we estimate to b
 ResIOT has already sold and delivered over 3.000 LoRaWAN gateways - X2, X4 and X7 models, for indoor and outdoor application, in both business and carrier-grade solutions
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
-We plan to ship to all of Europe. Below the certifications that we successfully got for our products:
+We plan to ship to all of Europe. Below the certifications that we successfully already got for our products:
 
-For <b>ResIOT-X1-ETH-1-868-HW</b> (ETH version)
+											   
 * Safety testing according to standards:
   * EN 62368-1:2020 + A11:2020_IEC 62368-1:2018
 * Radio spectrum testing according to standards:
@@ -108,32 +108,13 @@ For <b>ResIOT-X1-ETH-1-868-HW</b> (ETH version)
   * EN 301 489-17 V3.2.4
   * EN 301 489-3 V2.2.0
   * EN 301 489-52 V1.2.1
-* Declaration of Conformity
-  * [Download](https://resiot.io/documents/ResIOT-X1-ETH-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
-
-
-For <b>ResIOT-X1-LTE-1-868-HW</b> (LTE version)
-* Safety testing according to standards:
-  * EN 62368-1:2020 + A11:2020_IEC 62368-1:2018
-* Radio spectrum testing according to standards:
-  * EN 300 220-1 V3.1.1
-  * EN 300 220-2 V3.1.1
-* EMF testing according to standards:
-  * EN 62311:2020_IEC 62311:2019
-  * Human exposure evaluation
-* EMC testing according to standards:
-  * EN 300 328 V2.2.2
-  * EN 301 489-1 V2.2.3
-  * EN 301 489-17 V3.2.4
-  * EN 301 489-3 V2.2.0
-  * EN 301 489-52 V1.2.1
-* Cellular & GSM testing according to standards:
+* Cellular & GSM testing according to standards (LTE version only):
   * EN 301 908-1 V15.1.1.
   * EN 301 908-13 V11.1.2
   * EN 301 511 V12.5.1
 * Declaration of Conformity
-  * [Download](https://resiot.io/documents/ResIOT-X1-LTE-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
-
+  * [Download (ResIOT-X1-ETH-1-868-HW)](https://resiot.io/documents/ResIOT-X1-ETH-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
+  * [Download (ResIOT-X1-LTE-1-868-HW)](https://resiot.io/documents/ResIOT-X1-LTE-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
 
 We are also planning FCC certification for the 915MHz US band.
 
@@ -148,8 +129,6 @@ In order to meet the security requirements of the current Helium hardware guidel
 The ECC608B can store secrets and process security functions using private keys.
 Additionally, when signatures and encryptions are performed, the key is never exposed to the OS or in the RAM.
 ResIOT locks the key registers in a non-reversible way, which makes it impossible for anyone to overwrite or accidentally lose an existing private key. Even if the hardware is physically compromised, the key cannot be recovered or overwritten.
-
-ResIOT also uses a second secure element physically different from the first one, the Infineon Optiga Trust X, to generate and store an additional private key during the manufacturing phase over a dedicated register in order to enable remote management and access via the ResIOT Helium console (more on this below) through a highly secured channel (ResIOT can provide more information upon demand about this component).
 
 * Encrypted/locked-down firmware. Yes or no? **Secure boot is enabled by default on all our gateways. Secure boot detects tampering with boot loaders, key operating system files and unauthorized flashing. Detections are blocked from running before they can attack or infect the system**
 * Encrypted buses, potting and other anti-tampering measures. Yes or No? **ResIOT X1 indoor miners are shipped with a built-in temperature, accelerometer and shock detection system. Thanks to the ResIOT IoT platform where the miners are registered by their users, it's possible to create and configure events based on the sensor readings**
@@ -186,7 +165,7 @@ ResIOT offers the ability to register your hotspots over the dedicated [ResIOT H
 * Customizable alerts whenever a gateway timeouts or is offline
 * Read and handle the miner sensor readings: ResIOT X1 is shipped with built-in temperature, accelerometer and shock sensors. Smart triggers can then be configured based on user logic rules.
 * Remotely update software on the hotspot on-demand or via scheduled tasks
-* Remotely access your gateway on-demand: this feature is optional and relies on the security signatures provided by the Infineon Optiga Trust X secure element used by the gateway
+* Remotely access your gateway on-demand (optional)
 <br><p align="center"><img src="./resiot/heliumconsolepreview.png" alt="ResIOT X1 Banner"/></p>
 
 ## Contact Info 
