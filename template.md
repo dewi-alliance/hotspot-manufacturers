@@ -13,6 +13,7 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 * What brought you to the Helium Network? 
 
 ## Product Information (required)
+* Is this product sold under your own company name, or a brand name?
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
@@ -72,13 +73,15 @@ Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ o
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
+Who will develop your vendor hotspot onboarding and management app? Internal team or external company?
 
 ## Payment methods available (required):
 
 ## Contact Information 
 <b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 application will be automatically denied.</b>
 * Contact Email (a company email is required) -
-* Website (required) -
+* Company Website (required) -
+* Hotspot sales Website -
 * Twitter -
 * Facebook -
 * Discord - 
