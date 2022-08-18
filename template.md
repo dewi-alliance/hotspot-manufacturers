@@ -13,7 +13,7 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 * What brought you to the Helium Network? 
 
 ## Product Information (required)
-* Is this product sold under your own company name, or a brand name?
+* Will this product be sold under the company name, or a different brand name?
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
@@ -67,13 +67,13 @@ This would includes remote updates and the ability for hosts to change wifi sett
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
 
 ## Budget & Capital (required)
-* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
+* How many Hotspots are you planning to manufacture and sell within the first six months of sales? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
-Who will develop your vendor hotspot onboarding and management app? Internal team or external company?
+Who will develop the Hotspot onboarding and management app? Will it be an internal team or external company?
 
 ## Payment methods available (required):
 
@@ -81,7 +81,7 @@ Who will develop your vendor hotspot onboarding and management app? Internal tea
 <b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 application will be automatically denied.</b>
 * Contact Email (a company email is required) -
 * Company Website (required) -
-* Hotspot sales Website -
+* Hotspot Sales Website -
 * Twitter -
 * Facebook -
 * Discord - 
