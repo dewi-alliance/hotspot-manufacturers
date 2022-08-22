@@ -19,10 +19,11 @@ Since 2008.
 
 Seeed is a hardware-focused technology company serving global developers and system integrators with best-in-class IoT hardware products and turn-key services. 
 Seeed had launched a full hotspot [SenseCAP M1 LoRaWAN Indoor Gateway](https://www.seeedstudio.com/SenseCAP-M1-LoRaWAN-Indoor-Gateway-US915-p-5023.html) in July 2021, and [SenseCAP M2 Data Only LoRaWAN Indoor Gateway](https://www.seeedstudio.com/SenseCAP-M2-Data-Only-LoRaWAN-Indoor-Gateway-SX1302-US915-p-5342.html) in 2022. 
+Seeed has launched many nodes that support Helium network: [https://www.seeedstudio.com/LoRaWAN-Device-c-1920.html](https://www.seeedstudio.com/LoRaWAN-Device-c-1920.html)
 
 * How many have you sold? 
 
-Seeed has 1k+ products being distributed by 200+ distributors across 150+ countries and regions to serve more than a million customers. In 2020, we sold millions of products to customers worldwide.
+Seeed has 1k+ products being distributed by 200+ distributors across 150+ countries and regions to serve more than a million customers.For the past few years, we sold millions of products to customers worldwide.
 From July 2021, We have been shipped 200K+ Helium hotspots to the community.
 
 * What brought you to the Helium Network? 
@@ -65,7 +66,7 @@ Q4 2022
 
 * Have you shipped anything in the past? 
 
-Yes, we have shipped 200k+ SenseCAP to the worldwide.
+Yes, we have shipped 200k+ SenseCAP M1 to the worldwide.
 
 * What types of products have you shipped?
 
@@ -205,7 +206,7 @@ Submitted and verified by DeWi.
 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
-We can enough cash flow to support this project.
+We have enough cash flow to support this project.
 
 ## Risks & Challenges (required)
 
