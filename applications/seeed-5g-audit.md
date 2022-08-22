@@ -76,8 +76,7 @@ IoT hardware including: Gateways, sensors, antennas, accessories, etc.
 FCC, CE, TELEC, UKCA, RCM, etc.
 
 * If you are a startup, are you partnering with another company? What experience does your team have?
-
-Not applicable.
+N/A
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required) 
 FCC
@@ -113,7 +112,7 @@ Yes
 
 Yes
 
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
+* Encrypted buses, potting and other anti-tampering measures. Yes or No?
 
 N/A
 
