@@ -62,7 +62,6 @@ Q4 2022
 
 
 ## Previous shipments (required)
-(If you're a startup, please include detailed information about your team's previous experience or information about company partners.)
 
 * Have you shipped anything in the past? 
 
