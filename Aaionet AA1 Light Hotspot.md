@@ -1,5 +1,7 @@
 ## AAIONET Connectivity GmbH
 
+ ![Logo](./applications/aaionet/AAIONET.png)
+
 ## Summary:
 
 In the ongoing digitalization, the topic of IoT is playing an increasingly important role. Likewise, the guarantee of high-performance networks plays a huge part. The founders of AAIONET Connectivity GmbH have been dealing with the topic of blockchain and cryptocurrencies for a while. During our research, we came across the Helium Token in February 2021. The technology to intelligently link IoT devices through energy-efficient miners that contribute to a decentralized network and the aspect that basically every person can become part of this network to provide a stable basis for the most diverse application examples has led to the decision to pursue another important aspect. AAIONET Connectivity GmbH would like to compensate the CO2 emissions of the production and therefore contribute to making the Helium Blockchain even more sustainable and attractive for various future projects through the sustainable production of a German-made Miner. AAIONET Connectivity GmbH sees the incredible potential and power of Helium Blockchain and wants to be a reliable partner and representative of this message to change the global industry.
