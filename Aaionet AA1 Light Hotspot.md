@@ -109,7 +109,9 @@ Yes
 ## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
 Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
 
-Photos attached to top of Document
+ ![PROTOTPYE01](./applications/aaionet/AAIONET-AA1-Prototype-01.jpg)
+ ![PROTOTPYE02](./applications/aaionet/AAIONET-AA1-Prototype-02.jpg)
+ ![PROTOTPYE02](./applications/aaionet/AAIONET-AA1-Prototype-03.jpg)
 
 
 * What are your plans for software setup and configuration for the devices?
