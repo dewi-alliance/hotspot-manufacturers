@@ -1,6 +1,6 @@
 ## AAIONET Connectivity GmbH
 
- ![Logo](./applications/aaionet/AAIONET.png)
+ ![Logo](./applications/aaionet/AAIONET-2.png)
 
 ## Summary:
 
