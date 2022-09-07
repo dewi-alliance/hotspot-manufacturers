@@ -1,23 +1,23 @@
-## AAINONET Connectivity GmbH
+## AAIONET Connectivity GmbH
 
 ## Summary:
 
-In the ongoing digitalization, the topic of IoT is playing an increasingly important role. Likewise, the guarantee of high-performance networks plays a huge part. The founders of AAINONET Connectivity GmbH have been dealing with the topic of blockchain and cryptocurrencies for a while. During our research, we came across the Helium Token in February 2021. The technology to intelligently link IoT devices through energy-efficient miners that contribute to a decentralized network and the aspect that basically every person can become part of this network to provide a stable basis for the most diverse application examples has led to the decision to pursue another important aspect. AAINONET Connectivity GmbH would like to compensate the CO2 emissions of the production and therefore contribute to making the Helium Blockchain even more sustainable and attractive for various future projects through the sustainable production of a German-made Miner. AAINONET Connectivity GmbH sees the incredible potential and power of Helium Blockchain and wants to be a reliable partner and representative of this message to change the global industry.
+In the ongoing digitalization, the topic of IoT is playing an increasingly important role. Likewise, the guarantee of high-performance networks plays a huge part. The founders of AAIONET Connectivity GmbH have been dealing with the topic of blockchain and cryptocurrencies for a while. During our research, we came across the Helium Token in February 2021. The technology to intelligently link IoT devices through energy-efficient miners that contribute to a decentralized network and the aspect that basically every person can become part of this network to provide a stable basis for the most diverse application examples has led to the decision to pursue another important aspect. AAIONET Connectivity GmbH would like to compensate the CO2 emissions of the production and therefore contribute to making the Helium Blockchain even more sustainable and attractive for various future projects through the sustainable production of a German-made Miner. AAIONET Connectivity GmbH sees the incredible potential and power of Helium Blockchain and wants to be a reliable partner and representative of this message to change the global industry.
 
 ## Company Information
 
-The company AAINONET Connectivity GmbH is a Berlin-based start-up founded in 2021 and works with a German partner who has been successfully developing and building devices in the field of IoT for 7 years now.
+The company AAIONET Connectivity GmbH is a Berlin-based start-up founded in 2021 and works with a German partner who has been successfully developing and building devices in the field of IoT for 7 years now.
 
-The AAINONET AA1 will be the first product of AAINONET Connectivity GmbH 
+The AAIONET AA1 will be the first product of AAIONET Connectivity GmbH 
 
 ## Product Information (required)
 * Will this product be sold under the company name, or a different brand name?
 
-Company Name — AAINONET Connectivity GmbH
+Company Name — AAIONET Connectivity GmbH
 
 * What is this product's model name?
 
-AAINONET AA1 — Retail Price TBD
+AAIONET AA1 — Retail Price TBD
 
 * Is this is a Light Hotspot or a 5G Hotspot?
 
@@ -29,7 +29,7 @@ Model for indoor application
 
 * Provide a brief description of the product:
 
-The AAINONET AA1 is a miner developed and produced in Germany. The CO2 footprint of the production of the AAINONET AA1 is completely compensated. The AAINONET AA1 should not only be sustainable and offer a strong performance, but also convince with its perfect design.
+The AAIONET AA1 is a miner developed and produced in Germany. The CO2 footprint of the production of the AAIONET AA1 is completely compensated. The AAIONET AA1 should not only be sustainable and offer a strong performance, but also convince with its perfect design.
 
 * What is your approximate price point? 
 
@@ -74,11 +74,11 @@ The companies customers will be informed of any concerns regarding updates & fun
 
 * How long will the company provide customer support? 
 
-AAINONET Connectivity GmbH products are all enjoying two year warranty if there are product defects, under german law on the sale of goods.
+AAIONET Connectivity GmbH products are all enjoying two year warranty if there are product defects, under german law on the sale of goods.
 
 * How are you planning to handle repairs and replacements?
 
-AAINONET Connectivity GmbH products are all enjoying two year warranty. Customers could apply for repairs and replacements when a product defect has been detected.
+AAIONET Connectivity GmbH products are all enjoying two year warranty. Customers could apply for repairs and replacements when a product defect has been detected.
 
 
 ## Hardware Security Element (required)
@@ -129,7 +129,7 @@ SX1302
 
 ## Manufacturing Information (required)
 
-AAINONET Connectivity GmbH is a startup thats new to the market of radio hardware devices.
+AAIONET Connectivity GmbH is a startup thats new to the market of radio hardware devices.
 We’re currently partnering with IOX GmbH (www.ioxlab.de).
 
 Our Partner IOX has been successfully developing and building devices in the field of IoT for 7 years now
