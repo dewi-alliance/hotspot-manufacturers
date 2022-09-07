@@ -12,7 +12,9 @@ The company AAIONET Connectivity GmbH is a Berlin-based start-up founded in 2021
 
 The AAIONET AA1 will be the first product of AAIONET Connectivity GmbH 
 
-## Product Information (required)
+## Product Information
+
+![RENDERING01](./applications/aaionet/AAIONET_Helium_Miner_AA1_side_Antenna_2.png)
 * Will this product be sold under the company name, or a different brand name?
 
 Company Name — AAIONET Connectivity GmbH
