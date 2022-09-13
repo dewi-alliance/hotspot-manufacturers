@@ -17,7 +17,7 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
-* Provide a brief description of the product:
+* Provide a brief description of the product(s):
 
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
