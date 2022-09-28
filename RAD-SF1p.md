@@ -24,8 +24,6 @@ Startups welcomed!
 * Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.): Worldwide.mainly US, Europe, Latin america and Africa
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
--USA
--Mexico, Colombia, Peru, Guatamala, might be other counties in latin america
 -Europe- France, Italy, Spain, UK, Germany, Scandinavia
 -Africa -South Africa, Kenia, Emirates
 
