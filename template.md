@@ -1,4 +1,4 @@
-## Please copy this template.md (do not edit the template directly)
+## Please copy this template (do not edit the template.md directly)
 ## COMPANY NAME
 
 Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays. Your HIP19 application <b>must</b> be approved by the MCC in order to take pre-orders, selling pre-orders without MCC approval will  result in a minimum 6-month suspension, and may result in your HIP19 application being denied. A wait-list is permitted if you are not collecting payments.
@@ -6,17 +6,18 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 ## Summary:
 
 ## Company Information (required)
-* What is the company name?
+* What is the legal company name?
 * How long has the company been in business? 
 * What kind of products have you created? (list specific products, include links if possible)
 * How many have you sold? 
 * What brought you to the Helium Network? 
 
 ## Product Information (required)
+* Will this product be sold under the company name, or a different brand name?
 * What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
-* Provide a brief description of the product:
+* Provide a brief description of the product(s):
 
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
@@ -57,7 +58,7 @@ This would includes remote updates and the ability for hosts to change wifi sett
 ## Manufacturing Information (required)
 * Have you built and delivered radio hardware products before?
 * Have you built gateways before? 
-* How many gateways did you make? 
+* How many gateways have you previously built? 
 * If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
 * Where are you sourcing your components from? 
 * How many radio modules/ concentrators can you procure? 
@@ -66,19 +67,21 @@ This would includes remote updates and the ability for hosts to change wifi sett
 Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
 
 ## Budget & Capital (required)
-* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
+* How many Hotspots are you planning to manufacture and sell within the first six months of sales? 
 * How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
 * What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
 
 ## Risks & Challenges (required)
 Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
+Who will develop the Hotspot onboarding and management app? Will it be an internal team or external company?
 
 ## Payment methods available (required):
 
 ## Contact Information 
-<b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 will be automatically denied.</b>
+<b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 application will be automatically denied.</b>
 * Contact Email (a company email is required) -
-* Website (required) -
+* Company Website (required) -
+* Hotspot Sales Website (if different from the company website) -
 * Twitter -
 * Facebook -
 * Discord - 

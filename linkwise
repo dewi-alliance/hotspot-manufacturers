@@ -1,0 +1,189 @@
+
+## Chengdu Linkwise Future Technology
+
+Application to become an approved third-party manufacturer as per HIP19. The submission of a HIP19 application does not guarantee approval. All questions must be answered, any missing information will result in delays.
+## Summary:
+Chengdu Linkwise Future Technology Co., Ltd. is a manufacturer specializing in Internet of Things communication equipment based on LoRaWAN, including R&D, manufacturing and sales. It was found in 2019 and has participated in the maintenance and construction of LoRaWAN official open-source server multiple times over the years. All engineers have more than 5 years of LoRaWAN R&D experience, and the company was certified as a high-tech enterprise in China as of 2021. It also has a number of patents and intellectual property rights and has obtained ISO9001 quality certification in 2022. Products run on projects of several large state-owned enterprises in China, such as National Energy and China Tobacco, and others.
+## Company Information (required)
+* What is the company name?
+ Chengdu Linkwise Future Technology Co., Ltd.
+* How long has the company been in business? 
+3+ years
+* What kind of products have you created? (list specific products, include links if possible)
+LoRaWAN Indoor Gateway G7x Series, G9x Series (5000 units/year)
+LoRaWAN Outdoor Waterproof Gateway G6x Series , G8x Series (2,000 units/year)
+LoRaWAN Gateway RF Module M302x(20,000 units/year)
+LoRaWAN Wireless terminal moduleA5x Series, A7x Series (120,000 units/year)
+LoRaWAN Wireless Temperature and Humidity Meter (4,000 units/year)
+LoRaWAN Wireless human body infrared sensor (2,000 units/year)
+LoRaWAN Wireless door sensor (30,000units/year)
+LoRaWAN DTU (8,000 units/year)
+LoRaWAN RTU (1,000 units/year)
+* How many have you sold? 
+More than 150,000 units (gateways,modules and sensors) total annually.
+* What brought you to the Helium Network? 
+Our company has been working on LoRaWAN related projects. Last year many customers came to our company requesting to purchase Helium gateways. After investigating, we felt that the Helium project could solve the problems of difficult and costly deployment of IoT base stations. In China, IoT base stations either use the NB network, which is monopolized by three major telecom companies or use individual small-scale deployment base stations. The former has problems of expensive fees, unstable network, and insufficient signal coverage. The latter has the problems of non-standard personal base station protocol and low base station utilization. Helium perfectly solved these two issues. We hope to become a third-party manufacturer of Helium.
+
+## Product Information (required)
+* What is this product's model name? (Hotspot models with different hardware will need a separate HIP19 application.)
+LW Orca-M100
+* Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
+Yes, it's a Light Hotspot.
+* Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
+It is for Indoor and Outdoor
+* Provide a brief description of the product:
+The indoor light gateway integrates MT7688 as the core of the system, equipped with a baseband processing chip SX1302, which realizes 8-channel upload and 1-channel delivery. The transmit power is up to 27dBm, the receiver sensitivity is up to -140dBm@SF12, it supports global frequency plans, local and cloud upgrade, and configurations.
+The outdoor light gateway is based on the indoor light gateway, adding a waterproof shell, adding a high-gain fiberglass waterproof antenna, using POE power supply, and reserving the GPS installation location, which is convenient for later updating to SX1303. 
+Both indoor and outdoor gateways are identical in configuration and operation.
+* What is your approximate price point?
+$350
+* What is your expected production and delivery timeline? 
+Start of Q1 2023
+
+## Previous shipments (required)
+(If you're a startup, please include detailed information about your team's previous experience or information about company partners.)
+* Have you shipped anything in the past? 
+Yes.
+* What types of products have you shipped?
+ Modules. 
+* Which countries have you previously shipped regulatory approved products? (FCC, CE, etc.) 
+LoRaWAN Gateway RF Module M302x , certified with TELEC, shipped to Japan.
+* If you are a startup, are you partnering with another company? What experience does your team have?
+All engineers in our company have more than 5 years of LoRaWAN R&D experience, we have manufactured similar products in IoT industry.
+
+## Which countries do you plan to ship to and get regulatory certifications for? (required) 
+Please list specific countries, "worldwide" or "global" are not acceptable.
+United States, Canada and Europe
+
+## Customer Support (required)
+* How will your customers be able to contact you for support for this products? 
+Live chat, E-mail, OTA support
+* How long will the company provide customer support? 
+One year warranty
+* How are you planning to handle repairs and replacements? 
+Within one year warranty: 
+1.The customer contacts the dealer or sales to inform the problem and send back the damaged product.
+2.The dealer or the salesperson fills in the problem record form and feeds it back to the after-sales service.
+3.After receiving the damaged product and the problem record form after the sale, it is necessary to determine whether to replace the accessories or to replace the product.
+4.The repaired equipment or the new equipment will be re-issued to the customer for free. 
+After one year warranty: 
+Customer will pay for the repair costs, including repair fee, logistic, tariffs etc.
+
+## Hardware Security Element (required)
+* The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured. The approved security element is an ECC608. If you would like to use an alternative security element your HIP19 will require additional review, please email the Helium Foundation (christina@helium.foundation).
+* Are you using an ECC608. Yes or No?
+Yes
+* Encrypted/locked-down firmware. Yes or No? 
+Yes
+* Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
+Yes
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
+No
+* Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
+Yes
+
+## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
+Evidence of a functioning prototype - photos/videos. Renderings are OK but physical prototypes are much, much better. 
+1.Gateway PCB
+![figure1](https://user-images.githubusercontent.com/109646661/180889052-1b255bdd-3a1c-4f78-8089-63201130c88d.jpg)
+Outdoor PCB
+![figure1](https://user-images.githubusercontent.com/109646661/180889055-504f59ec-2dff-4146-9209-9426112be64c.jpg)
+Indoor PCB
+2.Start the gateway, and the gateway starts to synchronize the router address, indicating that the gateway can connect to the helium server, as shown in the following figure;
+![figure1](https://user-images.githubusercontent.com/109646661/180889056-65ddda7f-508d-462e-93e4-9d970e2494f1.jpg)
+3.The gateway receives the data sent by the forwarder, indicating that the 1302 module has started to work and has received data from the terminal, as shown in the following figure;
+![figure1](https://user-images.githubusercontent.com/109646661/180889040-13b6759d-2188-4e73-83b9-53195a754bb7.jpg)
+4.The data terminal is registered on the Helium server, and the terminal sends a data packet with an ACK reply. The Helium server receives the terminal data and passes the verification, and the terminal receives the confirmation packet sent by the server, which proves that the server connection is successful, as shown in the following figure.
+Note: Our test gateway name is perfect-orchid-locust
+![figure1](https://user-images.githubusercontent.com/109646661/180889044-f8d61990-aea1-419e-8932-787827cee82e.jpg)
+![figure1](https://user-images.githubusercontent.com/109646661/180889045-2d032e36-7165-4920-8a49-12d2152fe142.jpg)
+
+Note: The server receives data incoming packets and uplink data packets from the perfect-orchid-locust gateway
+![figure1](https://user-images.githubusercontent.com/109646661/180889047-8e81e68f-a51b-40df-8bab-45fa5c0ce268.jpg)
+![figure1](https://user-images.githubusercontent.com/109646661/180889048-708fee2d-e397-4e76-8983-4cdfbfe83531.jpg)
+
+Note: The server receives the terminal data and passes the verification, and then sends the confirmation packet to the terminal
+![figure1](https://user-images.githubusercontent.com/109646661/180889049-90f51633-35db-4715-98a7-82d05003fbf0.jpg)
+
+Note: When the terminal receives the confirmation package sent by the server, No App Data means that it has received the confirmation package sent by the server.
+![figure1](https://user-images.githubusercontent.com/109646661/180889050-3628703f-8fd9-4bc7-8b53-8b251f4c48a3.jpg)
+
+* What are your plans for software setup and configuration for the devices?
+This would includes remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise. 
+Our product has Wi-fi, Bluetooth and wired connections, supports Web configuration and command configuration at the same time; the software has automatic upgrade and manual upgrade options.
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using? 
+ATECC608 
+* Which LoRa chipset are you planning to use in your gateway? (We recommend you don't use the SX1301 in new designs.)
+SX1302
+* What is the CPU?
+MT7688A
+* Additional Hardware Specifications: 
+Indoor:
+	Core：MT7688A  580MIPS 
+	RAM: DDR2 128M
+	Flash: 32M 
+	Encryption chip：ATECC608
+	Network：10/100M
+	WiFi: 150M wireless rate, AP, STA and AP+STA mixed mode, support 802.11b/g/n mode
+	Bluetooth：v4.2
+	Power interface：MicroUSBDC5V 2A
+	Antenna gain：1.5dBi
+	Antenna interface：SMA
+	Dimensions：160X160X45mm
+	
+	Outdoor：
+    Core：MT7688A 580MIPS 
+	RAM: DDR2 128M
+	Flash: 32M 
+	Encryption chip：ATECC608
+	Network：10/100M
+	WiFi: 150M wireless rate, AP, STA and AP+STA mixed mode, support 802.11b/g/n mode
+	Bluetooth：v4.2
+	Power interface：POE 
+	Antenna gain：3dBi
+	Antenna interface：N head
+	Dimensions：140X120X55mm
+
+
+## Manufacturing Information (required)
+* Have you built and delivered radio hardware products before?
+Yes
+* Have you built gateways before? 
+Yes
+* How many gateways did you make? 
+5,000 units
+* If you have not built gateways before, are you using a third party manufacturer or working with a partner? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
+* Where are you sourcing your components from? 
+Shenzhen CLP Technology Co., Ltd.，Arrow Electronics. Inc
+* How many radio modules/ concentrators can you procure? 
+10,000+ per month
+
+## Proof of Identity
+Per typical KYC/AML procedures, proof of identity for major shareholders (25%+ ownership) will be expected to be provided privately to representatives from the Helium Foundation. This will be attested and publicly confirmed by those representatives. Details for this will be provided after your application has been submitted on GitHub. 
+Proof of identity will be emailed privately as requested.
+
+## Budget & Capital (required)
+* How many hotspots are you planning to manufacture and sell within the first six months of sales? 
+We plan to manufacture 10,000 hotspots per month, 30,000 hotspots within the first six months.
+* How much money will be required up-front? How much money do you have on-hand, and how much do you have access to? 
+We plan to initially invest $1M and gradually increase up to $2.5M.
+* What is your plan for additional financing if required? (This is the second biggest risk in new hardware ventures, getting almost over the line and then running out of cash.) 
+We have the budget with $5.0M. so we do not think that there will be any financial problems.
+
+## Risks & Challenges (required)
+Please tell us about some of the challenges that would prevent these products from becoming a reality and how you might address them.
+The current production challenge lies in the supply chain, mainly purchasing chips and transporting the product.
+Currently, we have signed long-term supply orders with suppliers to mitigate the risk of chip shortage and will always maintain a minimum reserve of chip inventory to ensure that products are available for sale.
+Further, due to the impact of the epidemic, we will establish a second assembly test point in Shenzhen for backup, in case the city affects shipments due to epidemic control from China government.
+
+## Payment methods available (required):
+Wire transfer, USDT, Credit card and PayPal, etc.
+
+## Other information (if you do not provide contact information we cannot review your proposal)
+## Contact Information 
+* Contact Email (required) - yicen@alinkwise.com
+* Website (required) - https://www.alinkwise.com
+* Twitter -
+* Facebook -
+* Discord -  https://discord.gg/NbZvMrhb
+* Other social profiles / websites -
