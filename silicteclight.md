@@ -117,7 +117,7 @@ Bank transfer, cryptocurrency
 ## Other information (if you do not provide contact information we cannot review your proposal)
 ## Contact Info 
 * Contact Email (required) - business@slkxm.com
-* Website (required) - Website is updating.
+* Website (required) - [Website is updating.](http://www.silictec.net/)
 * Twitter profile -
 * Facebook profile -
 * Discord - 
