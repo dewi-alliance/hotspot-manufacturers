@@ -2,21 +2,20 @@
 
 ## Summary
 <p align="center"><img src="./resiot/logo.png" alt="ResIOT<sup>®</sup> Logo"/></p>
-<br>ResIOT<sup>®</sup> is software and hardware to ensure connectivity and reliability in every context from the Smart City to the Industrial IOT, designs networks of all sizes, and provides all the tools for the management, monitoring and use of data, from the gateway to the front-end in a reliable context. It also has software/hardware components that allow the installation of carrier-grade networks with very high availability and scalability.
+<br>ResIOT<sup>®</sup> is a software and hardware solution to ensure connectivity and reliability in every context, from the Smart City to the Industrial IoT, designs networks of all sizes, and provides all the tools for the management, monitoring and use of data, from the gateway to the front-end in a reliable context. It also has software/hardware components that allow the installation of carrier-grade networks with very high availability and scalability. ResIOT<sup>®</sup> develops and maintains software assistance (Business or Carrier-Grade Versions):
 
-ResIOT<sup>®</sup> develops and maintains software assistance (Business or Carrier-Grade Versions):
-<br><b>ResIOT<sup>®</sup> Merlin IoT Box</b>: software to be installed on the gateways for centralized monitoring, connection and configuration
-<br><b>ResIOT<sup>®</sup> ISRC</b>: Infrastructure Server/Radio Control 
-<br><b>ResIOT<sup>®</sup> ASIoT</b>: Application Server / IoT Platform
-<br><b>ResIOT<sup>®</sup> LNS</b>: LoRaWAN<sup>®</sup> Network Server 
+- <b>ResIOT<sup>®</sup> Merlin IoT Box</b>: software to be installed on the gateways for centralized monitoring, connection and configuration
+- <b>ResIOT<sup>®</sup> ISRC</b>: Infrastructure Server/Radio Control 
+- <b>ResIOT<sup>®</sup> ASIoT</b>: Application Server / IoT Platform
+- <b>ResIOT<sup>®</sup> LNS</b>: LoRaWAN<sup>®</sup> Network Server 
 
-ResIOT<sup>®</sup> manufactures SoHo, Business and Carrier grade, indoor and outdoor LoRaWAN gateways, the products are:
+ResIOT<sup>®</sup> manufactures SoHo, Business and Carrier grade, indoor and outdoor LoRaWAN gateways. All ResIOT<sup>®</sup> products are <b>made in Italy!</b> Our main gateway models are:
 
-<b>ResIOT<sup>®</sup> X1 - Built exclusively as Helium Hotspot Full-Miner in two versions: with or without modem 2G/3G/4G for Wall-mounting or Desktop and WiFi/BLE</b>
-<br><i>All product information can be found in the product information section below</i>
+<b>ResIOT<sup>®</sup> X1 - Built exclusively as Helium Hotspot Full-Miner, avaliable in two versions: Ethernet,WiFi/BLE and Ethernet,WiFi/BLE + 2G/3G/4G Modem, it's the perfect compact Wall-mounting or Desktop device</b>
+<br><i>All product information can be found in the 'product information' section below</i>
 <br><p align="center"><img src="./resiot/x1circle.png" alt="ResIOT<sup>®</sup> X1 Helium Full-Hotspot Miner"/></p>
 
-<b>ResIOT<sup>®</sup> X2</b> - IOT BOX LoRaWAN<sup>®</sup> 8 Channels DIN-rail/Desktop Gateway indoor with Ethernet, WiFi and modem 2G/3G/4G
+<b>ResIOT<sup>®</sup> X2</b> - IoT BOX LoRaWAN<sup>®</sup> 8 Channels DIN-rail/Desktop Gateway indoor with Ethernet, WiFi and modem 2G/3G/4G
 <br>Link [https://www.resiot.io/en/lorawan-gateway-resiot-x2/](https://www.resiot.io/en/lorawan-gateway-resiot-x2/)
 <br><p align="center"><img src="./resiot/x2circle.png" alt="ResIOT X2" width=250/></p>
 
@@ -29,7 +28,7 @@ ResIOT<sup>®</sup> manufactures SoHo, Business and Carrier grade, indoor and ou
 <br>Link [https://www.resiot.io/en/lorawan-gateway-resiot-x7/](https://www.resiot.io/en/lorawan-gateway-resiot-x7/)
 <br><p align="center"><img src="./resiot/x7circle.png" alt="ResIOT X7" width=250/></p>
 
-<br>ResIOT<sup>®</sup> also provides optional 2G/3G/4G connectivity on gateways by equipping them with chip-sim as an official partner of Kpn B.V.
+<br><b>ResIOT<sup>®</sup> also provides 2G/3G/4G connectivity on gateways by equipping them with ChipSIMs as an official partner of Kpn B.V.</b>
 
 ## Company Information
 ResIOT<sup>®</sup> is the trade name for Ublsoftware Srl, a private Italian company founded in 2014 in Milan
@@ -46,29 +45,29 @@ ResIOT<sup>®</sup> is the trade name for Ublsoftware Srl, a private Italian com
 - over 8.000 users worldwide
 - over 3.000 gateways provided
 
-The Helium network can bring enormous benefits in the implementation of global IOT networks, ResIOT is an extremely specialized market player and we think we can make a huge contribution in providing extremely reliable solutions.
+The Helium network can bring enormous benefits in the implementation of global IoT networks, ResIOT is an extremely specialized market player and we think we can make a huge contribution providing extremely reliable solutions.
 
 
 ## Product Information
-<b>ResIOT<sup>®</sup> X1 - Helium Hotspot Full-Miner</b>
-<br>Two versions: with or without modem 2G/3G/4G for indoor Wall-mounting or Desktop and WiFi/BLE
-<br>Available versions and codes:
-* ResIOT-X1-ETH-1-868-HW (<b>GTIN/EAN</b> 8051884310107) <b>Ethernet/WiFi/BLE, LoRa 868MHz</b>
-* ResIOT-X1-LTE-1-868-HW (<b>GTIN/EAN</b> 8051884310114) <b>Ethernet/WiFi/BLE/Modem 2G/3G/4G, LoRa 868MHz</b>
-* ResIOT-X1-ETH-1-915-HW (<b>GTIN/EAN</b> 8051884310121) <b>Ethernet/WiFi/BLE, LoRa 915MHz</b>
-* ResIOT-X1-LTE-1-915-HW (<b>GTIN/EAN</b> 8051884310138) <b>Ethernet/WiFi/BLE/Modem 2G/3G/4G, LoRa 915MHz</b>
+<b>ResIOT<sup>®</sup> X1 - Helium Hotspot Full-Miner</b> has been designed to meet all the specific requests of the Helium network, <b>it is a high reliable product</b> perfect to be installed in business places and buildings like offices and schools. This gateway works in a range of temperatures from -20 °C to + 70 °C. There are 2 main versions available: 
+* Ethernet versions
+  * ResIOT-X1-ETH-1-868-HW (<b>GTIN/EAN</b> 8051884310107) <b>Ethernet/WiFi/BLE, LoRa 868MHz</b>
+  * ResIOT-X1-ETH-1-915-HW (<b>GTIN/EAN</b> 8051884310121) <b>Ethernet/WiFi/BLE, LoRa 915MHz</b>
+* Modem (LTE) versions
+  * ResIOT-X1-LTE-1-868-HW (<b>GTIN/EAN</b> 8051884310114) <b>Ethernet/WiFi/BLE/Modem 2G/3G/4G, LoRa 868MHz</b>
+  * ResIOT-X1-LTE-1-915-HW (<b>GTIN/EAN</b> 8051884310138) <b>Ethernet/WiFi/BLE/Modem 2G/3G/4G, LoRa 915MHz</b>
 
-The ResIOT X1 model has been designed to meet the specific requests of the Helium network, <b>it is a reliable product with the possibility of installation in an environment with temperatures from -20° to +60°</b>
-<br>The ResIOT gateway comes with an <b>online platform for monitoring, configuration, remote access, diagnostics and alerts</b>
+<br>This product comes with an <b>included online platform</b>, ResIOT Helium console (well described below), in order to monitor, configure, remote access, diagnostic the hotspots and configure alerts and notifications
+
 <br>Full hardware specification:
-* Cpu: <b>6xCore Arm64 Dual-Core 2GHz Cortex-A72 and Quad-Core 1.4GHz Cortex-A53</b>
+* Cpu: <b>6x Core Cortex ARM, 2x A72 dual core 2Ghz + 4x A53 quad core 1.4Ghz</b>
 * Ram: <b>2Gb LPDDR4</b>
 * Flash: <b>32Gb eMMC</b>
 * LoRa® baseband processor: <b>Chipset Semtech SX1303 able to receive up to 8 LoRa® modulated packets simultaneously. Max TX Power +27 dBm, Receiving Sensitivity -142.5dBm</b>
-* Secure Element: <b>Infineon Optiga Trust X</b>
+* Secure Element: <b>Microchip ECC608B</b>
 * Power supply/Consumption: <b>12/24v </b>
-* Consumption: <b>for the non-LTE version, the average power consumption is 12V/0.5A (6W) and the annual power consumption is about 52.5 kWh </b>
-* Modem & SIM: <b>Only for LTE version, Modem Quectel 4G, LTE, 3G, 2G, EMEA EDGE GSM/GPRS. Chip SIM MFF2 included and ready to activate (worldwide connectivity! See sim.resiot.io). MicroSIM 3FF slot available. You can use your own SIM Card (ChipSIM will be automatically deactivated)</b>
+* Consumption: <b>for the Ethernet versions, the average power consumption is 12V/0.3A (4W) and the annual power consumption is about 35 kWh </b>
+* Modem & SIM: <b>Only for LTE version, Modem Quectel 4G, LTE, 3G, 2G, EMEA EDGE GSM/GPRS. Chip SIM MFF2 included and ready to be activated (worldwide connectivity! See sim.resiot.io for more details). MicroSIM 3FF slot available. You can use your own SIM Card (ChipSIM will be automatically deactivated)</b>
 
 <br><p align="center"><img src="./resiot/x1circlesmall.png" alt="ResIOT<sup>®</sup> X1 Helium Full-Hotspot Miner" width=250/></p>
 <br><p align="center"><b>[Download Datasheet: ResIOT® X1 - Helium Hotspot Full-Miner](https://www.resiot.io/documents/ResIOT-X1_Datasheet_V1.3_EN_20211118.pdf)</b></p>
@@ -89,59 +88,55 @@ We should be able to get components to build an additional 12.000 miners by the 
 After that, depending on marketing and components availability, we estimate to be able to deliver 5/10k or more pieces per month.
 
 ## Previous shipments
-ResIOT has already sold and delivered over 3.000 LoRaWAN gateways - X2, X4 and X7 models
+ResIOT has already sold and delivered over 3.000 LoRaWAN gateways - X2, X4 and X7 models, for indoor and outdoor application, in both business and carrier-grade solutions
 
 ## Which countries do you plan to ship to and get regulatory certifications for?
-We plan to ship to all of Europe. The CE certification process for the X1 -868MHz band- is already in progress:
+We plan to ship to all of Europe. Below the certifications that we successfully already got for our products:
 
-Safety testing and issuing a test report according to standards:
-* EN 62368-1:2014 + A11:2017
-* IEC 62368-1:2014 (2nd Edition)
-
-Radio spectrum testing and issuing a test report according to standards:
-* EN 300 220-1 V3.1.1
-* EN 300 220-2 V3.1.1
-* EN 300 328 V2.2.2
-* EN 301 511 V12.5.1
-* EN 301 908-1 V13.1.1
-* EN 301 908-13 V13.1.1
-
-EMF testing according to standards:
-* EN 62311:2020  Human exposure evaluation
-
-EMC testing and issuing a test report according to standards:
-* EN 303 446-1 V1.2.1
-* EN 301 489-1 V2.2.3
+											   
+* Safety testing according to standards:
+  * EN 62368-1:2020 + A11:2020_IEC 62368-1:2018
+* Radio spectrum testing according to standards:
+  * EN 300 220-1 V3.1.1
+  * EN 300 220-2 V3.1.1
+* EMF testing according to standards:
+  * EN 62311:2020_IEC 62311:2019
+  * Human exposure evaluation
+* EMC testing according to standards:
+  * EN 300 328 V2.2.2
+  * EN 301 489-1 V2.2.3
+  * EN 301 489-17 V3.2.4
+  * EN 301 489-3 V2.2.0
+  * EN 301 489-52 V1.2.1
+* Cellular & GSM testing according to standards (LTE version only):
+  * EN 301 908-1 V15.1.1.
+  * EN 301 908-13 V11.1.2
+  * EN 301 511 V12.5.1
+* Declaration of Conformity
+  * [Download (ResIOT-X1-ETH-1-868-HW)](https://resiot.io/documents/ResIOT-X1-ETH-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
+  * [Download (ResIOT-X1-LTE-1-868-HW)](https://resiot.io/documents/ResIOT-X1-LTE-1-868-HW_Declaration_of_conformity_EU_CE_RED.pdf)
 
 We are also planning FCC certification for the 915MHz US band.
 
 
 ## Customer Support
-ResIOT support relies on a ticketing system that has now been running since 2015. For any kind of information or support, customers can open a ticket at the following address: https://login.resiot.io/submitticket.php
+ResIOT support relies on a ticketing system that has been running since 2015. For any kind of information or support, customers can open a ticket at the following address: https://login.resiot.io/submitticket.php
 <br>Whenever needed, our assistance team can get in touch with customers by phone or remote assistance software.
 <br>ResIOT also has an RMA procedure to handle hardware repair or replacement: https://login.resiot.io/rma.php
 
 ## Hardware Security Element
-In order to meet the security requirements of current Helium hardware guidelines, besides other industry-standard software-based measures, ResIOT gateways use the <b>Infineon Optiga Trust X</b> component, a secure element with advanced Elliptic Curve Cryptography (ECC) capabilities, in order to generate and store the swarm_key to ensure the highest grade of security.
-The Trust X can store secrets and process security functions using private keys.
+In order to meet the security requirements of the current Helium hardware guidelines, besides other industry-standard software-based measures, ResIOT hotspots use the <b>Microchip ECC608B</b> secure element, a component able to generate and store the swarm_key and to ensure the highest grade of security.
+The ECC608B can store secrets and process security functions using private keys.
 Additionally, when signatures and encryptions are performed, the key is never exposed to the OS or in the RAM.
-Finally, ResIOT locks the key registers in a non-reversible way, which makes it impossible for anyone to overwrite or accidentally lose an existing private key. Even if the hardware is physically compromised, the key cannot be recovered or overwritten.
-The ResIOT team has been working full time to fork the existing helium miner software (https://github.com/helium/miner/) and integrate the Optiga Trust X secure element used by the gateway.
-Compact key generation and key registers locking have been implemented.
-The fork at its current state is also able to sign data and work with raw elliptic shared secrets via ECDH.
-The final testing and polishing phase will begin once ResIOT gateways have access to the main network.
-
-ResIOT also uses the Trust X to generate and store an additional private key during the manufacturing phase over a dedicated register in order to enable remote management and access via the ResIOT Helium console(more on this below) via a highly secured channel.
-
-ResIOT can provide more information upon demand and is willing to comply with any third-party audit.
+ResIOT locks the key registers in a non-reversible way, which makes it impossible for anyone to overwrite or accidentally lose an existing private key. Even if the hardware is physically compromised, the key cannot be recovered or overwritten.
 
 * Encrypted/locked-down firmware. Yes or no? **Secure boot is enabled by default on all our gateways. Secure boot detects tampering with boot loaders, key operating system files and unauthorized flashing. Detections are blocked from running before they can attack or infect the system**
-* Encrypted buses, potting and other anti-tampering measures. Yes or No? **ResIOT X1 indoor miners are shipped with a built-in temperature, accelerometer and shock detection system. Thanks to the ResIOT IOT platform where the miners are registered by their users, it's possible to create and configure events based on the sensor readings**
+* Encrypted buses, potting and other anti-tampering measures. Yes or No? **ResIOT X1 indoor miners are shipped with a built-in temperature, accelerometer and shock detection system. Thanks to the ResIOT IoT platform where the miners are registered by their users, it's possible to create and configure events based on the sensor readings**
 
 ## Hardware Information
-* Which security implementation (ECC608, TPM, TrustZone, other) are you using?  **We rely on the Optiga Trust X secure element to store private keys. The validation procedure is ongoing with dewi at the moment.** 
+* Which security implementation (ECC608, TPM, TrustZone, other) are you using?  **We rely on the Microchip ECC608B secure element to store private keys.** 
 * Which LoRa chipset are you planning to use in your gateway? **SX1303 + 2xSX1250**
-* What is the CPU? **Hexa-Core - Dual-Core 2GHz Cortex-A72 and Quad-Core 1.4GHz Cortex-A53**
+* What is the CPU? **Hexa-Core Cortex ARM, 2x A72 dual core 2Ghz + 4x A53 quad core 1.4Ghz**
 
 ## Manufacturing Information 
 * Have you built and delivered radio hardware products before? **Yes, we have extensive experience building and shipping LoRaWAN Gateways for both indoor and outdoor. We have shipped over 3.000 gateways.** 
@@ -162,7 +157,7 @@ ResIOT is more than happy to provide proof of identity to DeWi and/or Helium
 Chip shortage is an issue today, as well as the reliability of the shipping and distribution networks. LoRa modules need to be pre-ordered 10 months in advance, other components orders have to be placed months in advance and that requires some serious planning. We have a lot of experience with manufacturing our own hardware, so we don’t anticipate any other issue as we've been working with our manufacturer partners for years and we know they can deliver.
 
 ## ResIOT Helium Console
-ResIOT offers the ability to register your miners over the dedicated [ResIOT Helium Console](https://helium.resiot.io).
+ResIOT offers the ability to register your hotspots over the dedicated [ResIOT Helium Console](https://helium.resiot.io).
 <br>Miners registered over the ResIOT Helium Console have access to a range of features offered by the online platform:
 * Hardware performance monitoring
 * Geolocation monitor
@@ -170,7 +165,7 @@ ResIOT offers the ability to register your miners over the dedicated [ResIOT Hel
 * Customizable alerts whenever a gateway timeouts or is offline
 * Read and handle the miner sensor readings: ResIOT X1 is shipped with built-in temperature, accelerometer and shock sensors. Smart triggers can then be configured based on user logic rules.
 * Remotely update software on the hotspot on-demand or via scheduled tasks
-* Remotely access your gateway on-demand: this feature is optional and heavily relies on security signatures provided by the secure element used by the gateway
+* Remotely access your gateway on-demand (optional)
 <br><p align="center"><img src="./resiot/heliumconsolepreview.png" alt="ResIOT X1 Banner"/></p>
 
 ## Contact Info 

@@ -23,7 +23,7 @@ By opening up to the consumer market, we also want to open up new business areas
 | approximate price point                   | $700                                          |
 | expected production and delivery timeline | Q4/2022                                       |
 
-The QuantumLink is a Light Hotspot for outdoor use (IP65). Nevertheless, the stylish aluminum housing in light gray also makes the hotspot an eye-catcher indoors. At its core, the hotspot is based on the Raspberry Pi CM4 with at least 1 to 4GB RAM. 8 GB of flash memory are built-in. The hotspot is connected via LAN or Wifi. Via a mini PCIe slot an expansion with a 4G modem is also possible. These features make the Hotspot an ideal candidate for off-grid use. A Wi-Fi 6E card can also be installed as an alternative to the 4G modem. With this we hope to be able to support the Wifi subDAO (HIP-64) in the future.
+The QuantumLink is a Light Hotspot for outdoor use (IP65). Nevertheless, the stylish aluminum housing in light gray also makes the hotspot an eye-catcher indoors. At its core, the hotspot is based on the Raspberry Pi CM4 with at least 1 to 4 GB RAM. 8 GB of flash memory are built-in. The hotspot is connected via LAN or Wifi. Via a mini PCIe slot an expansion with a 4G modem is also possible. These features make the Hotspot an ideal candidate for off-grid use. A Wi-Fi 6E card can also be installed as an alternative to the 4G modem. With this we hope to be able to support the Wifi subDAO (HIP-64) in the future.
 The software is based on balena OS. We plan to offer a custom online dashboard that monitors the devices 24/7 and enables fleet operators to efficiently manage their fleet remotely and independently of the helium network.
 
 ## Previous shipments (required)
@@ -49,7 +49,6 @@ Even if the hotspot is once no longer supported by us, it should be easily repai
 
 
 ## Hardware Information (required) 
-![housing_front](tapdo-QuantumLink_front.webp)
 ![housing_top](tapdo-QuantumLink_top.webp)
 ![housing_bottom](tapdo-QuantumLink_bottom.webp)
 
