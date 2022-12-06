@@ -15,17 +15,16 @@ The HIP19 Program Overview can be reviewed [here.](https://heliumfoundation.noti
 
 We recommend getting into the Helium community discord as soon as possible and joining the conversations. Establishing a trusted reputation among the community is critical to your success. Manufacturers are encouraged to provide an introduction and direct interested parties to your own communication channels (e.g. company email or support). It is of the utmost importance to appropriately manage expectations on your product, the cost, and production timelines. This information should be included in your application. 
  
-## Fees in USD (updated December 2021)
+## Fees in USD (updated December 2022)
  * HIP19 proposal (administrative costs for each application review): $500
  * Helium Foundation KYC: $1500
- * Hardware Audit: if using ECC608 for security: $3000 
- * Hardware Audit: other security implementations: $4000
- * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with identical hardware layout: $500
- * Hardware Audit: additional fee for indoor and outdoor arriving at the same time with different hardware layout will require a separate hardware audit: $3000
+ * Full/Light Hardware Audit: if using ECC608 for security: $3000 
+ * Full/Light Hardware Audit: other security implementations: $4000
+ * Hardware Audit: additional fee for Full or Light indoor and outdoor arriving at the same time with identical hardware layout: $500
+ * Hardware Audit: additional fee for Full or Light indoor and outdoor arriving at the same time with different hardware layout will require a separate hardware audit: $3000
+ * 5G Hardware Audit: $8000 per model
  * Radio Certifications: additional radio certificates submitted after the initial MCC vote: $2000
- 
- Invoices will be emailed after you submit a HIP19 proposal and KYC documents, before the hardware audit. Email christina@helium.foundation if you have additional questions.
- 
+  
 ## Application Template
  Make a copy of the TEMPLATE.md file in this repository and put it in the same directory, i.e. 0019-third-party-manufacturers/name-of-your-company.md
  Fill it out; if you have questions or concerns about a particular question, ask on GitHub or on Discord. Many questions are required, and leaving blank will delay your application.
