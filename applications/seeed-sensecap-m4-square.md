@@ -122,7 +122,7 @@ N/A
 
 Yes
 
-## Hardware Information (required) Please provide detailed hardware designs, including relevant parts.
+## Hardware Information (required)
 
 <img src="./seeed/sensecap-m4-square_pic-7.jpg" width="50%">
 
