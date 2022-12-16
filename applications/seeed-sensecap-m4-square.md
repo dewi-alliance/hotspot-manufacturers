@@ -80,7 +80,7 @@ N/A
 
 ## Which countries do you plan to ship to and get regulatory certifications for? (required) 
 
-FCC, ECC.
+FCC, CE.
 
 ## Customer Support (required)
 
