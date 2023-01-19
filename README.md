@@ -2,13 +2,13 @@
 
 Hub for Helium hotspot manufacturer applications and the Manufacturer Compliance Committee (MCC).
 
-For details on the manufacturer approval process, please see [HIP19: Approval Process For Third-Party Manufacturers.](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
+For details on HIP19, please see [HIP19: Approval Process For Third-Party Manufacturers.](https://github.com/helium/HIP/blob/master/0019-third-party-manufacturers.md)
 
 For a detailed walkthrough of how to submit your own application, please see [How to submit a Helium hotspot manufacturer application.](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/)
 
 # Please use this [template](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/template.md) to make your proposal. Fork the template and edit it, please do not edit the template directly. 
 
-The status of manufacturers in this progress can be [viewed here.](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
+The status of manufacturers in this progress can be [viewed here.](https://heliumfoundation.notion.site/5027c96f01b04dbaa7db252488d503ec?v=a75c9b89053a4677974a6b95df62c0e2)
 
 # Step by step how-to 
 The HIP19 Program Overview can be reviewed [here.](https://heliumfoundation.notion.site/HIP19-Program-a43eee37bf0e473981147ab1f64ec383) 
@@ -32,7 +32,7 @@ We recommend getting into the Helium community discord as soon as possible and j
  There is a step-by-step guide [here](https://jamiedubs.com/blog/how-to-submit-helium-manufacturer-application/).
  
 ## Send Hotspot for Hardware Audit 
- * The fee for hardware audits is between $3000 and $4000 USD depending on the security implementation.
+ * The fee for hardware audits is between $3000 and $8000 USD depending on the model and security implementation.
  * At a high level, the hardware audit includes the verification of: security methods, radio configurations, and the integration of Helium software, such as the Miner or the Light Gateway application.
  * The publicly available hardware audit procedure is available at [this link.](https://heliumfoundation.notion.site/Hardware-Audit-PDF-Requirements-136fe35b6f30492c874bd417d2a22b37) Please be sure to review this link as it tends to answer many of the auditing questions that we receive.
 
@@ -49,7 +49,7 @@ We recommend getting into the Helium community discord as soon as possible and j
  Provide certification for the geography where you plan to take orders.
  
 ## Manufacturing Compliance Committee Approval
- This is the final step before the Helium Foundation provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
+ This is the final step before the Manufacturing Compliance Committee provides its ‘stamp of approval’ ahead of a manufacturer taking pre-orders. 
  We complete this step for full transparency.
  If you’ve completed all the above steps and been available in the community discord chat to answer questions, you should have no concerns about receiving MCC approval. 
 
