@@ -8,7 +8,9 @@ For a detailed walkthrough of how to submit your own application, please see [Ho
 
 # Please use this [template](https://github.com/dewi-alliance/hotspot-manufacturers/blob/main/template.md) to make your proposal. Fork the template and edit it, please do not edit the template directly. 
 
-The status of manufacturers in this progress can be [viewed here.](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing)
+The status of manufacturers in this progress can be [viewed here.](https://heliumfoundation.notion.site/5027c96f01b04dbaa7db252488d503ec?v=a75c9b89053a4677974a6b95df62c0e2)
+
+The previous Google sheets based tracker is now no longer used but an archived version can be found [here](https://docs.google.com/spreadsheets/d/1pOmrMV_oiF0FtR1NOX_pqykKOBsb_QghiNkTlF644DU/edit?usp=sharing).
 
 # Step by step how-to 
 The HIP19 Program Overview can be reviewed [here.](https://heliumfoundation.notion.site/HIP19-Program-a43eee37bf0e473981147ab1f64ec383) 
