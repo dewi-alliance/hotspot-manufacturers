@@ -42,7 +42,7 @@ SenseCAP M4 Square
 
 * Is this is a Light Hotspot or a 5G Hotspot? (New applications should be for Light Hotspots or 5G Hotspots)
 
-Both.
+Light Hotspots.
 
 * Is this model for indoor, outdoor, or both? (If there are two different models for indoor and outdoor, list them separately.)
 
