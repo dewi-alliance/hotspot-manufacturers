@@ -22,7 +22,7 @@ Application to become an approved third-party manufacturer as per HIP19. The sub
 * What is your approximate price point? 
 * What is your expected production and delivery timeline? 
 
-## Previous shipments (required)
+## Previous Shipments (required)
 (If you're a startup, please include detailed information about your team's previous experience or information about company partners.)
 * Have you shipped anything in the past? 
 * What types of products have you shipped?
