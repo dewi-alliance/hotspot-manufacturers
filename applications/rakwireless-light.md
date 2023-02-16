@@ -110,15 +110,16 @@ As we are a multinational team, we are able to provide 24/7 support via various 
 
 - Encrypted/locked-down firmware. Yes or No?
 
-  Yes
+  Firmware is locked down with no SSH access and it runs from the internal NOR flash. Firmware updates will require a valid signature. 
 
 - Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
 
-  Yes
+  Yes, key is stored on the ECC608 secure element
 
 - Encrypted buses, potting and other anti-tampering measures. Yes or No? (Please note, the final design will be audited against this statement. Do not answer 'yes' unless the design will have these features and a description of where they are implemented can be provided.)
 
-  Yes
+  No, the only anti-tampering measure related to the secure element is that it’s soldered on the main circuit board
+
 
 - Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
 
