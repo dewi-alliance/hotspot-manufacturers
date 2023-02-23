@@ -6,7 +6,7 @@ Summary
 
 Company Information (required)
 - What is your company name?
-  --RiSingHF
+  --RisingHF
 - How long have you been in business? 
   --Seven years
 - What kind of products have you created? 
@@ -24,14 +24,14 @@ Product Information (required)
 - Is it for indoor or outdoor?
   --Indoor
 - Provide a brief description of what you're making. 
-  --RHF2S027 is an industrial-grade LoRaWAN gateway series carefully built by RiSingHF with support for half-duplex mode. Embedded Linux operating system and the main control chip are the powerful STM32MP151A platform, with a main frequency of up to 650MHz. Built-in Semtech high-performance multi-channel LoRa transceiver SX1302. This gateway can be connected to the LoRaWAN cloud server through the Ethernet network. The internal GPS module can provide high-precision PPS signals for
+  --RHF2S027 is an industrial-grade LoRaWAN gateway series carefully built by RisingHF with support for half-duplex mode. Embedded Linux operating system and the main control chip are the powerful STM32MP151A platform, with a main frequency of up to 650MHz. Built-in Semtech high-performance multi-channel LoRa transceiver SX1302. This gateway can be connected to the LoRaWAN cloud server through the Ethernet network. The internal GPS module can provide high-precision PPS signals for
   Device clock synchronization and geographic location acquisition.
   This gateway is embedded with a web configuration client, which can be connected to the gateway through wifi to realize rapid configuration and maintenance, which is convenient for on-site installation and fault diagnosis. This gateway supports USB adapter power supply, simple and convenient.
 
 What is your approximate price point? (required)
 Estimated 300$ -- 350$
 
-Please provide detailed hardware designs, including relevant parts (required)--
+Please provide detailed hardware designs, including relevant parts (required)
 Maximum output power: 22dBm
 High receiving sensitivity: -140dBm@300bps
 Standard 8 channels: 8 multi-rate LoRa channels (SF7 to SF12, 125kHz), 1 independent LoRa high-rate channel and 1 GFSK channel
@@ -46,7 +46,7 @@ Provide serial port debugging
 RHF2S027 uses a self-developed application to remotely upgrade the device, and set up and configure wifi through local software web interface
 
 What is your expected production and delivery timeline? (required)
---Our delivery time can be March 2022 once getting HW audit certificate.
+Our delivery time can be March 2022 once getting HW audit certificate.
 
 Previous shipments (required)
 We shipped our outdoor HNT gateway to Europe, North America, China area previously.
@@ -68,13 +68,13 @@ Customer Support (required)
 Hardware Security Element (required)
 - The community is concerned about devices that can be easily hacked, specifically by copying their swarm_key files. Applications should include plan for how the devices will be secured, potentially including:
 - Are you using an ECC608. Yes or no? 
-  -- Yes
+  -- Yes, we use ECC608 to encrypt swarm_key to ensure it cannot be copied by hackers.
 - Encrypted/locked-down firmware. Yes or no? 
-  --Yes
+  -- Yes, all debugging (including serial port and SSH) interfaces of the device are closed by default. The TLS encryption protocol is used to interact with the server during the device firmware upgrade process, and the integrity of the firmware is verified to ensure that the firmware is not modified by hackers during the upgrade process.
 - Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
-  -- Yes
+  -- Yes, we use ECC608 encryption chip to encrypt and store miner swarm_key.
 - Encrypted buses, potting and other anti-tampering measures. Yes or No?
-  --- Yes
+  --- Yes, we turned off all debug interfaces, and the root password was different for all devices. By restricting the interface and verifying the two methods, it is possible to prevent hackers from logging in to the command terminal to tamper with the firmware and swarm_key.
 - Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
   --Yes
 
@@ -98,7 +98,7 @@ Manufacturing Information (required)
 - How many gateways did you make? 
   --10k per year
 - If you have not built gateways before, are you using a third party manufacturer? This is the single largest risk with most hardware ventures. If possible please provide information about your manufacturing partners and supply chain.
-  ---We manufacture by RiSingHF ourself
+  ---We manufacture by RisingHF ourself
 
 Proof of Identity
 Ready to provide any required information to DeWi 
