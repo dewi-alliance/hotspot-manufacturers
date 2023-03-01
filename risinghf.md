@@ -74,7 +74,7 @@ Hardware Security Element (required)
 - Encrypted storage of the miner swarm_key, either via disk encryption or hardware measures. Yes or No?
   -- Yes, we use ECC608 encryption chip to encrypt and store miner swarm_key.
 - Encrypted buses, potting and other anti-tampering measures. Yes or No?
-  --- Yes, we turned off all debug interfaces, and the root password was different for all devices. By restricting the interface and verifying the two methods, it is possible to prevent hackers from logging in to the command terminal to tamper with the firmware and swarm_key.
+  --- Yes, we turned off all debug interfaces, and the root password was different for all devices. Generating the root password requires the Ethernet address as a key to generate a unique password, and the tool for generating the password can only be used by the administrator of our miner device management platform, so it is safe and reliable. By restricting the interface and verifying the two methods, it is possible to prevent hackers from logging in to the command terminal to tamper with the firmware and swarm_key.
 - Willingness to submit a prototype for audit, and sharing those audit results publicly (pass or fail) Yes or No?
   --Yes
 
