@@ -1,6 +1,6 @@
 # BeeMobile
 
-### HIP19 Application For Third Party Manufacturer
+### HIP19 Application For Third Party Manufacturer of Light Hotspot
 
 ## Summary
 
@@ -26,17 +26,6 @@ We plan to provide two types of products: indoor LoRa light hotspot and indoor 5
 * Voltage DC 12V
 * Comes in IP30 case, size: 141 * 141 * 47mm
 
-**5G CBRS Hotspot Features:**
-
-* Quad-core Atom x6413e 3.0GHz CPU with 64GB SSD and 4GB DDR4 RAM
-* TPM 2.0 for swarm keys storage
-* Concentrator based on the Semtech SX1302/1303+SX1250 with ADR
-* Frequency band: 470MHz/868MHz/915MHz/923MHz and other
-* Coverage radius: 3km in city, 5km in rural area
-* Ethernet Connectivity
-* Voltage DC 12V
-* Comes in IP30 case, size: 240 * 211 * 52mm, fanless
-
 ## Which countries do you plan to ship to and get regulatory certifications for?
 
 Our mission is to light up the world with initial delivery to the United States, Canada, Europe and Southeast Asia. Certifications application is in process.
@@ -54,20 +43,6 @@ BeeMobile can provide customer support via:
 ## Hardware Security ##
 
 For LoRa light hotspot, currently we use ATECC608 encryption chip for swarm key storage, and key is securely provisioned during manufacturing.
-
-For 5G CBRS hotspot, we use TPM 2.0, and key is securely provisioned during manufacturing. TPM is the common, broadly used standard for storing security keys in x86 based hardware, and we'd like to extend security options for Helium ecosystem.
-
-##### What is the key's security model?
-
-We use NPCT750 from Nuvoton.
-
-##### How/where is the key generated?
-
-Key is generated inside the TPM chip using Fapi_CreateKey command (refer to FAPI spec). Then it's encrypted with Primary TPM key which is unique for each TMP and is regenerated each time you reset the TPM chip. Then this encrypted blob is stored on external media. It is then possible to use generated key only inside this TPM module. Prior to use TPM loads it inside itself and decrypts. Decrypted key never leaves TPM chip.
-
-##### What guarantees do we have about the key being extracted?
-
-Primary key is unique for each TPM module, making it impossible to use blob with key on any other TPM module. The very purpose of TPM chip is to provide hardware based mechanism for securely storing the keys inside of the chip without the possibility of extraction. Impossibility of extraction is guaranteed by TPM spec. However user can either reset the whole TPM chip effectively erasing all the keys or remove individual keys using TPM commands directly.
 
 ## Manufacturing Information ##
 
