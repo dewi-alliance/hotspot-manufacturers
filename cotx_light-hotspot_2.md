@@ -42,7 +42,14 @@ Like our Smart LoRa Gateways, Helium Hotspot X1 hotspot features:
 ## What is your approximate price point? 
 Our light Hotspot X1 price range is between 189$-259$ according to the order quantity.
 ## Please provide detailed hardware designs, including relevant parts
-Evidence of a functioning prototype - photos, videos. Renderings are OK but physical prototypes are much, much better. Your plan for software setup and configuration for the devices. This would presumably include remote updates and the ability for hosts to change wifi settings, via Helium's official app or otherwise.
+The steps to setup COTX X1:
+-Discover X1's IP address used by using its MAC address from the Wifi router
+-Enter X1's IP address in a web browser on a computer to open X1's web management page
+-Generate an HNT (Helium Network Token) wallet using the Helium App
+-Enter the HNT wallet address in X1's web management page to generate a QR code
+-Install the COTX App on a mobile phone, scan the QR code, and onboard the X1 device to the Helium network.
+X1 Product Photos, https://cotx-store.com/collections/hotspots/products/cotx-light-hotspot-cotx-x1
+You can find X1 photos on this page.
 
 ## What is your expected production and delivery timeline?
 Lead time for bulk order will be 6-8weeks.
