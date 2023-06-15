@@ -77,7 +77,7 @@ Who will develop the Hotspot onboarding and management app? Will it be an intern
 
 ## Payment methods available (required)
 
-## Contact Information 
+## Contact Information (required)
 <b>If you do not provide contact information and/or if the company website does not work, we will not review your proposal and the HIP19 application will be automatically denied. Denied HIP19 applications can re-apply in six months.</b>
 * Contact Email (a company email is required) -
 * Company Website (required) -
